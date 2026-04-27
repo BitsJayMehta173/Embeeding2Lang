@@ -130,12 +130,14 @@ Table \ref{tab:latency} summarizes the computational benchmark executed on a 100
 \centering
 \caption{Comprehensive Inference Benchmark (CPU)}
 \label{tab:latency}
-\begin{tabular}{@{}lccc@{}}
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{@{}l c c c@{}}
 \toprule
-\textbf{Model} & \textbf{Model Size} & \textbf{Sentence Latency} & \textbf{Valid / Invalid Caught} \\ \midrule
-mBERT & $\sim$714.0 MB & $\sim$104.11 ms & 31 / 32 \\
-\textbf{H5 (Ours)} & \textbf{8.1 MB} & \textbf{$\sim$1.32 ms} & \textbf{24 / 21} \\ \bottomrule
-\end{tabular}
+\textbf{Model} & \textbf{Size} & \textbf{Latency} & \textbf{Valid / Invalid Caught} \\ \midrule
+mBERT & $\sim$714 MB & $\sim$104.1 ms & 31 / 32 \\
+\textbf{H5 (Ours)} & \textbf{8.1 MB} & \textbf{$\sim$1.3 ms} & \textbf{24 / 21} \\ \bottomrule
+\end{tabular}%
+}
 \end{table}
 
 Our methodology demonstrates a \textbf{79x speedup} for full sentence validations, completing execution in $1.32$ ms compared to mBERT's $104.11$ ms. While trading off absolute accuracy (catching 21 out of 50 hallucinations versus mBERT's 32), the $8.1$ MB footprint easily fits into the L3 cache of modern mobile processors and occupies negligible ROM on IoT devices, proving its worth for zero-latency environments.

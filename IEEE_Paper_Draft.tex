@@ -13,6 +13,8 @@
 \usepackage{url}
 \usepackage{float}
 \usepackage{multirow}
+\usepackage{fontspec}
+\newfontfamily\hindifont{FreeSerif}[Script=Devanagari]
 
 % IEEE format adjustments for readability
 \hypersetup{
@@ -144,7 +146,7 @@ The guardrail successfully discriminates between valid and invalid semantic shif
 \vspace{0.2cm}
 \noindent \textbf{Case 1: Valid Translation} \\
 \textit{English:} "the fast runner won the race with great speed" \\
-\textit{Hindi:} "तेज धावक ने बहुत तेजी से दौड़ जीती" \\
+\textit{Hindi:} "\hindifont{तेज धावक ने बहुत तेजी से दौड़ जीती}" \\
 \textit{Trace:}
 \begin{itemize}
     \item System calculates EN fingerprint: 0.5204
@@ -156,7 +158,7 @@ The guardrail successfully discriminates between valid and invalid semantic shif
 \vspace{0.2cm}
 \noindent \textbf{Case 2: Semantic Hallucination (Mismatch)} \\
 \textit{English:} "the doctor carefully treats the sick patient" \\
-\textit{Hindi:} "खिलाड़ी मैदान में तेज दौड़ता है" (Player running fast on the field) \\
+\textit{Hindi:} "\hindifont{खिलाड़ी मैदान में तेज दौड़ता है}" (Player running fast on the field) \\
 \textit{Trace:}
 \begin{itemize}
     \item System calculates EN fingerprint: 0.4165

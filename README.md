@@ -188,6 +188,23 @@ The KDE plots show how well each model separates synonym pairs (blue) from rando
 
 ---
 
+## Limitations & Scientific Findings (Debiased Evaluation)
+
+While the CP-CLE alignment produces an ultra-fast (1ms) semantic guardrail that performs exceptionally well on the dictionary vocabulary it was trained on (Separation Gap: 0.303), **rigorous debiased evaluation reveals a strong limitation: catastrophic overfitting to the alignment dictionary.**
+
+When we held out words entirely from the training phase and evaluated the model on **unseen Hindi words**, performance collapsed:
+
+| Model | Separation Gap | Accuracy | F1 Score | What this model is |
+|-------|:--------------:|:--------:|:--------:|--------------------|
+| **cc.hi.300** | 0.599 | 100.0% | 1.000 | The Facebook 300-dim reference model |
+| **H2 (Native)** | 0.375 | 94.7% | 0.571 | Standard FastText trained on our 335k corpus |
+| **H4 (CP-CLE)** | **0.063** | **58.2%** | **0.184** | Our proposed aligned guardrail model |
+
+### The Conclusion
+Our method (Pseudo-Context Corpus + CP-CLE Alignment) successfully aligns discrete dictionary points into the GloVe space, creating a highly efficient bilingual validator for *in-vocabulary* terms. However, it fails to generalize to zero-shot, unseen Hindi terms. The manifold alignment is highly localized to the dictionary vocabulary used during training. Future work must explore non-linear mapping (e.g., GANs or deeper MLPs) to align the entire continuous manifold rather than just the discrete dictionary points.
+
+---
+
 ## Design Decisions
 
 - **FastText over Word2Vec**: Handles morphologically rich Hindi via subword character n-grams, giving coverage even for inflected/compound words not seen during training.

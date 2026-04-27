@@ -1,0 +1,10502 @@
+[
+  {
+    "type": "positive",
+    "en1": "was",
+    "en2": "equal",
+    "hi1": "थी",
+    "hi2": "बराबर"
+  },
+  {
+    "type": "positive",
+    "en1": "not",
+    "en2": "non",
+    "hi1": "नहीं",
+    "hi2": "गैर"
+  },
+  {
+    "type": "positive",
+    "en1": "are",
+    "en2": "equal",
+    "hi1": "हैं",
+    "hi2": "बराबर"
+  },
+  {
+    "type": "positive",
+    "en1": "talk",
+    "en2": "sing",
+    "hi1": "बात",
+    "hi2": "गाओ"
+  },
+  {
+    "type": "positive",
+    "en1": "also",
+    "en2": "too",
+    "hi1": "भी",
+    "hi2": "too"
+  },
+  {
+    "type": "positive",
+    "en1": "has",
+    "en2": "receive",
+    "hi1": "रै",
+    "hi2": "प्राप्त"
+  },
+  {
+    "type": "positive",
+    "en1": "were",
+    "en2": "equal",
+    "hi1": "यहूद",
+    "hi2": "बराबर"
+  },
+  {
+    "type": "positive",
+    "en1": "but",
+    "en2": "simply",
+    "hi1": "लकिन",
+    "hi2": "बस"
+  },
+  {
+    "type": "positive",
+    "en1": "one",
+    "en2": "ace",
+    "hi1": "एक",
+    "hi2": "इक्का"
+  },
+  {
+    "type": "positive",
+    "en1": "new",
+    "en2": "fresh",
+    "hi1": "नई",
+    "hi2": "भैस"
+  },
+  {
+    "type": "positive",
+    "en1": "first",
+    "en2": "beginning",
+    "hi1": "पहला",
+    "hi2": "शुरूआत"
+  },
+  {
+    "type": "positive",
+    "en1": "had",
+    "en2": "receive",
+    "hi1": "था",
+    "hi2": "प्राप्त"
+  },
+  {
+    "type": "positive",
+    "en1": "all",
+    "en2": "whole",
+    "hi1": "सब",
+    "hi2": "पूरे"
+  },
+  {
+    "type": "positive",
+    "en1": "been",
+    "en2": "equal",
+    "hi1": "महरूम",
+    "hi2": "बराबर"
+  },
+  {
+    "type": "positive",
+    "en1": "made",
+    "en2": "score",
+    "hi1": "बना",
+    "hi2": "स्कोर"
+  },
+  {
+    "type": "positive",
+    "en1": "people",
+    "en2": "mass",
+    "hi1": "लोगों",
+    "hi2": "द्रव्यमान"
+  },
+  {
+    "type": "positive",
+    "en1": "other",
+    "en2": "former",
+    "hi1": "अन्य",
+    "hi2": "पूर्व"
+  },
+  {
+    "type": "positive",
+    "en1": "score",
+    "en2": "grade",
+    "hi1": "स्कोर",
+    "hi2": "ग्रेड"
+  },
+  {
+    "type": "positive",
+    "en1": "about",
+    "en2": "some",
+    "hi1": "परिचय",
+    "hi2": "कुछ"
+  },
+  {
+    "type": "positive",
+    "en1": "time",
+    "en2": "metre",
+    "hi1": "समय",
+    "hi2": "मीटर"
+  },
+  {
+    "type": "positive",
+    "en1": "team",
+    "en2": "squad",
+    "hi1": "टोली",
+    "hi2": "स्क्वाड"
+  },
+  {
+    "type": "positive",
+    "en1": "discussion",
+    "en2": "discourse",
+    "hi1": "चर्चा",
+    "hi2": "प्रवचन"
+  },
+  {
+    "type": "positive",
+    "en1": "links",
+    "en2": "associate",
+    "hi1": "कड़ी",
+    "hi2": "संबद्ध"
+  },
+  {
+    "type": "positive",
+    "en1": "only",
+    "en2": "sole",
+    "hi1": "तभी",
+    "hi2": "एकमात्र"
+  },
+  {
+    "type": "positive",
+    "en1": "some",
+    "en2": "approximately",
+    "hi1": "कुछ",
+    "hi2": "लगभग"
+  },
+  {
+    "type": "positive",
+    "en1": "see",
+    "en2": "picture",
+    "hi1": "देखिए",
+    "hi2": "चित्र"
+  },
+  {
+    "type": "positive",
+    "en1": "united",
+    "en2": "merge",
+    "hi1": "संयुक्त",
+    "hi2": "विलय"
+  },
+  {
+    "type": "positive",
+    "en1": "years",
+    "en2": "age",
+    "hi1": "सालो",
+    "hi2": "आयु"
+  },
+  {
+    "type": "positive",
+    "en1": "school",
+    "en2": "train",
+    "hi1": "स्कूल",
+    "hi2": "ट्रैन"
+  },
+  {
+    "type": "positive",
+    "en1": "world",
+    "en2": "humanity",
+    "hi1": "संसार",
+    "hi2": "मानवता"
+  },
+  {
+    "type": "positive",
+    "en1": "out",
+    "en2": "stunned",
+    "hi1": "आउट",
+    "hi2": "दंग"
+  },
+  {
+    "type": "positive",
+    "en1": "state",
+    "en2": "nation",
+    "hi1": "राज्य",
+    "hi2": "स्वदेश"
+  },
+  {
+    "type": "positive",
+    "en1": "states",
+    "en2": "nation",
+    "hi1": "राज्य",
+    "hi2": "स्वदेश"
+  },
+  {
+    "type": "positive",
+    "en1": "national",
+    "en2": "subject",
+    "hi1": "नेशनल",
+    "hi2": "विषय"
+  },
+  {
+    "type": "positive",
+    "en1": "year",
+    "en2": "class",
+    "hi1": "साल",
+    "hi2": "क्लास"
+  },
+  {
+    "type": "positive",
+    "en1": "most",
+    "en2": "almost",
+    "hi1": "सबसे",
+    "hi2": "लगभग"
+  },
+  {
+    "type": "positive",
+    "en1": "used",
+    "en2": "use",
+    "hi1": "प्रयुक्त",
+    "hi2": "उपयोग"
+  },
+  {
+    "type": "positive",
+    "en1": "external",
+    "en2": "international",
+    "hi1": "बाह्य",
+    "hi2": "अंतरराष्ट्रीय"
+  },
+  {
+    "type": "positive",
+    "en1": "will",
+    "en2": "leave",
+    "hi1": "होगा",
+    "hi2": "छोड़"
+  },
+  {
+    "type": "positive",
+    "en1": "delete",
+    "en2": "edit",
+    "hi1": "हटाएँ",
+    "hi2": "संपादन"
+  },
+  {
+    "type": "positive",
+    "en1": "january",
+    "en2": "jan",
+    "hi1": "जनवरी",
+    "hi2": "जन"
+  },
+  {
+    "type": "positive",
+    "en1": "march",
+    "en2": "exhibit",
+    "hi1": "कूच",
+    "hi2": "प्रदर्शनी"
+  },
+  {
+    "type": "positive",
+    "en1": "august",
+    "en2": "grand",
+    "hi1": "अगस्त",
+    "hi2": "ग्रैंड"
+  },
+  {
+    "type": "positive",
+    "en1": "being",
+    "en2": "equal",
+    "hi1": "होने",
+    "hi2": "बराबर"
+  },
+  {
+    "type": "positive",
+    "en1": "film",
+    "en2": "take",
+    "hi1": "फिल्मी",
+    "hi2": "लो"
+  },
+  {
+    "type": "positive",
+    "en1": "september",
+    "en2": "sep",
+    "hi1": "सितंबर",
+    "hi2": "सितम्बर"
+  },
+  {
+    "type": "positive",
+    "en1": "like",
+    "en2": "wish",
+    "hi1": "जैसे",
+    "hi2": "काश"
+  },
+  {
+    "type": "positive",
+    "en1": "three",
+    "en2": "threesome",
+    "hi1": "तीन",
+    "hi2": "त्रिगुट"
+  },
+  {
+    "type": "positive",
+    "en1": "well",
+    "en2": "good",
+    "hi1": "खूब",
+    "hi2": "शुभ"
+  },
+  {
+    "type": "positive",
+    "en1": "use",
+    "en2": "consumption",
+    "hi1": "उपयोग",
+    "hi2": "खपत"
+  },
+  {
+    "type": "positive",
+    "en1": "under",
+    "en2": "below",
+    "hi1": "अंतर्गत",
+    "hi2": "नीचे"
+  },
+  {
+    "type": "positive",
+    "en1": "april",
+    "en2": "apr",
+    "hi1": "अप्रैल",
+    "hi2": "अप्रेल"
+  },
+  {
+    "type": "positive",
+    "en1": "born",
+    "en2": "pay",
+    "hi1": "born",
+    "hi2": "अदा"
+  },
+  {
+    "type": "positive",
+    "en1": "link",
+    "en2": "associate",
+    "hi1": "कड़ी",
+    "hi2": "संबद्ध"
+  },
+  {
+    "type": "positive",
+    "en1": "while",
+    "en2": "spell",
+    "hi1": "जबकि",
+    "hi2": "वर्तनी"
+  },
+  {
+    "type": "positive",
+    "en1": "later",
+    "en2": "tardy",
+    "hi1": "बाद",
+    "hi2": "सुस्त"
+  },
+  {
+    "type": "positive",
+    "en1": "part",
+    "en2": "voice",
+    "hi1": "भाग",
+    "hi2": "आवाज़"
+  },
+  {
+    "type": "positive",
+    "en1": "players",
+    "en2": "actor",
+    "hi1": "खिलाड़ी",
+    "hi2": "कर्ता"
+  },
+  {
+    "type": "positive",
+    "en1": "list",
+    "en2": "name",
+    "hi1": "सूची",
+    "hi2": "नाम"
+  },
+  {
+    "type": "positive",
+    "en1": "february",
+    "en2": "feb",
+    "hi1": "फ़रवरी",
+    "hi2": "फर"
+  },
+  {
+    "type": "positive",
+    "en1": "known",
+    "en2": "screw",
+    "hi1": "ज्ञात",
+    "hi2": "स्क्रू"
+  },
+  {
+    "type": "positive",
+    "en1": "second",
+    "en2": "instant",
+    "hi1": "दूसरी",
+    "hi2": "तत्काल"
+  },
+  {
+    "type": "positive",
+    "en1": "name",
+    "en2": "key",
+    "hi1": "नाम",
+    "hi2": "कुंजी"
+  },
+  {
+    "type": "positive",
+    "en1": "group",
+    "en2": "grouping",
+    "hi1": "समूह",
+    "hi2": "समूहीकरण"
+  },
+  {
+    "type": "positive",
+    "en1": "history",
+    "en2": "chronicle",
+    "hi1": "इतिहास",
+    "hi2": "वृत्तान्त"
+  },
+  {
+    "type": "positive",
+    "en1": "series",
+    "en2": "serial",
+    "hi1": "श्रेणी",
+    "hi2": "सीरियल"
+  },
+  {
+    "type": "positive",
+    "en1": "just",
+    "en2": "good",
+    "hi1": "बस",
+    "hi2": "शुभ"
+  },
+  {
+    "type": "positive",
+    "en1": "north",
+    "en2": "union",
+    "hi1": "उत्तर",
+    "hi2": "संघ"
+  },
+  {
+    "type": "positive",
+    "en1": "work",
+    "en2": "sour",
+    "hi1": "कार्य",
+    "hi2": "खट्टा"
+  },
+  {
+    "type": "positive",
+    "en1": "season",
+    "en2": "flavor",
+    "hi1": "ऋतु",
+    "hi2": "स्वाद"
+  },
+  {
+    "type": "positive",
+    "en1": "high",
+    "en2": "heights",
+    "hi1": "ऊँची",
+    "hi2": "हाइट्स"
+  },
+  {
+    "type": "positive",
+    "en1": "district",
+    "en2": "dominion",
+    "hi1": "ज़िला",
+    "hi2": "डोमिनियन"
+  },
+  {
+    "type": "positive",
+    "en1": "now",
+    "en2": "instantly",
+    "hi1": "अभी",
+    "hi2": "तुरन्त"
+  },
+  {
+    "type": "positive",
+    "en1": "comments",
+    "en2": "notice",
+    "hi1": "टिप्पणी",
+    "hi2": "सूचना"
+  },
+  {
+    "type": "positive",
+    "en1": "music",
+    "en2": "medicine",
+    "hi1": "म्यूज़िक",
+    "hi2": "आयुर्विज्ञान"
+  },
+  {
+    "type": "positive",
+    "en1": "century",
+    "en2": "hundred",
+    "hi1": "सदी",
+    "hi2": "सौ"
+  },
+  {
+    "type": "positive",
+    "en1": "league",
+    "en2": "conference",
+    "hi1": "लीग",
+    "hi2": "सम्मेलन"
+  },
+  {
+    "type": "positive",
+    "en1": "edits",
+    "en2": "cut",
+    "hi1": "संपादन",
+    "hi2": "काटें"
+  },
+  {
+    "type": "positive",
+    "en1": "debate",
+    "en2": "argument",
+    "hi1": "बहस",
+    "hi2": "तर्क"
+  },
+  {
+    "type": "positive",
+    "en1": "title",
+    "en2": "style",
+    "hi1": "शीर्षक",
+    "hi2": "स्टाइल"
+  },
+  {
+    "type": "positive",
+    "en1": "john",
+    "en2": "bathroom",
+    "hi1": "जॉन",
+    "hi2": "बाथरूम"
+  },
+  {
+    "type": "positive",
+    "en1": "same",
+    "en2": "like",
+    "hi1": "वही",
+    "hi2": "जैसे"
+  },
+  {
+    "type": "positive",
+    "en1": "including",
+    "en2": "include",
+    "hi1": "सहित",
+    "hi2": "शामिल"
+  },
+  {
+    "type": "positive",
+    "en1": "english",
+    "en2": "side",
+    "hi1": "अंग्रेज़ी",
+    "hi2": "पक्ष"
+  },
+  {
+    "type": "positive",
+    "en1": "number",
+    "en2": "routine",
+    "hi1": "क्रमांक",
+    "hi2": "दिनचर्या"
+  },
+  {
+    "type": "positive",
+    "en1": "family",
+    "en2": "class",
+    "hi1": "परिवार",
+    "hi2": "क्लास"
+  },
+  {
+    "type": "positive",
+    "en1": "based",
+    "en2": "ground",
+    "hi1": "आधारित",
+    "hi2": "मैदान"
+  },
+  {
+    "type": "positive",
+    "en1": "area",
+    "en2": "country",
+    "hi1": "क्षेत्रफल",
+    "hi2": "देश"
+  },
+  {
+    "type": "positive",
+    "en1": "life",
+    "en2": "animation",
+    "hi1": "जीवन",
+    "hi2": "एनिमेशन"
+  },
+  {
+    "type": "positive",
+    "en1": "international",
+    "en2": "external",
+    "hi1": "अंतरराष्ट्रीय",
+    "hi2": "बाह्य"
+  },
+  {
+    "type": "positive",
+    "en1": "game",
+    "en2": "plot",
+    "hi1": "खेल",
+    "hi2": "प्लाट"
+  },
+  {
+    "type": "positive",
+    "en1": "club",
+    "en2": "guild",
+    "hi1": "क्लबों",
+    "hi2": "गिल्ड"
+  },
+  {
+    "type": "positive",
+    "en1": "early",
+    "en2": "other",
+    "hi1": "जल्दी",
+    "hi2": "अन्य"
+  },
+  {
+    "type": "positive",
+    "en1": "best",
+    "en2": "trump",
+    "hi1": "बेहतरीन",
+    "hi2": "ट्रम्प"
+  },
+  {
+    "type": "positive",
+    "en1": "house",
+    "en2": "sign",
+    "hi1": "हाउस",
+    "hi2": "चिह्न"
+  },
+  {
+    "type": "positive",
+    "en1": "company",
+    "en2": "fellowship",
+    "hi1": "कम्पनी",
+    "hi2": "फेलोशिप"
+  },
+  {
+    "type": "positive",
+    "en1": "general",
+    "en2": "worldwide",
+    "hi1": "सामान्य",
+    "hi2": "विश्वव्यापी"
+  },
+  {
+    "type": "positive",
+    "en1": "left",
+    "en2": "leave",
+    "hi1": "बाएँ",
+    "hi2": "छोड़"
+  },
+  {
+    "type": "positive",
+    "en1": "very",
+    "en2": "real",
+    "hi1": "बहुत",
+    "hi2": "रियल"
+  },
+  {
+    "type": "positive",
+    "en1": "don",
+    "en2": "father",
+    "hi1": "डॉन",
+    "hi2": "पिता"
+  },
+  {
+    "type": "positive",
+    "en1": "living",
+    "en2": "last",
+    "hi1": "जीना",
+    "hi2": "पिछला"
+  },
+  {
+    "type": "positive",
+    "en1": "several",
+    "en2": "various",
+    "hi1": "अनेक",
+    "hi2": "विभिन्न"
+  },
+  {
+    "type": "positive",
+    "en1": "place",
+    "en2": "rank",
+    "hi1": "प्लेस",
+    "hi2": "रैंक"
+  },
+  {
+    "type": "positive",
+    "en1": "party",
+    "en2": "company",
+    "hi1": "पार्टी",
+    "hi2": "कम्पनी"
+  },
+  {
+    "type": "positive",
+    "en1": "result",
+    "en2": "outcome",
+    "hi1": "परिणाम",
+    "hi2": "निष्कर्ष"
+  },
+  {
+    "type": "positive",
+    "en1": "keep",
+    "en2": "livelihood",
+    "hi1": "रखना",
+    "hi2": "आजीविका"
+  },
+  {
+    "type": "positive",
+    "en1": "appropriate",
+    "en2": "conquer",
+    "hi1": "उचित",
+    "hi2": "जीतें"
+  },
+  {
+    "type": "positive",
+    "en1": "four",
+    "en2": "quaternary",
+    "hi1": "चार",
+    "hi2": "quaternary"
+  },
+  {
+    "type": "positive",
+    "en1": "even",
+    "en2": "evening",
+    "hi1": "भी",
+    "hi2": "संध्या"
+  },
+  {
+    "type": "positive",
+    "en1": "class",
+    "en2": "grade",
+    "hi1": "क्लास",
+    "hi2": "ग्रेड"
+  },
+  {
+    "type": "positive",
+    "en1": "government",
+    "en2": "authorities",
+    "hi1": "सरकारी",
+    "hi2": "अधिकारियों"
+  },
+  {
+    "type": "positive",
+    "en1": "called",
+    "en2": "cry",
+    "hi1": "पुकारा",
+    "hi2": "क्राई"
+  },
+  {
+    "type": "positive",
+    "en1": "did",
+    "en2": "dress",
+    "hi1": "किया",
+    "hi2": "पोशाक"
+  },
+  {
+    "type": "positive",
+    "en1": "found",
+    "en2": "notice",
+    "hi1": "मिला",
+    "hi2": "सूचना"
+  },
+  {
+    "type": "positive",
+    "en1": "center",
+    "en2": "centre",
+    "hi1": "बीच",
+    "hi2": "केन्द्र"
+  },
+  {
+    "type": "positive",
+    "en1": "style",
+    "en2": "dash",
+    "hi1": "स्टाइल",
+    "hi2": "डैश"
+  },
+  {
+    "type": "positive",
+    "en1": "long",
+    "en2": "tenacious",
+    "hi1": "long",
+    "hi2": "दृढ़"
+  },
+  {
+    "type": "positive",
+    "en1": "country",
+    "en2": "state",
+    "hi1": "देश",
+    "hi2": "राज्य"
+  },
+  {
+    "type": "positive",
+    "en1": "back",
+    "en2": "binding",
+    "hi1": "वापस",
+    "hi2": "बाइंडिंग"
+  },
+  {
+    "type": "positive",
+    "en1": "way",
+    "en2": "mode",
+    "hi1": "रास्ता",
+    "hi2": "विधि"
+  },
+  {
+    "type": "positive",
+    "en1": "does",
+    "en2": "dress",
+    "hi1": "करता",
+    "hi2": "पोशाक"
+  },
+  {
+    "type": "positive",
+    "en1": "www",
+    "en2": "web",
+    "hi1": "www",
+    "hi2": "वेब"
+  },
+  {
+    "type": "positive",
+    "en1": "modify",
+    "en2": "change",
+    "hi1": "सुधारें",
+    "hi2": "बदलें"
+  },
+  {
+    "type": "positive",
+    "en1": "end",
+    "en2": "death",
+    "hi1": "समाप्त",
+    "hi2": "मौत"
+  },
+  {
+    "type": "positive",
+    "en1": "make",
+    "en2": "score",
+    "hi1": "मेक",
+    "hi2": "स्कोर"
+  },
+  {
+    "type": "positive",
+    "en1": "public",
+    "en2": "world",
+    "hi1": "पब्लिक",
+    "hi2": "संसार"
+  },
+  {
+    "type": "positive",
+    "en1": "played",
+    "en2": "toy",
+    "hi1": "निभाई",
+    "hi2": "खिलौना"
+  },
+  {
+    "type": "positive",
+    "en1": "won",
+    "en2": "advance",
+    "hi1": "जीती",
+    "hi2": "अग्रिम"
+  },
+  {
+    "type": "positive",
+    "en1": "support",
+    "en2": "documentation",
+    "hi1": "support",
+    "hi2": "दस्तावेज़ीकरण"
+  },
+  {
+    "type": "positive",
+    "en1": "games",
+    "en2": "punt",
+    "hi1": "खेल",
+    "hi2": "पंट"
+  },
+  {
+    "type": "positive",
+    "en1": "former",
+    "en2": "old",
+    "hi1": "पूर्व",
+    "hi2": "बूढ़ा"
+  },
+  {
+    "type": "positive",
+    "en1": "east",
+    "en2": "orient",
+    "hi1": "ईस्ट",
+    "hi2": "प्राची"
+  },
+  {
+    "type": "positive",
+    "en1": "line",
+    "en2": "contrast",
+    "hi1": "लकीर",
+    "hi2": "कंट्रास्ट"
+  },
+  {
+    "type": "positive",
+    "en1": "members",
+    "en2": "member",
+    "hi1": "सदस्यों",
+    "hi2": "सदस्य"
+  },
+  {
+    "type": "positive",
+    "en1": "good",
+    "en2": "safe",
+    "hi1": "शुभ",
+    "hi2": "सुरक्षित"
+  },
+  {
+    "type": "positive",
+    "en1": "image",
+    "en2": "paradigm",
+    "hi1": "चित्र",
+    "hi2": "प्रतिमान"
+  },
+  {
+    "type": "positive",
+    "en1": "show",
+    "en2": "exhibit",
+    "hi1": "दिखाएँ",
+    "hi2": "प्रदर्शनी"
+  },
+  {
+    "type": "positive",
+    "en1": "still",
+    "en2": "even",
+    "hi1": "स्टिल",
+    "hi2": "भी"
+  },
+  {
+    "type": "positive",
+    "en1": "think",
+    "en2": "guess",
+    "hi1": "सोचो",
+    "hi2": "अंदाज़ा"
+  },
+  {
+    "type": "positive",
+    "en1": "below",
+    "en2": "under",
+    "hi1": "नीचे",
+    "hi2": "अंतर्गत"
+  },
+  {
+    "type": "positive",
+    "en1": "last",
+    "en2": "finish",
+    "hi1": "पिछला",
+    "hi2": "समाप्त"
+  },
+  {
+    "type": "positive",
+    "en1": "system",
+    "en2": "organization",
+    "hi1": "प्रणाली",
+    "hi2": "संगठन"
+  },
+  {
+    "type": "positive",
+    "en1": "right",
+    "en2": "redress",
+    "hi1": "सही",
+    "hi2": "परितोष"
+  },
+  {
+    "type": "positive",
+    "en1": "song",
+    "en2": "vocal",
+    "hi1": "सोंग",
+    "hi2": "गायन"
+  },
+  {
+    "type": "positive",
+    "en1": "non",
+    "en2": "not",
+    "hi1": "गैर",
+    "hi2": "नहीं"
+  },
+  {
+    "type": "positive",
+    "en1": "section",
+    "en2": "division",
+    "hi1": "खण्ड",
+    "hi2": "प्रभाग"
+  },
+  {
+    "type": "positive",
+    "en1": "single",
+    "en2": "ace",
+    "hi1": "सिंगल",
+    "hi2": "इक्का"
+  },
+  {
+    "type": "positive",
+    "en1": "align",
+    "en2": "array",
+    "hi1": "क्षारीय",
+    "hi2": "सरणी"
+  },
+  {
+    "type": "positive",
+    "en1": "home",
+    "en2": "internal",
+    "hi1": "घर",
+    "hi2": "आतंरिक"
+  },
+  {
+    "type": "positive",
+    "en1": "women",
+    "en2": "woman",
+    "hi1": "महिलाओं",
+    "hi2": "स्त्री"
+  },
+  {
+    "type": "positive",
+    "en1": "television",
+    "en2": "video",
+    "hi1": "टेलीविज़न",
+    "hi2": "वीडियो"
+  },
+  {
+    "type": "positive",
+    "en1": "seed",
+    "en2": "semen",
+    "hi1": "बीज",
+    "hi2": "वीर्य"
+  },
+  {
+    "type": "positive",
+    "en1": "member",
+    "en2": "penis",
+    "hi1": "सदस्य",
+    "hi2": "शिश्न"
+  },
+  {
+    "type": "positive",
+    "en1": "goals",
+    "en2": "destination",
+    "hi1": "लक्ष्य",
+    "hi2": "गंतव्य"
+  },
+  {
+    "type": "positive",
+    "en1": "sources",
+    "en2": "beginning",
+    "hi1": "स्त्रोत",
+    "hi2": "शुरूआत"
+  },
+  {
+    "type": "positive",
+    "en1": "book",
+    "en2": "reserve",
+    "hi1": "किताब",
+    "hi2": "आरक्षित"
+  },
+  {
+    "type": "positive",
+    "en1": "station",
+    "en2": "place",
+    "hi1": "स्टेशन",
+    "hi2": "प्लेस"
+  },
+  {
+    "type": "positive",
+    "en1": "order",
+    "en2": "guild",
+    "hi1": "अनुक्रम",
+    "hi2": "गिल्ड"
+  },
+  {
+    "type": "positive",
+    "en1": "old",
+    "en2": "older",
+    "hi1": "बूढ़ा",
+    "hi2": "पुरानी"
+  },
+  {
+    "type": "positive",
+    "en1": "information",
+    "en2": "data",
+    "hi1": "सूचना",
+    "hi2": "आंकड़ा"
+  },
+  {
+    "type": "positive",
+    "en1": "set",
+    "en2": "dictated",
+    "hi1": "नियत",
+    "hi2": "लिखवाई"
+  },
+  {
+    "type": "positive",
+    "en1": "own",
+    "en2": "ain",
+    "hi1": "अपना",
+    "hi2": "ain"
+  },
+  {
+    "type": "positive",
+    "en1": "band",
+    "en2": "stripe",
+    "hi1": "बैंड",
+    "hi2": "stripe"
+  },
+  {
+    "type": "positive",
+    "en1": "point",
+    "en2": "sharpen",
+    "hi1": "पाइंट",
+    "hi2": "सुस्पष्ट"
+  },
+  {
+    "type": "positive",
+    "en1": "top",
+    "en2": "acme",
+    "hi1": "शीर्ष",
+    "hi2": "पराकाष्ठा"
+  },
+  {
+    "type": "positive",
+    "en1": "main",
+    "en2": "master",
+    "hi1": "प्रमुख",
+    "hi2": "निपुण"
+  },
+  {
+    "type": "positive",
+    "en1": "language",
+    "en2": "nomenclature",
+    "hi1": "भाषा",
+    "hi2": "नामकरण"
+  },
+  {
+    "type": "positive",
+    "en1": "https",
+    "en2": "http",
+    "hi1": "https",
+    "hi2": "एचटीटीपी"
+  },
+  {
+    "type": "positive",
+    "en1": "named",
+    "en2": "key",
+    "hi1": "नामित",
+    "hi2": "कुंजी"
+  },
+  {
+    "type": "positive",
+    "en1": "off",
+    "en2": "murder",
+    "hi1": "बंद",
+    "hi2": "हत्या"
+  },
+  {
+    "type": "positive",
+    "en1": "note",
+    "en2": "notice",
+    "hi1": "नोट",
+    "hi2": "सूचना"
+  },
+  {
+    "type": "positive",
+    "en1": "career",
+    "en2": "calling",
+    "hi1": "करियर",
+    "hi2": "कॉलिंग"
+  },
+  {
+    "type": "positive",
+    "en1": "original",
+    "en2": "master",
+    "hi1": "असली",
+    "hi2": "निपुण"
+  },
+  {
+    "type": "positive",
+    "en1": "age",
+    "en2": "mature",
+    "hi1": "आयु",
+    "hi2": "वयस्क"
+  },
+  {
+    "type": "positive",
+    "en1": "service",
+    "en2": "servicing",
+    "hi1": "सेवा",
+    "hi2": "सर्विसिंग"
+  },
+  {
+    "type": "positive",
+    "en1": "established",
+    "en2": "institute",
+    "hi1": "स्थापित",
+    "hi2": "संस्थान"
+  },
+  {
+    "type": "positive",
+    "en1": "located",
+    "en2": "site",
+    "hi1": "स्तिथ",
+    "hi2": "साईट"
+  },
+  {
+    "type": "positive",
+    "en1": "said",
+    "en2": "state",
+    "hi1": "कहा",
+    "hi2": "राज्य"
+  },
+  {
+    "type": "positive",
+    "en1": "website",
+    "en2": "site",
+    "hi1": "जालस्थल",
+    "hi2": "साईट"
+  },
+  {
+    "type": "positive",
+    "en1": "population",
+    "en2": "universe",
+    "hi1": "जनसांख्यिकी",
+    "hi2": "ब्रह्मांड"
+  },
+  {
+    "type": "positive",
+    "en1": "air",
+    "en2": "breeze",
+    "hi1": "एयर",
+    "hi2": "हवा"
+  },
+  {
+    "type": "positive",
+    "en1": "law",
+    "en2": "jurisprudence",
+    "hi1": "विधि",
+    "hi2": "न्यायशास्त्र"
+  },
+  {
+    "type": "positive",
+    "en1": "great",
+    "en2": "bully",
+    "hi1": "ग्रेट",
+    "hi2": "बुली"
+  },
+  {
+    "type": "positive",
+    "en1": "within",
+    "en2": "inside",
+    "hi1": "भीतर",
+    "hi2": "अंदर"
+  },
+  {
+    "type": "positive",
+    "en1": "clubs",
+    "en2": "guild",
+    "hi1": "क्लब",
+    "hi2": "गिल्ड"
+  },
+  {
+    "type": "positive",
+    "en1": "published",
+    "en2": "print",
+    "hi1": "प्रकाशित",
+    "hi2": "छपाई"
+  },
+  {
+    "type": "positive",
+    "en1": "president",
+    "en2": "chair",
+    "hi1": "अध्यक्ष",
+    "hi2": "कुर्सी"
+  },
+  {
+    "type": "positive",
+    "en1": "park",
+    "en2": "commons",
+    "hi1": "पार्क",
+    "hi2": "कॉमन्स"
+  },
+  {
+    "type": "positive",
+    "en1": "official",
+    "en2": "prescribed",
+    "hi1": "आधिकारिक",
+    "hi2": "विहित"
+  },
+  {
+    "type": "positive",
+    "en1": "case",
+    "en2": "typeface",
+    "hi1": "मामला",
+    "hi2": "टाइपफ़ेस"
+  },
+  {
+    "type": "positive",
+    "en1": "times",
+    "en2": "metre",
+    "hi1": "टाइम्स",
+    "hi2": "मीटर"
+  },
+  {
+    "type": "positive",
+    "en1": "small",
+    "en2": "humble",
+    "hi1": "छोटी",
+    "hi2": "विनम्र"
+  },
+  {
+    "type": "positive",
+    "en1": "different",
+    "en2": "unlike",
+    "hi1": "अलग",
+    "hi2": "नापसंद"
+  },
+  {
+    "type": "positive",
+    "en1": "get",
+    "en2": "receive",
+    "hi1": "मिलेंगी",
+    "hi2": "प्राप्त"
+  },
+  {
+    "type": "positive",
+    "en1": "village",
+    "en2": "hamlet",
+    "hi1": "गाँव",
+    "hi2": "हैमलेट"
+  },
+  {
+    "type": "positive",
+    "en1": "closed",
+    "en2": "shut",
+    "hi1": "बंद",
+    "hi2": "shut"
+  },
+  {
+    "type": "positive",
+    "en1": "art",
+    "en2": "artwork",
+    "hi1": "आर्ट",
+    "hi2": "कलाकृति"
+  },
+  {
+    "type": "positive",
+    "en1": "player",
+    "en2": "actor",
+    "hi1": "खिलाड़ी",
+    "hi2": "कर्ता"
+  },
+  {
+    "type": "positive",
+    "en1": "final",
+    "en2": "last",
+    "hi1": "फाइनल",
+    "hi2": "पिछला"
+  },
+  {
+    "type": "positive",
+    "en1": "held",
+    "en2": "prevail",
+    "hi1": "आयोजित",
+    "hi2": "जीतना"
+  },
+  {
+    "type": "positive",
+    "en1": "army",
+    "en2": "usa",
+    "hi1": "फौज",
+    "hi2": "यूएसए"
+  },
+  {
+    "type": "positive",
+    "en1": "award",
+    "en2": "grant",
+    "hi1": "पुरस्कार",
+    "hi2": "ग्रान्ट"
+  },
+  {
+    "type": "positive",
+    "en1": "death",
+    "en2": "destruction",
+    "hi1": "मौत",
+    "hi2": "विनाश"
+  },
+  {
+    "type": "positive",
+    "en1": "built",
+    "en2": "make",
+    "hi1": "निर्मित",
+    "hi2": "मेक"
+  },
+  {
+    "type": "positive",
+    "en1": "men",
+    "en2": "humanity",
+    "hi1": "मेन",
+    "hi2": "मानवता"
+  },
+  {
+    "type": "positive",
+    "en1": "large",
+    "en2": "great",
+    "hi1": "विशाल",
+    "hi2": "ग्रेट"
+  },
+  {
+    "type": "positive",
+    "en1": "site",
+    "en2": "website",
+    "hi1": "साईट",
+    "hi2": "जालस्थल"
+  },
+  {
+    "type": "positive",
+    "en1": "deletion",
+    "en2": "cut",
+    "hi1": "हटाना",
+    "hi2": "काटें"
+  },
+  {
+    "type": "positive",
+    "en1": "white",
+    "en2": "blank",
+    "hi1": "श्वेत",
+    "hi2": "रिक्त"
+  },
+  {
+    "type": "positive",
+    "en1": "five",
+    "en2": "fin",
+    "hi1": "पाँच",
+    "hi2": "जोडे"
+  },
+  {
+    "type": "positive",
+    "en1": "central",
+    "en2": "key",
+    "hi1": "सेंट्रल",
+    "hi2": "कुंजी"
+  },
+  {
+    "type": "positive",
+    "en1": "road",
+    "en2": "route",
+    "hi1": "सड़क",
+    "hi2": "रूट"
+  },
+  {
+    "type": "positive",
+    "en1": "free",
+    "en2": "relinquish",
+    "hi1": "फ़्री",
+    "hi2": "बाज़"
+  },
+  {
+    "type": "positive",
+    "en1": "association",
+    "en2": "tie",
+    "hi1": "संघ",
+    "hi2": "टाई"
+  },
+  {
+    "type": "positive",
+    "en1": "down",
+    "en2": "pop",
+    "hi1": "bas",
+    "hi2": "पॉप"
+  },
+  {
+    "type": "positive",
+    "en1": "given",
+    "en2": "leave",
+    "hi1": "दिए",
+    "hi2": "छोड़"
+  },
+  {
+    "type": "positive",
+    "en1": "source",
+    "en2": "beginning",
+    "hi1": "सोर्स",
+    "hi2": "शुरूआत"
+  },
+  {
+    "type": "positive",
+    "en1": "man",
+    "en2": "humanity",
+    "hi1": "man",
+    "hi2": "मानवता"
+  },
+  {
+    "type": "positive",
+    "en1": "version",
+    "en2": "variation",
+    "hi1": "संस्करण",
+    "hi2": "विभिन्नता"
+  },
+  {
+    "type": "positive",
+    "en1": "written",
+    "en2": "pen",
+    "hi1": "लिखा",
+    "hi2": "कलम"
+  },
+  {
+    "type": "positive",
+    "en1": "created",
+    "en2": "make",
+    "hi1": "निर्मित",
+    "hi2": "मेक"
+  },
+  {
+    "type": "positive",
+    "en1": "media",
+    "en2": "medium",
+    "hi1": "मीडिया",
+    "hi2": "मीडियम"
+  },
+  {
+    "type": "positive",
+    "en1": "black",
+    "en2": "inglorious",
+    "hi1": "ब्लैक",
+    "hi2": "रामानुजम"
+  },
+  {
+    "type": "positive",
+    "en1": "report",
+    "en2": "composition",
+    "hi1": "रपट",
+    "hi2": "संयोजन"
+  },
+  {
+    "type": "positive",
+    "en1": "building",
+    "en2": "make",
+    "hi1": "भवन",
+    "hi2": "मेक"
+  },
+  {
+    "type": "positive",
+    "en1": "take",
+    "en2": "charter",
+    "hi1": "लो",
+    "hi2": "चार्टर"
+  },
+  {
+    "type": "positive",
+    "en1": "division",
+    "en2": "class",
+    "hi1": "प्रभाग",
+    "hi2": "क्लास"
+  },
+  {
+    "type": "positive",
+    "en1": "comment",
+    "en2": "notice",
+    "hi1": "टिप्पणी",
+    "hi2": "सूचना"
+  },
+  {
+    "type": "positive",
+    "en1": "king",
+    "en2": "baron",
+    "hi1": "किंग",
+    "hi2": "सामन्त"
+  },
+  {
+    "type": "positive",
+    "en1": "edit",
+    "en2": "cut",
+    "hi1": "संपादन",
+    "hi2": "काटें"
+  },
+  {
+    "type": "positive",
+    "en1": "stadium",
+    "en2": "bowl",
+    "hi1": "स्टेडियम",
+    "hi2": "कटोरी"
+  },
+  {
+    "type": "positive",
+    "en1": "ship",
+    "en2": "send",
+    "hi1": "जलयान",
+    "hi2": "भेजें"
+  },
+  {
+    "type": "positive",
+    "en1": "research",
+    "en2": "search",
+    "hi1": "शोध",
+    "hi2": "ढूंढें"
+  },
+  {
+    "type": "positive",
+    "en1": "record",
+    "en2": "tape",
+    "hi1": "रिकार्ड",
+    "hi2": "टेप"
+  },
+  {
+    "type": "positive",
+    "en1": "places",
+    "en2": "rank",
+    "hi1": "स्थान",
+    "hi2": "रैंक"
+  },
+  {
+    "type": "positive",
+    "en1": "records",
+    "en2": "tape",
+    "hi1": "रिकॉर्ड",
+    "hi2": "टेप"
+  },
+  {
+    "type": "positive",
+    "en1": "often",
+    "en2": "frequently",
+    "hi1": "प्रायः",
+    "hi2": "अक्सर"
+  },
+  {
+    "type": "positive",
+    "en1": "received",
+    "en2": "find",
+    "hi1": "प्राप्त",
+    "hi2": "ढूँढें"
+  },
+  {
+    "type": "positive",
+    "en1": "side",
+    "en2": "slope",
+    "hi1": "पक्ष",
+    "hi2": "ढलान"
+  },
+  {
+    "type": "positive",
+    "en1": "power",
+    "en2": "king",
+    "hi1": "शक्ति",
+    "hi2": "किंग"
+  },
+  {
+    "type": "positive",
+    "en1": "education",
+    "en2": "instruction",
+    "hi1": "शिक्षा",
+    "hi2": "निर्देश"
+  },
+  {
+    "type": "positive",
+    "en1": "know",
+    "en2": "screw",
+    "hi1": "जान",
+    "hi2": "स्क्रू"
+  },
+  {
+    "type": "positive",
+    "en1": "category",
+    "en2": "class",
+    "hi1": "श्रेणी",
+    "hi2": "क्लास"
+  },
+  {
+    "type": "positive",
+    "en1": "water",
+    "en2": "pee",
+    "hi1": "जल",
+    "hi2": "पेशाब"
+  },
+  {
+    "type": "positive",
+    "en1": "species",
+    "en2": "coinage",
+    "hi1": "प्रजाति",
+    "hi2": "coinage"
+  },
+  {
+    "type": "positive",
+    "en1": "field",
+    "en2": "study",
+    "hi1": "फ़ील्ड",
+    "hi2": "पढ़ाई"
+  },
+  {
+    "type": "positive",
+    "en1": "near",
+    "en2": "approach",
+    "hi1": "निकट",
+    "hi2": "दृष्टिकोण"
+  },
+  {
+    "type": "positive",
+    "en1": "video",
+    "en2": "picture",
+    "hi1": "वीडियो",
+    "hi2": "चित्र"
+  },
+  {
+    "type": "positive",
+    "en1": "form",
+    "en2": "soma",
+    "hi1": "रूप",
+    "hi2": "सोम"
+  },
+  {
+    "type": "positive",
+    "en1": "find",
+    "en2": "notice",
+    "hi1": "ढूँढें",
+    "hi2": "सूचना"
+  },
+  {
+    "type": "positive",
+    "en1": "served",
+    "en2": "service",
+    "hi1": "परोसा",
+    "hi2": "सेवा"
+  },
+  {
+    "type": "positive",
+    "en1": "play",
+    "en2": "gaming",
+    "hi1": "खेल",
+    "hi2": "गेमिंग"
+  },
+  {
+    "type": "positive",
+    "en1": "project",
+    "en2": "picture",
+    "hi1": "प्रोजेक्ट",
+    "hi2": "चित्र"
+  },
+  {
+    "type": "positive",
+    "en1": "radio",
+    "en2": "wireless",
+    "hi1": "रेडियो",
+    "hi2": "बेतार"
+  },
+  {
+    "type": "positive",
+    "en1": "proposed",
+    "en2": "purport",
+    "hi1": "प्रस्तावित",
+    "hi2": "अभिप्राय"
+  },
+  {
+    "type": "positive",
+    "en1": "development",
+    "en2": "developing",
+    "hi1": "विकास",
+    "hi2": "विकासशील"
+  },
+  {
+    "type": "positive",
+    "en1": "example",
+    "en2": "lesson",
+    "hi1": "उदाहरण",
+    "hi2": "सबक"
+  },
+  {
+    "type": "positive",
+    "en1": "live",
+    "en2": "alive",
+    "hi1": "सजीव",
+    "hi2": "जिंदा"
+  },
+  {
+    "type": "positive",
+    "en1": "union",
+    "en2": "marriage",
+    "hi1": "संघ",
+    "hi2": "विवाह"
+  },
+  {
+    "type": "positive",
+    "en1": "india",
+    "en2": "bharat",
+    "hi1": "इण्डिया",
+    "hi2": "bharat"
+  },
+  {
+    "type": "positive",
+    "en1": "next",
+    "en2": "future",
+    "hi1": "अगला",
+    "hi2": "भविष्य"
+  },
+  {
+    "type": "positive",
+    "en1": "special",
+    "en2": "exceptional",
+    "hi1": "खास",
+    "hi2": "असाधारण"
+  },
+  {
+    "type": "positive",
+    "en1": "court",
+    "en2": "courtyard",
+    "hi1": "अदालत",
+    "hi2": "आँगन"
+  },
+  {
+    "type": "positive",
+    "en1": "region",
+    "en2": "neighborhood",
+    "hi1": "प्रदेश",
+    "hi2": "पड़ोस"
+  },
+  {
+    "type": "positive",
+    "en1": "little",
+    "en2": "trivial",
+    "hi1": "छोटी",
+    "hi2": "नगण्य"
+  },
+  {
+    "type": "positive",
+    "en1": "short",
+    "en2": "inadequate",
+    "hi1": "छोटी",
+    "hi2": "अपर्याप्त"
+  },
+  {
+    "type": "positive",
+    "en1": "province",
+    "en2": "responsibility",
+    "hi1": "प्रांत",
+    "hi2": "जिम्मेदारी"
+  },
+  {
+    "type": "positive",
+    "en1": "son",
+    "en2": "word",
+    "hi1": "बेटे",
+    "hi2": "शब्द"
+  },
+  {
+    "type": "positive",
+    "en1": "royal",
+    "en2": "imperial",
+    "hi1": "royal",
+    "hi2": "इम्पीरियल"
+  },
+  {
+    "type": "positive",
+    "en1": "current",
+    "en2": "flow",
+    "hi1": "वर्तमान",
+    "hi2": "प्रवाह"
+  },
+  {
+    "type": "positive",
+    "en1": "full",
+    "en2": "wide",
+    "hi1": "पूरा",
+    "hi2": "चौड़ी"
+  },
+  {
+    "type": "positive",
+    "en1": "red",
+    "en2": "carmine",
+    "hi1": "रेड",
+    "hi2": "carmine"
+  },
+  {
+    "type": "positive",
+    "en1": "too",
+    "en2": "also",
+    "hi1": "too",
+    "hi2": "भी"
+  },
+  {
+    "type": "positive",
+    "en1": "department",
+    "en2": "section",
+    "hi1": "विभाग",
+    "hi2": "खण्ड"
+  },
+  {
+    "type": "positive",
+    "en1": "help",
+    "en2": "service",
+    "hi1": "सहायता",
+    "hi2": "सेवा"
+  },
+  {
+    "type": "positive",
+    "en1": "james",
+    "en2": "pack",
+    "hi1": "जेम्स",
+    "hi2": "पैक"
+  },
+  {
+    "type": "positive",
+    "en1": "open",
+    "en2": "loose",
+    "hi1": "खोलें",
+    "hi2": "ढीला"
+  },
+  {
+    "type": "positive",
+    "en1": "force",
+    "en2": "effect",
+    "hi1": "फ़ोर्स",
+    "hi2": "प्रभाव"
+  },
+  {
+    "type": "positive",
+    "en1": "position",
+    "en2": "perspective",
+    "hi1": "स्थिति",
+    "hi2": "परिप्रेक्ष्य"
+  },
+  {
+    "type": "positive",
+    "en1": "head",
+    "en2": "chief",
+    "hi1": "सिर",
+    "hi2": "मुख्य"
+  },
+  {
+    "type": "positive",
+    "en1": "director",
+    "en2": "conductor",
+    "hi1": "निदेशक",
+    "hi2": "कंडक्टर"
+  },
+  {
+    "type": "positive",
+    "en1": "father",
+    "en2": "get",
+    "hi1": "पिता",
+    "hi2": "मिलेंगी"
+  },
+  {
+    "type": "positive",
+    "en1": "track",
+    "en2": "cut",
+    "hi1": "track",
+    "hi2": "काटें"
+  },
+  {
+    "type": "positive",
+    "en1": "level",
+    "en2": "even",
+    "hi1": "स्तर",
+    "hi2": "भी"
+  },
+  {
+    "type": "positive",
+    "en1": "late",
+    "en2": "tardy",
+    "hi1": "लेट",
+    "hi2": "सुस्त"
+  },
+  {
+    "type": "positive",
+    "en1": "society",
+    "en2": "fellowship",
+    "hi1": "समाज",
+    "hi2": "फेलोशिप"
+  },
+  {
+    "type": "positive",
+    "en1": "moved",
+    "en2": "run",
+    "hi1": "स्थानांतरित",
+    "hi2": "चलाएं"
+  },
+  {
+    "type": "positive",
+    "en1": "office",
+    "en2": "bureau",
+    "hi1": "दफ्तर",
+    "hi2": "ब्यूरो"
+  },
+  {
+    "type": "positive",
+    "en1": "period",
+    "en2": "stop",
+    "hi1": "काल",
+    "hi2": "रोकें"
+  },
+  {
+    "type": "positive",
+    "en1": "championship",
+    "en2": "backup",
+    "hi1": "चैंपियनशिप",
+    "hi2": "बैकअप"
+  },
+  {
+    "type": "positive",
+    "en1": "round",
+    "en2": "circle",
+    "hi1": "गोलाकार",
+    "hi2": "वृत्त"
+  },
+  {
+    "type": "positive",
+    "en1": "story",
+    "en2": "tale",
+    "hi1": "स्टोरी",
+    "hi2": "टेल"
+  },
+  {
+    "type": "positive",
+    "en1": "songs",
+    "en2": "vocal",
+    "hi1": "गीतों",
+    "hi2": "गायन"
+  },
+  {
+    "type": "positive",
+    "en1": "various",
+    "en2": "assorted",
+    "hi1": "विभिन्न",
+    "hi2": "वर्गीकृत"
+  },
+  {
+    "type": "positive",
+    "en1": "file",
+    "en2": "register",
+    "hi1": "संचिका",
+    "hi2": "पंजीकरण"
+  },
+  {
+    "type": "positive",
+    "en1": "days",
+    "en2": "day",
+    "hi1": "दिनों",
+    "hi2": "दिन"
+  },
+  {
+    "type": "positive",
+    "en1": "land",
+    "en2": "nation",
+    "hi1": "जमीन",
+    "hi2": "स्वदेश"
+  },
+  {
+    "type": "positive",
+    "en1": "business",
+    "en2": "line",
+    "hi1": "कारोबार",
+    "hi2": "लकीर"
+  },
+  {
+    "type": "positive",
+    "en1": "reason",
+    "en2": "understanding",
+    "hi1": "कारण",
+    "hi2": "समझना"
+  },
+  {
+    "type": "positive",
+    "en1": "america",
+    "en2": "usa",
+    "hi1": "अमेरिका",
+    "hi2": "यूएसए"
+  },
+  {
+    "type": "positive",
+    "en1": "million",
+    "en2": "trillion",
+    "hi1": "लाख",
+    "hi2": "खरब"
+  },
+  {
+    "type": "positive",
+    "en1": "term",
+    "en2": "condition",
+    "hi1": "पद",
+    "hi2": "कंडीशन"
+  },
+  {
+    "type": "positive",
+    "en1": "post",
+    "en2": "send",
+    "hi1": "पोस्ट",
+    "hi2": "भेजें"
+  },
+  {
+    "type": "positive",
+    "en1": "produced",
+    "en2": "make",
+    "hi1": "उत्पादित",
+    "hi2": "मेक"
+  },
+  {
+    "type": "positive",
+    "en1": "making",
+    "en2": "seduce",
+    "hi1": "बनाना",
+    "hi2": "आरज़ू"
+  },
+  {
+    "type": "positive",
+    "en1": "subject",
+    "en2": "open",
+    "hi1": "विषय",
+    "hi2": "खोलें"
+  },
+  {
+    "type": "positive",
+    "en1": "young",
+    "en2": "new",
+    "hi1": "यंग",
+    "hi2": "नई"
+  },
+  {
+    "type": "positive",
+    "en1": "total",
+    "en2": "entire",
+    "hi1": "कुल",
+    "hi2": "संपूर्ण"
+  },
+  {
+    "type": "positive",
+    "en1": "science",
+    "en2": "skill",
+    "hi1": "विज्ञान",
+    "hi2": "कौशल"
+  },
+  {
+    "type": "positive",
+    "en1": "related",
+    "en2": "link",
+    "hi1": "सम्बन्धित",
+    "hi2": "कड़ी"
+  },
+  {
+    "type": "positive",
+    "en1": "rock",
+    "en2": "tilt",
+    "hi1": "चट्टान",
+    "hi2": "झुकाव"
+  },
+  {
+    "type": "positive",
+    "en1": "archived",
+    "en2": "archive",
+    "hi1": "संग्रहीत",
+    "hi2": "अभिलेख"
+  },
+  {
+    "type": "positive",
+    "en1": "railway",
+    "en2": "railroad",
+    "hi1": "रेल",
+    "hi2": "रेलरोड"
+  },
+  {
+    "type": "positive",
+    "en1": "led",
+    "en2": "contribute",
+    "hi1": "led",
+    "hi2": "योगदान"
+  },
+  {
+    "type": "positive",
+    "en1": "students",
+    "en2": "student",
+    "hi1": "विद्यार्थी",
+    "hi2": "छात्र"
+  },
+  {
+    "type": "positive",
+    "en1": "started",
+    "en2": "pop",
+    "hi1": "प्रारंभ",
+    "hi2": "पॉप"
+  },
+  {
+    "type": "positive",
+    "en1": "news",
+    "en2": "intelligence",
+    "hi1": "न्यूज",
+    "hi2": "प्रज्ञा"
+  },
+  {
+    "type": "positive",
+    "en1": "described",
+    "en2": "report",
+    "hi1": "वर्णित",
+    "hi2": "रपट"
+  },
+  {
+    "type": "positive",
+    "en1": "role",
+    "en2": "office",
+    "hi1": "भूमिका",
+    "hi2": "दफ्तर"
+  },
+  {
+    "type": "positive",
+    "en1": "present",
+    "en2": "exhibit",
+    "hi1": "उपस्थित",
+    "hi2": "प्रदर्शनी"
+  },
+  {
+    "type": "positive",
+    "en1": "kingdom",
+    "en2": "land",
+    "hi1": "किंगडम",
+    "hi2": "जमीन"
+  },
+  {
+    "type": "positive",
+    "en1": "books",
+    "en2": "reserve",
+    "hi1": "किताबे",
+    "hi2": "आरक्षित"
+  },
+  {
+    "type": "positive",
+    "en1": "important",
+    "en2": "crucial",
+    "hi1": "महत्वपूर्ण",
+    "hi2": "निर्णायक"
+  },
+  {
+    "type": "positive",
+    "en1": "love",
+    "en2": "honey",
+    "hi1": "प्रेम",
+    "hi2": "मधु"
+  },
+  {
+    "type": "positive",
+    "en1": "run",
+    "en2": "rivulet",
+    "hi1": "चलाएं",
+    "hi2": "धार"
+  },
+  {
+    "type": "positive",
+    "en1": "press",
+    "en2": "weigh",
+    "hi1": "दबायें",
+    "hi2": "तौल"
+  },
+  {
+    "type": "positive",
+    "en1": "rather",
+    "en2": "kinda",
+    "hi1": "बल्कि",
+    "hi2": "थोडा"
+  },
+  {
+    "type": "positive",
+    "en1": "type",
+    "en2": "case",
+    "hi1": "प्रकार",
+    "hi2": "मामला"
+  },
+  {
+    "type": "positive",
+    "en1": "act",
+    "en2": "behave",
+    "hi1": "अधिनियम",
+    "hi2": "व्यवहार"
+  },
+  {
+    "type": "positive",
+    "en1": "came",
+    "en2": "get",
+    "hi1": "आए",
+    "hi2": "मिलेंगी"
+  },
+  {
+    "type": "positive",
+    "en1": "schools",
+    "en2": "school",
+    "hi1": "स्कूलों",
+    "hi2": "स्कूल"
+  },
+  {
+    "type": "positive",
+    "en1": "program",
+    "en2": "plan",
+    "hi1": "कार्यक्रम",
+    "hi2": "योजना"
+  },
+  {
+    "type": "positive",
+    "en1": "issue",
+    "en2": "cut",
+    "hi1": "समस्या",
+    "hi2": "काटें"
+  },
+  {
+    "type": "positive",
+    "en1": "social",
+    "en2": "mixer",
+    "hi1": "सोशल",
+    "hi2": "मिक्सर"
+  },
+  {
+    "type": "positive",
+    "en1": "production",
+    "en2": "yield",
+    "hi1": "उत्पादन",
+    "hi2": "उपज"
+  },
+  {
+    "type": "positive",
+    "en1": "male",
+    "en2": "manly",
+    "hi1": "पुरूष",
+    "hi2": "मर्दानी"
+  },
+  {
+    "type": "positive",
+    "en1": "awards",
+    "en2": "grant",
+    "hi1": "पुरस्कार",
+    "hi2": "ग्रान्ट"
+  },
+  {
+    "type": "positive",
+    "en1": "points",
+    "en2": "sharpen",
+    "hi1": "अंक",
+    "hi2": "सुस्पष्ट"
+  },
+  {
+    "type": "positive",
+    "en1": "similar",
+    "en2": "standardized",
+    "hi1": "समान",
+    "hi2": "मानकीकृत"
+  },
+  {
+    "type": "positive",
+    "en1": "professional",
+    "en2": "master",
+    "hi1": "पेशेवर",
+    "hi2": "निपुण"
+  },
+  {
+    "type": "positive",
+    "en1": "say",
+    "en2": "state",
+    "hi1": "कह",
+    "hi2": "राज्य"
+  },
+  {
+    "type": "positive",
+    "en1": "background",
+    "en2": "ground",
+    "hi1": "पृष्ठभूमि",
+    "hi2": "मैदान"
+  },
+  {
+    "type": "positive",
+    "en1": "enough",
+    "en2": "decent",
+    "hi1": "पर्याप्त",
+    "hi2": "सभ्य"
+  },
+  {
+    "type": "positive",
+    "en1": "lead",
+    "en2": "contribute",
+    "hi1": "सीसे",
+    "hi2": "योगदान"
+  },
+  {
+    "type": "positive",
+    "en1": "common",
+    "en2": "mutual",
+    "hi1": "आम",
+    "hi2": "परस्पर"
+  },
+  {
+    "type": "positive",
+    "en1": "overlap",
+    "en2": "convergence",
+    "hi1": "ओवरलैप",
+    "hi2": "अभिसरण"
+  },
+  {
+    "type": "positive",
+    "en1": "data",
+    "en2": "information",
+    "hi1": "आंकड़ा",
+    "hi2": "सूचना"
+  },
+  {
+    "type": "positive",
+    "en1": "color",
+    "en2": "distort",
+    "hi1": "रंग",
+    "hi2": "विकृत"
+  },
+  {
+    "type": "positive",
+    "en1": "better",
+    "en2": "improve",
+    "hi1": "बेहतर",
+    "hi2": "improve"
+  },
+  {
+    "type": "positive",
+    "en1": "person",
+    "en2": "mortal",
+    "hi1": "व्यक्ति",
+    "hi2": "नश्वर"
+  },
+  {
+    "type": "positive",
+    "en1": "services",
+    "en2": "servicing",
+    "hi1": "सेवाएं",
+    "hi2": "सर्विसिंग"
+  },
+  {
+    "type": "positive",
+    "en1": "battle",
+    "en2": "conflict",
+    "hi1": "बैटल",
+    "hi2": "विरोध"
+  },
+  {
+    "type": "positive",
+    "en1": "went",
+    "en2": "get",
+    "hi1": "गई",
+    "hi2": "मिलेंगी"
+  },
+  {
+    "type": "positive",
+    "en1": "sports",
+    "en2": "athletics",
+    "hi1": "खेल",
+    "hi2": "एथलेटिक्स"
+  },
+  {
+    "type": "positive",
+    "en1": "hall",
+    "en2": "dorm",
+    "hi1": "हॉल",
+    "hi2": "शयनकक्ष"
+  },
+  {
+    "type": "positive",
+    "en1": "buildings",
+    "en2": "make",
+    "hi1": "इमारतें",
+    "hi2": "मेक"
+  },
+  {
+    "type": "positive",
+    "en1": "date",
+    "en2": "appointment",
+    "hi1": "तिथि",
+    "hi2": "नियुक्ति"
+  },
+  {
+    "type": "positive",
+    "en1": "deleted",
+    "en2": "edit",
+    "hi1": "मिटाया",
+    "hi2": "संपादन"
+  },
+  {
+    "type": "positive",
+    "en1": "considered",
+    "en2": "weigh",
+    "hi1": "माना",
+    "hi2": "तौल"
+  },
+  {
+    "type": "positive",
+    "en1": "change",
+    "en2": "switch",
+    "hi1": "बदलें",
+    "hi2": "स्विच"
+  },
+  {
+    "type": "positive",
+    "en1": "location",
+    "en2": "localization",
+    "hi1": "स्थान",
+    "hi2": "स्थानीयकरण"
+  },
+  {
+    "type": "positive",
+    "en1": "lost",
+    "en2": "miss",
+    "hi1": "खोया",
+    "hi2": "मिस"
+  },
+  {
+    "type": "positive",
+    "en1": "review",
+    "en2": "recap",
+    "hi1": "पुनर्विलोकन",
+    "hi2": "पूर्वावलोकन"
+  },
+  {
+    "type": "positive",
+    "en1": "groups",
+    "en2": "grouping",
+    "hi1": "समूह",
+    "hi2": "समूहीकरण"
+  },
+  {
+    "type": "positive",
+    "en1": "content",
+    "en2": "capacity",
+    "hi1": "सामग्री",
+    "hi2": "क्षमता"
+  },
+  {
+    "type": "positive",
+    "en1": "involved",
+    "en2": "regard",
+    "hi1": "शामिल",
+    "hi2": "लिहाज़"
+  },
+  {
+    "type": "positive",
+    "en1": "board",
+    "en2": "plank",
+    "hi1": "फलक",
+    "hi2": "यों"
+  },
+  {
+    "type": "positive",
+    "en1": "japan",
+    "en2": "nippon",
+    "hi1": "जापानी",
+    "hi2": "निप्पन"
+  },
+  {
+    "type": "positive",
+    "en1": "control",
+    "en2": "master",
+    "hi1": "कंट्रोल",
+    "hi2": "निपुण"
+  },
+  {
+    "type": "positive",
+    "en1": "policy",
+    "en2": "insurance",
+    "hi1": "नीति",
+    "hi2": "बीमे"
+  },
+  {
+    "type": "positive",
+    "en1": "modern",
+    "en2": "new",
+    "hi1": "आधुनिक",
+    "hi2": "नई"
+  },
+  {
+    "type": "positive",
+    "en1": "human",
+    "en2": "homo",
+    "hi1": "इंसान",
+    "hi2": "होमो"
+  },
+  {
+    "type": "positive",
+    "en1": "design",
+    "en2": "conception",
+    "hi1": "डिज़ाइन",
+    "hi2": "धारणा"
+  },
+  {
+    "type": "positive",
+    "en1": "event",
+    "en2": "outcome",
+    "hi1": "इवेंट",
+    "hi2": "निष्कर्ष"
+  },
+  {
+    "type": "positive",
+    "en1": "events",
+    "en2": "outcome",
+    "hi1": "कार्यक्रम",
+    "hi2": "निष्कर्ष"
+  },
+  {
+    "type": "positive",
+    "en1": "done",
+    "en2": "dress",
+    "hi1": "किया",
+    "hi2": "पोशाक"
+  },
+  {
+    "type": "positive",
+    "en1": "washington",
+    "en2": "capital",
+    "hi1": "वॉशिंगटन",
+    "hi2": "पूंजी"
+  },
+  {
+    "type": "positive",
+    "en1": "real",
+    "en2": "material",
+    "hi1": "रियल",
+    "hi2": "सामग्री"
+  },
+  {
+    "type": "positive",
+    "en1": "start",
+    "en2": "scratch",
+    "hi1": "प्रारंभ",
+    "hi2": "खरोंच"
+  },
+  {
+    "type": "positive",
+    "en1": "action",
+    "en2": "sue",
+    "hi1": "कार्रवाई",
+    "hi2": "मुकदमा"
+  },
+  {
+    "type": "positive",
+    "en1": "space",
+    "en2": "blank",
+    "hi1": "स्पेस",
+    "hi2": "रिक्त"
+  },
+  {
+    "type": "positive",
+    "en1": "areas",
+    "en2": "country",
+    "hi1": "क्षेत्रों",
+    "hi2": "देश"
+  },
+  {
+    "type": "positive",
+    "en1": "star",
+    "en2": "ace",
+    "hi1": "स्टार",
+    "hi2": "इक्का"
+  },
+  {
+    "type": "positive",
+    "en1": "really",
+    "en2": "very",
+    "hi1": "वाकई",
+    "hi2": "बहुत"
+  },
+  {
+    "type": "positive",
+    "en1": "china",
+    "en2": "prc",
+    "hi1": "चीन",
+    "hi2": "पीआरसी"
+  },
+  {
+    "type": "positive",
+    "en1": "paul",
+    "en2": "saul",
+    "hi1": "पॉल",
+    "hi2": "शाऊल"
+  },
+  {
+    "type": "positive",
+    "en1": "taken",
+    "en2": "charter",
+    "hi1": "लिया",
+    "hi2": "चार्टर"
+  },
+  {
+    "type": "positive",
+    "en1": "minister",
+    "en2": "pastor",
+    "hi1": "मंत्री",
+    "hi2": "पादरी"
+  },
+  {
+    "type": "positive",
+    "en1": "popular",
+    "en2": "democratic",
+    "hi1": "लोकप्रिय",
+    "hi2": "लोकतांत्रिक"
+  },
+  {
+    "type": "positive",
+    "en1": "married",
+    "en2": "wed",
+    "hi1": "शादीशुदा",
+    "hi2": "बुधवार"
+  },
+  {
+    "type": "positive",
+    "en1": "founded",
+    "en2": "institute",
+    "hi1": "संस्थापित",
+    "hi2": "संस्थान"
+  },
+  {
+    "type": "positive",
+    "en1": "author",
+    "en2": "generator",
+    "hi1": "लेखक",
+    "hi2": "सृजनकर्ता"
+  },
+  {
+    "type": "positive",
+    "en1": "away",
+    "en2": "outside",
+    "hi1": "दूर",
+    "hi2": "बाहर"
+  },
+  {
+    "type": "positive",
+    "en1": "independent",
+    "en2": "main",
+    "hi1": "स्वतंत्र",
+    "hi2": "प्रमुख"
+  },
+  {
+    "type": "positive",
+    "en1": "process",
+    "en2": "treat",
+    "hi1": "प्रक्रम",
+    "hi2": "दावत"
+  },
+  {
+    "type": "positive",
+    "en1": "teams",
+    "en2": "squad",
+    "hi1": "टीमों",
+    "hi2": "स्क्वाड"
+  },
+  {
+    "type": "positive",
+    "en1": "character",
+    "en2": "quality",
+    "hi1": "अक्षर",
+    "hi2": "विशेषता"
+  },
+  {
+    "type": "positive",
+    "en1": "low",
+    "en2": "humble",
+    "hi1": "कम",
+    "hi2": "विनम्र"
+  },
+  {
+    "type": "positive",
+    "en1": "pages",
+    "en2": "page",
+    "hi1": "पृष्ठों",
+    "hi2": "पेज"
+  },
+  {
+    "type": "positive",
+    "en1": "light",
+    "en2": "idle",
+    "hi1": "लाइट",
+    "hi2": "निष्क्रिय"
+  },
+  {
+    "type": "positive",
+    "en1": "big",
+    "en2": "liberal",
+    "hi1": "बिग",
+    "hi2": "उदार"
+  },
+  {
+    "type": "positive",
+    "en1": "seen",
+    "en2": "picture",
+    "hi1": "देखी",
+    "hi2": "चित्र"
+  },
+  {
+    "type": "positive",
+    "en1": "release",
+    "en2": "relinquish",
+    "hi1": "रिलीज",
+    "hi2": "बाज़"
+  },
+  {
+    "type": "positive",
+    "en1": "episode",
+    "en2": "instalment",
+    "hi1": "एपीसोड",
+    "hi2": "किस्त"
+  },
+  {
+    "type": "positive",
+    "en1": "wrote",
+    "en2": "pen",
+    "hi1": "लिखा",
+    "hi2": "कलम"
+  },
+  {
+    "type": "positive",
+    "en1": "republic",
+    "en2": "democracy",
+    "hi1": "गणतंत्र",
+    "hi2": "लोकतंत्र"
+  },
+  {
+    "type": "positive",
+    "en1": "companies",
+    "en2": "fellowship",
+    "hi1": "कंपनियाँ",
+    "hi2": "फेलोशिप"
+  },
+  {
+    "type": "positive",
+    "en1": "race",
+    "en2": "run",
+    "hi1": "रेस",
+    "hi2": "चलाएं"
+  },
+  {
+    "type": "positive",
+    "en1": "route",
+    "en2": "path",
+    "hi1": "रूट",
+    "hi2": "पाथ"
+  },
+  {
+    "type": "positive",
+    "en1": "recorded",
+    "en2": "register",
+    "hi1": "अंकित",
+    "hi2": "पंजीकरण"
+  },
+  {
+    "type": "positive",
+    "en1": "someone",
+    "en2": "mortal",
+    "hi1": "किसी",
+    "hi2": "नश्वर"
+  },
+  {
+    "type": "positive",
+    "en1": "civil",
+    "en2": "civic",
+    "hi1": "सिविल",
+    "hi2": "नागरिक"
+  },
+  {
+    "type": "positive",
+    "en1": "police",
+    "en2": "patrol",
+    "hi1": "पुलिस",
+    "hi2": "पैट्रोल"
+  },
+  {
+    "type": "positive",
+    "en1": "charles",
+    "en2": "charlemagne",
+    "hi1": "चार्ल्स",
+    "hi2": "शारलेमेन"
+  },
+  {
+    "type": "positive",
+    "en1": "listed",
+    "en2": "name",
+    "hi1": "सूचीबद्ध",
+    "hi2": "नाम"
+  },
+  {
+    "type": "positive",
+    "en1": "template",
+    "en2": "guide",
+    "hi1": "टेम्पलेट",
+    "hi2": "मार्गदर्शिका"
+  },
+  {
+    "type": "positive",
+    "en1": "instead",
+    "en2": "rather",
+    "hi1": "बजाय",
+    "hi2": "बल्कि"
+  },
+  {
+    "type": "positive",
+    "en1": "body",
+    "en2": "trunk",
+    "hi1": "देह",
+    "hi2": "ट्रंक"
+  },
+  {
+    "type": "positive",
+    "en1": "question",
+    "en2": "motion",
+    "hi1": "सवाल",
+    "hi2": "गति"
+  },
+  {
+    "type": "positive",
+    "en1": "featured",
+    "en2": "feature",
+    "hi1": "प्रदर्शित",
+    "hi2": "विशेषता"
+  },
+  {
+    "type": "positive",
+    "en1": "editors",
+    "en2": "editor",
+    "hi1": "सम्पादक",
+    "hi2": "एडिटर"
+  },
+  {
+    "type": "positive",
+    "en1": "chief",
+    "en2": "primary",
+    "hi1": "मुख्य",
+    "hi2": "प्राथमिक"
+  },
+  {
+    "type": "positive",
+    "en1": "close",
+    "en2": "finish",
+    "hi1": "बंद",
+    "hi2": "समाप्त"
+  },
+  {
+    "type": "positive",
+    "en1": "match",
+    "en2": "pit",
+    "hi1": "मैच",
+    "hi2": "गड्ढे"
+  },
+  {
+    "type": "positive",
+    "en1": "come",
+    "en2": "get",
+    "hi1": "आइये",
+    "hi2": "मिलेंगी"
+  },
+  {
+    "type": "positive",
+    "en1": "opened",
+    "en2": "spread",
+    "hi1": "खोली",
+    "hi2": "स्प्रेड"
+  },
+  {
+    "type": "positive",
+    "en1": "tour",
+    "en2": "turn",
+    "hi1": "दौरे",
+    "hi2": "फेरे"
+  },
+  {
+    "type": "positive",
+    "en1": "sea",
+    "en2": "ocean",
+    "hi1": "समुद्र",
+    "hi2": "समंदर"
+  },
+  {
+    "type": "positive",
+    "en1": "actually",
+    "en2": "really",
+    "hi1": "दरअसल",
+    "hi2": "वाकई"
+  },
+  {
+    "type": "positive",
+    "en1": "cross",
+    "en2": "fussy",
+    "hi1": "क्रॉस",
+    "hi2": "बखान"
+  },
+  {
+    "type": "positive",
+    "en1": "health",
+    "en2": "wellness",
+    "hi1": "स्वास्थ्य",
+    "hi2": "तंदुरुस्ती"
+  },
+  {
+    "type": "positive",
+    "en1": "institute",
+    "en2": "plant",
+    "hi1": "संस्थान",
+    "hi2": "संयंत्र"
+  },
+  {
+    "type": "positive",
+    "en1": "caps",
+    "en2": "ceiling",
+    "hi1": "कैप्स",
+    "hi2": "छत"
+  },
+  {
+    "type": "positive",
+    "en1": "forces",
+    "en2": "effect",
+    "hi1": "शक्तियां",
+    "hi2": "प्रभाव"
+  },
+  {
+    "type": "positive",
+    "en1": "green",
+    "en2": "jet",
+    "hi1": "ग्रीन",
+    "hi2": "जेट"
+  },
+  {
+    "type": "positive",
+    "en1": "rights",
+    "en2": "redress",
+    "hi1": "अधिकारों",
+    "hi2": "परितोष"
+  },
+  {
+    "type": "positive",
+    "en1": "evidence",
+    "en2": "tell",
+    "hi1": "प्रमाण",
+    "hi2": "बताना"
+  },
+  {
+    "type": "positive",
+    "en1": "arts",
+    "en2": "artwork",
+    "hi1": "कला",
+    "hi2": "कलाकृति"
+  },
+  {
+    "type": "positive",
+    "en1": "range",
+    "en2": "compass",
+    "hi1": "दायरा",
+    "hi2": "कम्पास"
+  },
+  {
+    "type": "positive",
+    "en1": "probably",
+    "en2": "likely",
+    "hi1": "संभवतः",
+    "hi2": "संभावित"
+  },
+  {
+    "type": "positive",
+    "en1": "bar",
+    "en2": "cake",
+    "hi1": "बार",
+    "hi2": "केक"
+  },
+  {
+    "type": "positive",
+    "en1": "problem",
+    "en2": "trouble",
+    "hi1": "प्रॉब्लम",
+    "hi2": "ट्रबल"
+  },
+  {
+    "type": "positive",
+    "en1": "look",
+    "en2": "face",
+    "hi1": "dekh",
+    "hi2": "फेस"
+  },
+  {
+    "type": "positive",
+    "en1": "issues",
+    "en2": "cut",
+    "hi1": "मुद्दे",
+    "hi2": "काटें"
+  },
+  {
+    "type": "positive",
+    "en1": "average",
+    "en2": "medium",
+    "hi1": "औसत",
+    "hi2": "मीडियम"
+  },
+  {
+    "type": "positive",
+    "en1": "network",
+    "en2": "mesh",
+    "hi1": "संजाल",
+    "hi2": "जाल"
+  },
+  {
+    "type": "positive",
+    "en1": "win",
+    "en2": "advance",
+    "hi1": "जीत",
+    "hi2": "अग्रिम"
+  },
+  {
+    "type": "positive",
+    "en1": "returned",
+    "en2": "yield",
+    "hi1": "लौटे",
+    "hi2": "उपज"
+  },
+  {
+    "type": "positive",
+    "en1": "night",
+    "en2": "nox",
+    "hi1": "रात्रि",
+    "hi2": "nox"
+  },
+  {
+    "type": "positive",
+    "en1": "magazine",
+    "en2": "cartridge",
+    "hi1": "पत्रिका",
+    "hi2": "कार्ट्रिज"
+  },
+  {
+    "type": "positive",
+    "en1": "centre",
+    "en2": "kernel",
+    "hi1": "केन्द्र",
+    "hi2": "कर्नेल"
+  },
+  {
+    "type": "positive",
+    "en1": "usually",
+    "en2": "ordinarily",
+    "hi1": "प्रायः",
+    "hi2": "साधारणतया"
+  },
+  {
+    "type": "positive",
+    "en1": "middle",
+    "en2": "center",
+    "hi1": "मध्य",
+    "hi2": "बीच"
+  },
+  {
+    "type": "positive",
+    "en1": "completed",
+    "en2": "accomplished",
+    "hi1": "समाप्त",
+    "hi2": "संपन्नता"
+  },
+  {
+    "type": "positive",
+    "en1": "able",
+    "en2": "capable",
+    "hi1": "समर्थ",
+    "hi2": "सक्षम"
+  },
+  {
+    "type": "positive",
+    "en1": "stage",
+    "en2": "degree",
+    "hi1": "स्टेज",
+    "hi2": "उपाधि"
+  },
+  {
+    "type": "positive",
+    "en1": "addition",
+    "en2": "increase",
+    "hi1": "जोड",
+    "hi2": "बढ़ाएँ"
+  },
+  {
+    "type": "positive",
+    "en1": "today",
+    "en2": "nowadays",
+    "hi1": "आज",
+    "hi2": "आजकल"
+  },
+  {
+    "type": "positive",
+    "en1": "saint",
+    "en2": "angel",
+    "hi1": "संत",
+    "hi2": "देवदूत"
+  },
+  {
+    "type": "positive",
+    "en1": "self",
+    "en2": "ego",
+    "hi1": "स्वः",
+    "hi2": "अहंकार"
+  },
+  {
+    "type": "positive",
+    "en1": "continued",
+    "en2": "preserve",
+    "hi1": "जारी",
+    "hi2": "बचाना"
+  },
+  {
+    "type": "positive",
+    "en1": "stations",
+    "en2": "place",
+    "hi1": "स्टेशन",
+    "hi2": "प्लेस"
+  },
+  {
+    "type": "positive",
+    "en1": "mother",
+    "en2": "father",
+    "hi1": "माँ",
+    "hi2": "पिता"
+  },
+  {
+    "type": "positive",
+    "en1": "culture",
+    "en2": "finish",
+    "hi1": "संस्कृति",
+    "hi2": "समाप्त"
+  },
+  {
+    "type": "positive",
+    "en1": "grand",
+    "en2": "tremendous",
+    "hi1": "ग्रैंड",
+    "hi2": "जबरदस्त"
+  },
+  {
+    "type": "positive",
+    "en1": "committee",
+    "en2": "commission",
+    "hi1": "कमेटी",
+    "hi2": "आयोग"
+  },
+  {
+    "type": "positive",
+    "en1": "things",
+    "en2": "thing",
+    "hi1": "बाते",
+    "hi2": "बात"
+  },
+  {
+    "type": "positive",
+    "en1": "fire",
+    "en2": "firing",
+    "hi1": "आग",
+    "hi2": "फायरिंग"
+  },
+  {
+    "type": "positive",
+    "en1": "changed",
+    "en2": "switch",
+    "hi1": "बदला",
+    "hi2": "स्विच"
+  },
+  {
+    "type": "positive",
+    "en1": "gold",
+    "en2": "golden",
+    "hi1": "सुनहरा",
+    "hi2": "सुनहरी"
+  },
+  {
+    "type": "positive",
+    "en1": "course",
+    "en2": "line",
+    "hi1": "कोर्स",
+    "hi2": "लकीर"
+  },
+  {
+    "type": "positive",
+    "en1": "directed",
+    "en2": "direct",
+    "hi1": "निर्देशित",
+    "hi2": "सीधा"
+  },
+  {
+    "type": "positive",
+    "en1": "months",
+    "en2": "month",
+    "hi1": "महीने",
+    "hi2": "माह"
+  },
+  {
+    "type": "positive",
+    "en1": "chinese",
+    "en2": "formosan",
+    "hi1": "चाइनीज",
+    "hi2": "formosan"
+  },
+  {
+    "type": "positive",
+    "en1": "previous",
+    "en2": "old",
+    "hi1": "पिछला",
+    "hi2": "बूढ़ा"
+  },
+  {
+    "type": "positive",
+    "en1": "developed",
+    "en2": "arise",
+    "hi1": "विकसित",
+    "hi2": "उठता"
+  },
+  {
+    "type": "positive",
+    "en1": "mentioned",
+    "en2": "name",
+    "hi1": "उल्लेखित",
+    "hi2": "नाम"
+  },
+  {
+    "type": "positive",
+    "en1": "add",
+    "en2": "contribute",
+    "hi1": "add",
+    "hi2": "योगदान"
+  },
+  {
+    "type": "positive",
+    "en1": "peter",
+    "en2": "tool",
+    "hi1": "पीटर",
+    "hi2": "औजार"
+  },
+  {
+    "type": "positive",
+    "en1": "move",
+    "en2": "run",
+    "hi1": "मूव",
+    "hi2": "चलाएं"
+  },
+  {
+    "type": "positive",
+    "en1": "performance",
+    "en2": "execution",
+    "hi1": "प्रदर्शन",
+    "hi2": "निष्पादन"
+  },
+  {
+    "type": "positive",
+    "en1": "standard",
+    "en2": "received",
+    "hi1": "मानक",
+    "hi2": "प्राप्त"
+  },
+  {
+    "type": "positive",
+    "en1": "means",
+    "en2": "agency",
+    "hi1": "अर्थात्",
+    "hi2": "एजेंसी"
+  },
+  {
+    "type": "positive",
+    "en1": "give",
+    "en2": "leave",
+    "hi1": "दे",
+    "hi2": "छोड़"
+  },
+  {
+    "type": "positive",
+    "en1": "training",
+    "en2": "direct",
+    "hi1": "प्रशिक्षण",
+    "hi2": "सीधा"
+  },
+  {
+    "type": "positive",
+    "en1": "word",
+    "en2": "bible",
+    "hi1": "शब्द",
+    "hi2": "बाइबल"
+  },
+  {
+    "type": "positive",
+    "en1": "blue",
+    "en2": "aristocratic",
+    "hi1": "ब्लू",
+    "hi2": "वैभवशाली"
+  },
+  {
+    "type": "positive",
+    "en1": "primary",
+    "en2": "master",
+    "hi1": "प्राथमिक",
+    "hi2": "निपुण"
+  },
+  {
+    "type": "positive",
+    "en1": "announced",
+    "en2": "herald",
+    "hi1": "घोषित",
+    "hi2": "हेराल्ड"
+  },
+  {
+    "type": "positive",
+    "en1": "value",
+    "en2": "prize",
+    "hi1": "मान",
+    "hi2": "पुरस्कार"
+  },
+  {
+    "type": "positive",
+    "en1": "private",
+    "en2": "individual",
+    "hi1": "निजी",
+    "hi2": "व्यक्तिगत"
+  },
+  {
+    "type": "positive",
+    "en1": "artists",
+    "en2": "artist",
+    "hi1": "कलाकारों",
+    "hi2": "कलाकार"
+  },
+  {
+    "type": "positive",
+    "en1": "view",
+    "en2": "thought",
+    "hi1": "दृश्य",
+    "hi2": "विचार"
+  },
+  {
+    "type": "positive",
+    "en1": "thus",
+    "en2": "frankincense",
+    "hi1": "यूँ",
+    "hi2": "लोबान"
+  },
+  {
+    "type": "positive",
+    "en1": "almost",
+    "en2": "near",
+    "hi1": "लगभग",
+    "hi2": "निकट"
+  },
+  {
+    "type": "positive",
+    "en1": "ever",
+    "en2": "always",
+    "hi1": "कभी",
+    "hi2": "सदा"
+  },
+  {
+    "type": "positive",
+    "en1": "technology",
+    "en2": "engineering",
+    "hi1": "प्रौद्योगिकी",
+    "hi2": "अभियान्त्रिकी"
+  },
+  {
+    "type": "positive",
+    "en1": "olympics",
+    "en2": "olympiad",
+    "hi1": "ओलंपिक",
+    "hi2": "ओलंपियाड"
+  },
+  {
+    "type": "positive",
+    "en1": "future",
+    "en2": "hereafter",
+    "hi1": "भविष्य",
+    "hi2": "आख़िरत"
+  },
+  {
+    "type": "positive",
+    "en1": "images",
+    "en2": "picture",
+    "hi1": "बिंब",
+    "hi2": "चित्र"
+  },
+  {
+    "type": "negative",
+    "en1": "sharpness",
+    "en2": "ogg",
+    "hi1": "तीखेपन",
+    "hi2": "ogg"
+  },
+  {
+    "type": "negative",
+    "en1": "republika",
+    "en2": "trending",
+    "hi1": "republika",
+    "hi2": "चर्चित"
+  },
+  {
+    "type": "negative",
+    "en1": "gustaf",
+    "en2": "peripheral",
+    "hi1": "गुस्टाफ",
+    "hi2": "परिधीय"
+  },
+  {
+    "type": "negative",
+    "en1": "ucd",
+    "en2": "obj",
+    "hi1": "ucd",
+    "hi2": "obj"
+  },
+  {
+    "type": "negative",
+    "en1": "jano",
+    "en2": "magma",
+    "hi1": "जानो",
+    "hi2": "मैग्मा"
+  },
+  {
+    "type": "negative",
+    "en1": "moti",
+    "en2": "expires",
+    "hi1": "moti",
+    "hi2": "समाप्त"
+  },
+  {
+    "type": "negative",
+    "en1": "luigi",
+    "en2": "vakhsh",
+    "hi1": "लुइगी",
+    "hi2": "वख़्श"
+  },
+  {
+    "type": "negative",
+    "en1": "merge",
+    "en2": "atkins",
+    "hi1": "विलय",
+    "hi2": "एटकिन्स"
+  },
+  {
+    "type": "negative",
+    "en1": "aida",
+    "en2": "gmt",
+    "hi1": "aida",
+    "hi2": "gmt"
+  },
+  {
+    "type": "negative",
+    "en1": "turonian",
+    "en2": "subtitle",
+    "hi1": "turonian",
+    "hi2": "उपशीर्षक"
+  },
+  {
+    "type": "negative",
+    "en1": "kafa",
+    "en2": "vif",
+    "hi1": "कफ़",
+    "hi2": "vif"
+  },
+  {
+    "type": "negative",
+    "en1": "egy",
+    "en2": "quiver",
+    "hi1": "egy",
+    "hi2": "तरकश"
+  },
+  {
+    "type": "negative",
+    "en1": "notions",
+    "en2": "eminent",
+    "hi1": "धारणाएं",
+    "hi2": "प्रतिष्ठित"
+  },
+  {
+    "type": "negative",
+    "en1": "grandis",
+    "en2": "hunt",
+    "hi1": "grandis",
+    "hi2": "हंट"
+  },
+  {
+    "type": "negative",
+    "en1": "amazon",
+    "en2": "nut",
+    "hi1": "amazon",
+    "hi2": "नट"
+  },
+  {
+    "type": "negative",
+    "en1": "terrorist",
+    "en2": "convex",
+    "hi1": "आतंकवादी",
+    "hi2": "उत्तल"
+  },
+  {
+    "type": "negative",
+    "en1": "seychelles",
+    "en2": "nishant",
+    "hi1": "australia",
+    "hi2": "निशांत"
+  },
+  {
+    "type": "negative",
+    "en1": "test",
+    "en2": "wrap",
+    "hi1": "परीक्षण",
+    "hi2": "रैप"
+  },
+  {
+    "type": "negative",
+    "en1": "radhika",
+    "en2": "sawan",
+    "hi1": "राधिका",
+    "hi2": "सावन"
+  },
+  {
+    "type": "negative",
+    "en1": "keeper",
+    "en2": "nap",
+    "hi1": "कीपर",
+    "hi2": "झपकी"
+  },
+  {
+    "type": "negative",
+    "en1": "fairs",
+    "en2": "ibc",
+    "hi1": "मेलों",
+    "hi2": "ibc"
+  },
+  {
+    "type": "negative",
+    "en1": "wisconsin",
+    "en2": "län",
+    "hi1": "विस्कॉन्सिन",
+    "hi2": "län"
+  },
+  {
+    "type": "negative",
+    "en1": "shenoy",
+    "en2": "nakhon",
+    "hi1": "शिनॉय",
+    "hi2": "nakhon"
+  },
+  {
+    "type": "negative",
+    "en1": "meru",
+    "en2": "craftsmen",
+    "hi1": "मेरु",
+    "hi2": "कारीगरों"
+  },
+  {
+    "type": "negative",
+    "en1": "glare",
+    "en2": "vague",
+    "hi1": "चकाचौंध",
+    "hi2": "अस्पष्ट"
+  },
+  {
+    "type": "negative",
+    "en1": "pande",
+    "en2": "beecher",
+    "hi1": "पाण्डे",
+    "hi2": "बीचर"
+  },
+  {
+    "type": "negative",
+    "en1": "dmt",
+    "en2": "stitches",
+    "hi1": "डीएमटी",
+    "hi2": "टांके"
+  },
+  {
+    "type": "negative",
+    "en1": "chemspider",
+    "en2": "rupee",
+    "hi1": "chemspider",
+    "hi2": "रुपया"
+  },
+  {
+    "type": "negative",
+    "en1": "strauss",
+    "en2": "indica",
+    "hi1": "स्ट्रॉस",
+    "hi2": "इंडिका"
+  },
+  {
+    "type": "negative",
+    "en1": "chan",
+    "en2": "rice",
+    "hi1": "chan",
+    "hi2": "राइस"
+  },
+  {
+    "type": "negative",
+    "en1": "aldansky",
+    "en2": "keeper",
+    "hi1": "aldansky",
+    "hi2": "कीपर"
+  },
+  {
+    "type": "negative",
+    "en1": "memorandum",
+    "en2": "sql",
+    "hi1": "ज्ञापन",
+    "hi2": "एसक्यूएल"
+  },
+  {
+    "type": "negative",
+    "en1": "nostradamus",
+    "en2": "rmb",
+    "hi1": "नास्त्रेदमस",
+    "hi2": "rmb"
+  },
+  {
+    "type": "negative",
+    "en1": "cockroaches",
+    "en2": "whitman",
+    "hi1": "तिलचट्टे",
+    "hi2": "व्हिटमैन"
+  },
+  {
+    "type": "negative",
+    "en1": "navel",
+    "en2": "garden",
+    "hi1": "नाभि",
+    "hi2": "गार्डन"
+  },
+  {
+    "type": "negative",
+    "en1": "reverberation",
+    "en2": "waxing",
+    "hi1": "अनुरणन",
+    "hi2": "वैक्सिंग"
+  },
+  {
+    "type": "negative",
+    "en1": "asit",
+    "en2": "sushmita",
+    "hi1": "असित",
+    "hi2": "सुष्मिता"
+  },
+  {
+    "type": "negative",
+    "en1": "syk",
+    "en2": "wessex",
+    "hi1": "syk",
+    "hi2": "wessex"
+  },
+  {
+    "type": "negative",
+    "en1": "gliese",
+    "en2": "moro",
+    "hi1": "ग्लीज़",
+    "hi2": "मोरो"
+  },
+  {
+    "type": "negative",
+    "en1": "synaptic",
+    "en2": "resident",
+    "hi1": "सिनेप्टिक",
+    "hi2": "निवासी"
+  },
+  {
+    "type": "negative",
+    "en1": "wls",
+    "en2": "panchkula",
+    "hi1": "wls",
+    "hi2": "पंचकुला"
+  },
+  {
+    "type": "negative",
+    "en1": "sns",
+    "en2": "bodyguard",
+    "hi1": "sns",
+    "hi2": "अंगरक्षक"
+  },
+  {
+    "type": "negative",
+    "en1": "vancouver",
+    "en2": "adolescent",
+    "hi1": "वैंकूवर",
+    "hi2": "adolescent"
+  },
+  {
+    "type": "negative",
+    "en1": "nirmal",
+    "en2": "kirchhoff",
+    "hi1": "निर्मल",
+    "hi2": "किरचॉफ"
+  },
+  {
+    "type": "negative",
+    "en1": "elephant",
+    "en2": "deadpool",
+    "hi1": "हाथी",
+    "hi2": "डेडपूल"
+  },
+  {
+    "type": "negative",
+    "en1": "transpiration",
+    "en2": "asiad",
+    "hi1": "वाष्पोत्सर्जन",
+    "hi2": "एशियाड"
+  },
+  {
+    "type": "negative",
+    "en1": "parel",
+    "en2": "sattar",
+    "hi1": "परेल",
+    "hi2": "सत्तार"
+  },
+  {
+    "type": "negative",
+    "en1": "theertham",
+    "en2": "introspection",
+    "hi1": "तीर्थम",
+    "hi2": "आत्मनिरीक्षण"
+  },
+  {
+    "type": "negative",
+    "en1": "kath",
+    "en2": "ntp",
+    "hi1": "कठ",
+    "hi2": "ntp"
+  },
+  {
+    "type": "negative",
+    "en1": "parra",
+    "en2": "shiney",
+    "hi1": "पेरा",
+    "hi2": "शाइनी"
+  },
+  {
+    "type": "negative",
+    "en1": "graphing",
+    "en2": "melanin",
+    "hi1": "graphing",
+    "hi2": "मेलेनिन"
+  },
+  {
+    "type": "negative",
+    "en1": "thom",
+    "en2": "hacked",
+    "hi1": "थोम",
+    "hi2": "हैक"
+  },
+  {
+    "type": "negative",
+    "en1": "rasping",
+    "en2": "trl",
+    "hi1": "सरसराहट",
+    "hi2": "trl"
+  },
+  {
+    "type": "negative",
+    "en1": "plexus",
+    "en2": "hrs",
+    "hi1": "प्लेक्सस",
+    "hi2": "घंटे"
+  },
+  {
+    "type": "negative",
+    "en1": "ipad",
+    "en2": "hotcat",
+    "hi1": "ipad",
+    "hi2": "hotcat"
+  },
+  {
+    "type": "negative",
+    "en1": "bangla",
+    "en2": "byc",
+    "hi1": "बंगला",
+    "hi2": "byc"
+  },
+  {
+    "type": "negative",
+    "en1": "jorhat",
+    "en2": "mccain",
+    "hi1": "जोरहाट",
+    "hi2": "मैक्केन"
+  },
+  {
+    "type": "negative",
+    "en1": "x^n",
+    "en2": "hanger",
+    "hi1": "x^n",
+    "hi2": "पिछलग्गू"
+  },
+  {
+    "type": "negative",
+    "en1": "starship",
+    "en2": "eez",
+    "hi1": "तारायान",
+    "hi2": "eez"
+  },
+  {
+    "type": "negative",
+    "en1": "parsons",
+    "en2": "västervik",
+    "hi1": "पार्सन्स",
+    "hi2": "västervik"
+  },
+  {
+    "type": "negative",
+    "en1": "momento",
+    "en2": "misunderstanding",
+    "hi1": "momento",
+    "hi2": "गलतफहमी"
+  },
+  {
+    "type": "negative",
+    "en1": "ranthambore",
+    "en2": "foreground",
+    "hi1": "रणथंभोर",
+    "hi2": "अग्रभूमि"
+  },
+  {
+    "type": "negative",
+    "en1": "carotene",
+    "en2": "coi",
+    "hi1": "केरोटीन",
+    "hi2": "coi"
+  },
+  {
+    "type": "negative",
+    "en1": "decoding",
+    "en2": "#http",
+    "hi1": "डिकोडिंग",
+    "hi2": "#http"
+  },
+  {
+    "type": "negative",
+    "en1": "usps",
+    "en2": "dor",
+    "hi1": "usps",
+    "hi2": "डोर"
+  },
+  {
+    "type": "negative",
+    "en1": "conde",
+    "en2": "dashboard",
+    "hi1": "कोंडे",
+    "hi2": "डैशबोर्ड"
+  },
+  {
+    "type": "negative",
+    "en1": "telmo",
+    "en2": "climate",
+    "hi1": "telmo",
+    "hi2": "जलवायु"
+  },
+  {
+    "type": "negative",
+    "en1": "nulla",
+    "en2": "bga",
+    "hi1": "nulla",
+    "hi2": "bga"
+  },
+  {
+    "type": "negative",
+    "en1": "cardinalfish",
+    "en2": "kyuss",
+    "hi1": "cardinalfish",
+    "hi2": "क्यूस"
+  },
+  {
+    "type": "negative",
+    "en1": "testimony",
+    "en2": "evolved",
+    "hi1": "गवाही",
+    "hi2": "विकसित"
+  },
+  {
+    "type": "negative",
+    "en1": "vaz",
+    "en2": "mehra",
+    "hi1": "vaz",
+    "hi2": "मेहरा"
+  },
+  {
+    "type": "negative",
+    "en1": "romar",
+    "en2": "rafi",
+    "hi1": "रोमर",
+    "hi2": "रफ़ी"
+  },
+  {
+    "type": "negative",
+    "en1": "pubic",
+    "en2": "starwood",
+    "hi1": "जननांग",
+    "hi2": "स्टारवुड"
+  },
+  {
+    "type": "negative",
+    "en1": "swordsman",
+    "en2": "dwindled",
+    "hi1": "तलवारबाज",
+    "hi2": "होगई"
+  },
+  {
+    "type": "negative",
+    "en1": "litre",
+    "en2": "english}}",
+    "hi1": "लीटर",
+    "hi2": "english}}"
+  },
+  {
+    "type": "negative",
+    "en1": "gwadar",
+    "en2": "decode",
+    "hi1": "ग्वादर",
+    "hi2": "डिकोड"
+  },
+  {
+    "type": "negative",
+    "en1": "attach",
+    "en2": "home",
+    "hi1": "संलग्न",
+    "hi2": "घर"
+  },
+  {
+    "type": "negative",
+    "en1": "anna",
+    "en2": "udon",
+    "hi1": "anna",
+    "hi2": "उदोन"
+  },
+  {
+    "type": "negative",
+    "en1": "kbr",
+    "en2": "golgotha",
+    "hi1": "kbr",
+    "hi2": "लेटना"
+  },
+  {
+    "type": "negative",
+    "en1": "preliminary",
+    "en2": "poses",
+    "hi1": "प्रारंभिक",
+    "hi2": "मुद्राएँ"
+  },
+  {
+    "type": "negative",
+    "en1": "csw",
+    "en2": "conan",
+    "hi1": "csw",
+    "hi2": "कोनन"
+  },
+  {
+    "type": "negative",
+    "en1": "nsd",
+    "en2": "akkadian",
+    "hi1": "nsd",
+    "hi2": "अक्कादी"
+  },
+  {
+    "type": "negative",
+    "en1": "tarzan",
+    "en2": "ulcerative",
+    "hi1": "टार्ज़न",
+    "hi2": "ulcerative"
+  },
+  {
+    "type": "negative",
+    "en1": "université",
+    "en2": "ischemic",
+    "hi1": "université",
+    "hi2": "ischemic"
+  },
+  {
+    "type": "negative",
+    "en1": "babasaheb",
+    "en2": "daewoo",
+    "hi1": "बाबासाहेब",
+    "hi2": "देवू"
+  },
+  {
+    "type": "negative",
+    "en1": "english",
+    "en2": "bhasa",
+    "hi1": "अंग्रेज़ी",
+    "hi2": "bhasa"
+  },
+  {
+    "type": "negative",
+    "en1": "camel",
+    "en2": "millennials",
+    "hi1": "ऊँट",
+    "hi2": "सहस्त्राब्दी"
+  },
+  {
+    "type": "negative",
+    "en1": "rican",
+    "en2": "cumulus",
+    "hi1": "rican",
+    "hi2": "कपासी"
+  },
+  {
+    "type": "negative",
+    "en1": "lokayukta",
+    "en2": "colorectal",
+    "hi1": "लोकायुक्त",
+    "hi2": "कोलोरेक्टल"
+  },
+  {
+    "type": "negative",
+    "en1": "vegas",
+    "en2": "lush",
+    "hi1": "वेगास",
+    "hi2": "रसीले"
+  },
+  {
+    "type": "negative",
+    "en1": "venerable",
+    "en2": "worth",
+    "hi1": "आदरणीय",
+    "hi2": "लायक"
+  },
+  {
+    "type": "negative",
+    "en1": "pokhara",
+    "en2": "org",
+    "hi1": "पोखरा",
+    "hi2": "org"
+  },
+  {
+    "type": "negative",
+    "en1": "symmetry",
+    "en2": "tbn",
+    "hi1": "सममिति",
+    "hi2": "tbn"
+  },
+  {
+    "type": "negative",
+    "en1": "yehi",
+    "en2": "usually",
+    "hi1": "yehi",
+    "hi2": "प्रायः"
+  },
+  {
+    "type": "negative",
+    "en1": "eragon",
+    "en2": "bouillon",
+    "hi1": "एरागोन",
+    "hi2": "झोल"
+  },
+  {
+    "type": "negative",
+    "en1": "princesses",
+    "en2": "laughed",
+    "hi1": "राजकुमारियों",
+    "hi2": "हँसे"
+  },
+  {
+    "type": "negative",
+    "en1": "noted",
+    "en2": "gowda",
+    "hi1": "विख्यात",
+    "hi2": "गौड़ा"
+  },
+  {
+    "type": "negative",
+    "en1": "eligibility",
+    "en2": "methyltransferase",
+    "hi1": "पात्रता",
+    "hi2": "methyltransferase"
+  },
+  {
+    "type": "negative",
+    "en1": "vesicular",
+    "en2": "kallu",
+    "hi1": "vesicular",
+    "hi2": "कल्लू"
+  },
+  {
+    "type": "negative",
+    "en1": "singing",
+    "en2": "variation",
+    "hi1": "गायन",
+    "hi2": "विभिन्नता"
+  },
+  {
+    "type": "negative",
+    "en1": "deep",
+    "en2": "xvid",
+    "hi1": "गहन",
+    "hi2": "xvid"
+  },
+  {
+    "type": "negative",
+    "en1": "vani",
+    "en2": "jumanji",
+    "hi1": "वाणी",
+    "hi2": "जुमांजी"
+  },
+  {
+    "type": "negative",
+    "en1": "jee",
+    "en2": "brightness",
+    "hi1": "jee",
+    "hi2": "चमकीली"
+  },
+  {
+    "type": "negative",
+    "en1": "arora",
+    "en2": "cinderella",
+    "hi1": "अरोड़ा",
+    "hi2": "सिंडरेला"
+  },
+  {
+    "type": "negative",
+    "en1": "sheri",
+    "en2": "endure",
+    "hi1": "शेरी",
+    "hi2": "सहन"
+  },
+  {
+    "type": "negative",
+    "en1": "allegation",
+    "en2": "culprits",
+    "hi1": "लटके",
+    "hi2": "अपराधियों"
+  },
+  {
+    "type": "negative",
+    "en1": "espasa",
+    "en2": "consequently",
+    "hi1": "espasa",
+    "hi2": "नतीजतन"
+  },
+  {
+    "type": "negative",
+    "en1": "shetland",
+    "en2": "knorr",
+    "hi1": "शेटलैंड",
+    "hi2": "knorr"
+  },
+  {
+    "type": "negative",
+    "en1": "aata",
+    "en2": "olive",
+    "hi1": "aata",
+    "hi2": "ज़ैतून"
+  },
+  {
+    "type": "negative",
+    "en1": "mulberry",
+    "en2": "bricks",
+    "hi1": "शहतूत",
+    "hi2": "ईंटें"
+  },
+  {
+    "type": "negative",
+    "en1": "elsevier",
+    "en2": "certain",
+    "hi1": "elsevier",
+    "hi2": "निश्चित"
+  },
+  {
+    "type": "negative",
+    "en1": "honda",
+    "en2": "rtg",
+    "hi1": "होंडा",
+    "hi2": "rtg"
+  },
+  {
+    "type": "negative",
+    "en1": "john",
+    "en2": "phosphorescence",
+    "hi1": "जॉन",
+    "hi2": "स्फुरदीप्ति"
+  },
+  {
+    "type": "negative",
+    "en1": "clinic",
+    "en2": "hui",
+    "hi1": "क्लिनिक",
+    "hi2": "hui"
+  },
+  {
+    "type": "negative",
+    "en1": "kathleen",
+    "en2": "sells",
+    "hi1": "कैथलीन",
+    "hi2": "बिकता"
+  },
+  {
+    "type": "negative",
+    "en1": "shijiazhuang",
+    "en2": "departed",
+    "hi1": "शिजियाझुआंग",
+    "hi2": "रजि"
+  },
+  {
+    "type": "negative",
+    "en1": "imhotep",
+    "en2": "birsa",
+    "hi1": "imhotep",
+    "hi2": "बिरसा"
+  },
+  {
+    "type": "negative",
+    "en1": "bonobo",
+    "en2": "telluric",
+    "hi1": "बोनोबो",
+    "hi2": "telluric"
+  },
+  {
+    "type": "negative",
+    "en1": "purest",
+    "en2": "assesses",
+    "hi1": "विशुद्ध",
+    "hi2": "प्रकृती"
+  },
+  {
+    "type": "negative",
+    "en1": "zagato",
+    "en2": "wednesdays",
+    "hi1": "zagato",
+    "hi2": "बुधवार"
+  },
+  {
+    "type": "negative",
+    "en1": "mesmerising",
+    "en2": "obvious",
+    "hi1": "सम्मोहित",
+    "hi2": "स्पष्ट"
+  },
+  {
+    "type": "negative",
+    "en1": "qinghai",
+    "en2": "lamellar",
+    "hi1": "चिंगहई",
+    "hi2": "lamellar"
+  },
+  {
+    "type": "negative",
+    "en1": "math",
+    "en2": "artistic",
+    "hi1": "गणित",
+    "hi2": "कलाकारी"
+  },
+  {
+    "type": "negative",
+    "en1": "descendant",
+    "en2": "bros",
+    "hi1": "वंशज",
+    "hi2": "ब्रदर्स"
+  },
+  {
+    "type": "negative",
+    "en1": "myths",
+    "en2": "jalaun",
+    "hi1": "मिथकों",
+    "hi2": "जालौन"
+  },
+  {
+    "type": "negative",
+    "en1": "aqua",
+    "en2": "gällivare",
+    "hi1": "एक्वा",
+    "hi2": "gällivare"
+  },
+  {
+    "type": "negative",
+    "en1": "danna",
+    "en2": "convince",
+    "hi1": "डाना",
+    "hi2": "मनाना"
+  },
+  {
+    "type": "negative",
+    "en1": "triggerfish",
+    "en2": "marne",
+    "hi1": "triggerfish",
+    "hi2": "marne"
+  },
+  {
+    "type": "negative",
+    "en1": "hukam",
+    "en2": "gifs",
+    "hi1": "हुकम",
+    "hi2": "gif"
+  },
+  {
+    "type": "negative",
+    "en1": "tunguska",
+    "en2": "multinational",
+    "hi1": "तुंगुस्का",
+    "hi2": "बहुराष्ट्रीय"
+  },
+  {
+    "type": "negative",
+    "en1": "pork",
+    "en2": "silk",
+    "hi1": "पोर्क",
+    "hi2": "रेशा"
+  },
+  {
+    "type": "negative",
+    "en1": "squadron",
+    "en2": "eps",
+    "hi1": "स्क्वाड्रन",
+    "hi2": "eps"
+  },
+  {
+    "type": "negative",
+    "en1": "vsd",
+    "en2": "andrews",
+    "hi1": "vsd",
+    "hi2": "एंड्रयूज"
+  },
+  {
+    "type": "negative",
+    "en1": "nanning",
+    "en2": "immigrants",
+    "hi1": "नाननींग",
+    "hi2": "आप्रवासियों"
+  },
+  {
+    "type": "negative",
+    "en1": "freiburg",
+    "en2": "hyperthyroidism",
+    "hi1": "freiburg",
+    "hi2": "हाइपरथाइरॉयडिज़्म"
+  },
+  {
+    "type": "negative",
+    "en1": "fleece",
+    "en2": "zara",
+    "hi1": "ऊन",
+    "hi2": "ज़ारा"
+  },
+  {
+    "type": "negative",
+    "en1": "asia",
+    "en2": "emotion",
+    "hi1": "एशिया",
+    "hi2": "जज्बात"
+  },
+  {
+    "type": "negative",
+    "en1": "kampf",
+    "en2": "matte",
+    "hi1": "कैम्फ",
+    "hi2": "मैट"
+  },
+  {
+    "type": "negative",
+    "en1": "dynamometer",
+    "en2": "stupidest",
+    "hi1": "डाइनेमोमीटर",
+    "hi2": "bmc"
+  },
+  {
+    "type": "negative",
+    "en1": "monk",
+    "en2": "cems",
+    "hi1": "भिक्षु",
+    "hi2": "cems"
+  },
+  {
+    "type": "negative",
+    "en1": "rapti",
+    "en2": "coworkers",
+    "hi1": "राप्ती",
+    "hi2": "सहकर्मी"
+  },
+  {
+    "type": "negative",
+    "en1": "amélie",
+    "en2": "maguire",
+    "hi1": "amélie",
+    "hi2": "मैग्वायर"
+  },
+  {
+    "type": "negative",
+    "en1": "vinnie",
+    "en2": "nuestra",
+    "hi1": "vinnie",
+    "hi2": "nuestra"
+  },
+  {
+    "type": "negative",
+    "en1": "agitation",
+    "en2": "fashionable",
+    "hi1": "आंदोलन",
+    "hi2": "फैशनेबल"
+  },
+  {
+    "type": "negative",
+    "en1": "audience",
+    "en2": "beni",
+    "hi1": "दर्शक",
+    "hi2": "बेनी"
+  },
+  {
+    "type": "negative",
+    "en1": "lagoons",
+    "en2": "supervisory",
+    "hi1": "lagoons",
+    "hi2": "सुपरवाइजरी"
+  },
+  {
+    "type": "negative",
+    "en1": "appu",
+    "en2": "ganjam",
+    "hi1": "अप्पू",
+    "hi2": "गंजाम"
+  },
+  {
+    "type": "negative",
+    "en1": "bribery",
+    "en2": "kurnool",
+    "hi1": "घूस",
+    "hi2": "कुर्नूल"
+  },
+  {
+    "type": "negative",
+    "en1": "kotla",
+    "en2": "bohra",
+    "hi1": "कोटला",
+    "hi2": "बोहरा"
+  },
+  {
+    "type": "negative",
+    "en1": "sheopur",
+    "en2": "verification",
+    "hi1": "श्योपुर",
+    "hi2": "सत्यापन"
+  },
+  {
+    "type": "negative",
+    "en1": "armstrong",
+    "en2": "emf",
+    "hi1": "आर्मस्ट्रांग",
+    "hi2": "emf"
+  },
+  {
+    "type": "negative",
+    "en1": "filter",
+    "en2": "amnesty",
+    "hi1": "फिल्टर",
+    "hi2": "माफ़ी"
+  },
+  {
+    "type": "negative",
+    "en1": "fixtures",
+    "en2": "mara",
+    "hi1": "निर्धारण",
+    "hi2": "मारा"
+  },
+  {
+    "type": "negative",
+    "en1": "regel",
+    "en2": "digital",
+    "hi1": "regel",
+    "hi2": "डिजिटल"
+  },
+  {
+    "type": "negative",
+    "en1": "cutter",
+    "en2": "viru",
+    "hi1": "कटर",
+    "hi2": "वीरू"
+  },
+  {
+    "type": "negative",
+    "en1": "steele",
+    "en2": "vom",
+    "hi1": "स्टील",
+    "hi2": "vom"
+  },
+  {
+    "type": "negative",
+    "en1": "mediterranean",
+    "en2": "overtime",
+    "hi1": "भूमध्यसागरीय",
+    "hi2": "ओवरटाइम"
+  },
+  {
+    "type": "negative",
+    "en1": "exalt",
+    "en2": "ultra",
+    "hi1": "पदोन्नत",
+    "hi2": "अल्ट्रा"
+  },
+  {
+    "type": "negative",
+    "en1": "uhfffaoysa",
+    "en2": "webcast",
+    "hi1": "uhfffaoysa",
+    "hi2": "वेबकास्ट"
+  },
+  {
+    "type": "negative",
+    "en1": "economic",
+    "en2": "programs",
+    "hi1": "आर्थिक",
+    "hi2": "कार्यक्रम"
+  },
+  {
+    "type": "negative",
+    "en1": "corrosion",
+    "en2": "blaster",
+    "hi1": "संक्षारण",
+    "hi2": "ब्लास्टर"
+  },
+  {
+    "type": "negative",
+    "en1": "seminar",
+    "en2": "be,",
+    "hi1": "सेमिनार",
+    "hi2": "हो,"
+  },
+  {
+    "type": "negative",
+    "en1": "devo",
+    "en2": "thirteen",
+    "hi1": "देवो",
+    "hi2": "तेरह"
+  },
+  {
+    "type": "negative",
+    "en1": "ath",
+    "en2": "beaker",
+    "hi1": "ath",
+    "hi2": "बीकर"
+  },
+  {
+    "type": "negative",
+    "en1": "eko",
+    "en2": "preparing",
+    "hi1": "एको",
+    "hi2": "तैयारी"
+  },
+  {
+    "type": "negative",
+    "en1": "kabir",
+    "en2": "relevant",
+    "hi1": "कबीर",
+    "hi2": "प्रासंगिक"
+  },
+  {
+    "type": "negative",
+    "en1": "nwa",
+    "en2": "gotta",
+    "hi1": "nwa",
+    "hi2": "पड़ेगा"
+  },
+  {
+    "type": "negative",
+    "en1": "doctorate",
+    "en2": "vijaya",
+    "hi1": "डॉक्टरेट",
+    "hi2": "विजया"
+  },
+  {
+    "type": "negative",
+    "en1": "moods",
+    "en2": "ieds",
+    "hi1": "मिज़ाज",
+    "hi2": "ieds"
+  },
+  {
+    "type": "negative",
+    "en1": "exploitation",
+    "en2": "corresponding",
+    "hi1": "शोषण",
+    "hi2": "सम्बन्धित"
+  },
+  {
+    "type": "negative",
+    "en1": "incompressible",
+    "en2": "dvr",
+    "hi1": "incompressible",
+    "hi2": "डीवीआर"
+  },
+  {
+    "type": "negative",
+    "en1": "khurshid",
+    "en2": "breath",
+    "hi1": "खुर्शीद",
+    "hi2": "साँस"
+  },
+  {
+    "type": "negative",
+    "en1": "many",
+    "en2": "laminal",
+    "hi1": "अनेक",
+    "hi2": "laminal"
+  },
+  {
+    "type": "negative",
+    "en1": "joe",
+    "en2": "outfield",
+    "hi1": "जो",
+    "hi2": "आउटफील्ड"
+  },
+  {
+    "type": "negative",
+    "en1": "fragile",
+    "en2": "watanabe",
+    "hi1": "नाजुक",
+    "hi2": "watanabe"
+  },
+  {
+    "type": "negative",
+    "en1": "schematics",
+    "en2": "additives",
+    "hi1": "schematics",
+    "hi2": "एडिटिव"
+  },
+  {
+    "type": "negative",
+    "en1": "prevalent",
+    "en2": "kafr",
+    "hi1": "प्रचलित",
+    "hi2": "कफर"
+  },
+  {
+    "type": "negative",
+    "en1": "arunachal",
+    "en2": "kitty",
+    "hi1": "अरुणाचल",
+    "hi2": "किट्टी"
+  },
+  {
+    "type": "negative",
+    "en1": "purandara",
+    "en2": "harlot",
+    "hi1": "purandara",
+    "hi2": "बदचलन"
+  },
+  {
+    "type": "negative",
+    "en1": "jamaica",
+    "en2": "backwards",
+    "hi1": "जमैका",
+    "hi2": "पीछे"
+  },
+  {
+    "type": "negative",
+    "en1": "persuasion",
+    "en2": "chepstow",
+    "hi1": "अनुनय",
+    "hi2": "चेप्स्टो"
+  },
+  {
+    "type": "negative",
+    "en1": "roxburgh",
+    "en2": "iap",
+    "hi1": "roxburgh",
+    "hi2": "iap"
+  },
+  {
+    "type": "negative",
+    "en1": "indische",
+    "en2": "unpleasant",
+    "hi1": "indische",
+    "hi2": "अप्रिय"
+  },
+  {
+    "type": "negative",
+    "en1": "bundesarchiv",
+    "en2": "amey",
+    "hi1": "bundesarchiv",
+    "hi2": "अमेय"
+  },
+  {
+    "type": "negative",
+    "en1": "kuta",
+    "en2": "durga",
+    "hi1": "कूट",
+    "hi2": "दुर्गा"
+  },
+  {
+    "type": "negative",
+    "en1": "tibet",
+    "en2": "fascist",
+    "hi1": "तिब्बत",
+    "hi2": "फासिस्ट"
+  },
+  {
+    "type": "negative",
+    "en1": "essay",
+    "en2": "rhizome",
+    "hi1": "निबन्ध",
+    "hi2": "rhizome"
+  },
+  {
+    "type": "negative",
+    "en1": "pashupatinath",
+    "en2": "brb",
+    "hi1": "पशुपतिनाथ",
+    "hi2": "brb"
+  },
+  {
+    "type": "negative",
+    "en1": "härnösand",
+    "en2": "ide",
+    "hi1": "härnösand",
+    "hi2": "आईडीई"
+  },
+  {
+    "type": "negative",
+    "en1": "villagers",
+    "en2": "stud",
+    "hi1": "ग्रामीणों",
+    "hi2": "घुड़साल"
+  },
+  {
+    "type": "negative",
+    "en1": "liddell",
+    "en2": "hector",
+    "hi1": "लिडेल",
+    "hi2": "हेक्टर"
+  },
+  {
+    "type": "negative",
+    "en1": "malawi",
+    "en2": "sternum",
+    "hi1": "मलावी",
+    "hi2": "sternum"
+  },
+  {
+    "type": "negative",
+    "en1": "dilip",
+    "en2": "geyser",
+    "hi1": "दिलीप",
+    "hi2": "गीजर"
+  },
+  {
+    "type": "negative",
+    "en1": "théâtre",
+    "en2": "plus",
+    "hi1": "théâtre",
+    "hi2": "प्लस"
+  },
+  {
+    "type": "negative",
+    "en1": "galaxies",
+    "en2": "master",
+    "hi1": "आकाशगंगाएँ",
+    "hi2": "निपुण"
+  },
+  {
+    "type": "negative",
+    "en1": "nacl",
+    "en2": "cheryl",
+    "hi1": "nacl",
+    "hi2": "चेरिल"
+  },
+  {
+    "type": "negative",
+    "en1": "dayal",
+    "en2": "bhuvan",
+    "hi1": "दयाल",
+    "hi2": "भुवन"
+  },
+  {
+    "type": "negative",
+    "en1": "dodie",
+    "en2": "announcements",
+    "hi1": "डोडी",
+    "hi2": "घोषणाएँ"
+  },
+  {
+    "type": "negative",
+    "en1": "goodbye",
+    "en2": "maher",
+    "hi1": "अलविदा",
+    "hi2": "महेर"
+  },
+  {
+    "type": "negative",
+    "en1": "cauldrons",
+    "en2": "rescued",
+    "hi1": "थाल",
+    "hi2": "बचाया"
+  },
+  {
+    "type": "negative",
+    "en1": "cupboard",
+    "en2": "cru",
+    "hi1": "अलमारी",
+    "hi2": "cru"
+  },
+  {
+    "type": "negative",
+    "en1": "envelopes",
+    "en2": "minimum",
+    "hi1": "लिफाफे",
+    "hi2": "न्यूनतम"
+  },
+  {
+    "type": "negative",
+    "en1": "harvesters",
+    "en2": "ldap",
+    "hi1": "हार्वेस्टर",
+    "hi2": "एलडीएपी"
+  },
+  {
+    "type": "negative",
+    "en1": "obaid",
+    "en2": "kohima",
+    "hi1": "ओबैद",
+    "hi2": "कोहिमा"
+  },
+  {
+    "type": "negative",
+    "en1": "invention",
+    "en2": "spj",
+    "hi1": "आविष्कार",
+    "hi2": "spj"
+  },
+  {
+    "type": "negative",
+    "en1": "nurses",
+    "en2": "borphukan",
+    "hi1": "नर्स",
+    "hi2": "बोड़फुकन"
+  },
+  {
+    "type": "negative",
+    "en1": "daman",
+    "en2": "sund",
+    "hi1": "दमन",
+    "hi2": "sund"
+  },
+  {
+    "type": "negative",
+    "en1": "newspaper",
+    "en2": "capone",
+    "hi1": "समाचारपत्र",
+    "hi2": "कपोन"
+  },
+  {
+    "type": "negative",
+    "en1": "gathering",
+    "en2": "byte",
+    "hi1": "महफ़िल",
+    "hi2": "बाइट"
+  },
+  {
+    "type": "negative",
+    "en1": "mundo",
+    "en2": "pta",
+    "hi1": "mundo",
+    "hi2": "pta"
+  },
+  {
+    "type": "negative",
+    "en1": "again,",
+    "en2": "uncomfortable",
+    "hi1": "फिर,",
+    "hi2": "असहज"
+  },
+  {
+    "type": "negative",
+    "en1": "paratroopers",
+    "en2": "prokaryotes",
+    "hi1": "paratroopers",
+    "hi2": "prokaryotes"
+  },
+  {
+    "type": "negative",
+    "en1": "reh",
+    "en2": "benni",
+    "hi1": "रह",
+    "hi2": "बेन्नी"
+  },
+  {
+    "type": "negative",
+    "en1": "marvin",
+    "en2": "visa",
+    "hi1": "मारविन",
+    "hi2": "वीज़ा"
+  },
+  {
+    "type": "negative",
+    "en1": "symbiosis",
+    "en2": "oceanographic",
+    "hi1": "symbiosis",
+    "hi2": "oceanographic"
+  },
+  {
+    "type": "negative",
+    "en1": "memoir",
+    "en2": "fatherhood",
+    "hi1": "संस्मरण",
+    "hi2": "पितृत्व"
+  },
+  {
+    "type": "negative",
+    "en1": "lost",
+    "en2": "paolo",
+    "hi1": "खोया",
+    "hi2": "पाउलो"
+  },
+  {
+    "type": "negative",
+    "en1": "hysterics",
+    "en2": "idealist",
+    "hi1": "मिरगी",
+    "hi2": "आदर्शवादी"
+  },
+  {
+    "type": "negative",
+    "en1": "karakalpakstan",
+    "en2": "darshan",
+    "hi1": "क़ाराक़ालपाक़स्तान",
+    "hi2": "darshan"
+  },
+  {
+    "type": "negative",
+    "en1": "imagefiler",
+    "en2": "anselm",
+    "hi1": "imagefiler",
+    "hi2": "anselm"
+  },
+  {
+    "type": "negative",
+    "en1": "purportedly",
+    "en2": "sawfish",
+    "hi1": "अधिकारीगण",
+    "hi2": "sawfish"
+  },
+  {
+    "type": "negative",
+    "en1": "striker",
+    "en2": "agenda",
+    "hi1": "स्ट्राइकर",
+    "hi2": "कार्यसूची"
+  },
+  {
+    "type": "negative",
+    "en1": "kardashian",
+    "en2": "swot",
+    "hi1": "कार्दशियन",
+    "hi2": "सन्तों"
+  },
+  {
+    "type": "negative",
+    "en1": "khaja",
+    "en2": "konda",
+    "hi1": "खाजा",
+    "hi2": "कोंडा"
+  },
+  {
+    "type": "negative",
+    "en1": "gpp",
+    "en2": "coulter",
+    "hi1": "जीपीपी",
+    "hi2": "कल्टर"
+  },
+  {
+    "type": "negative",
+    "en1": "gioro",
+    "en2": "talat",
+    "hi1": "गियोरो",
+    "hi2": "तलत"
+  },
+  {
+    "type": "negative",
+    "en1": "thirteenth",
+    "en2": "oberon",
+    "hi1": "तेरहवीं",
+    "hi2": "oberon"
+  },
+  {
+    "type": "negative",
+    "en1": "primality",
+    "en2": "barbie",
+    "hi1": "primality",
+    "hi2": "बार्बी"
+  },
+  {
+    "type": "negative",
+    "en1": "departs",
+    "en2": "aggregated",
+    "hi1": "प्रस्थान",
+    "hi2": "समग्र"
+  },
+  {
+    "type": "negative",
+    "en1": "drongo",
+    "en2": "massimo",
+    "hi1": "drongo",
+    "hi2": "मास्सिमो"
+  },
+  {
+    "type": "negative",
+    "en1": "guile",
+    "en2": "blends",
+    "hi1": "छल",
+    "hi2": "मिश्रणों"
+  },
+  {
+    "type": "negative",
+    "en1": "publ",
+    "en2": "gaseous",
+    "hi1": "publ",
+    "hi2": "गैसीय"
+  },
+  {
+    "type": "negative",
+    "en1": "menace",
+    "en2": "races",
+    "hi1": "संकट",
+    "hi2": "दौड़"
+  },
+  {
+    "type": "negative",
+    "en1": "sumitomo",
+    "en2": "nimruz",
+    "hi1": "sumitomo",
+    "hi2": "नीमरूज़"
+  },
+  {
+    "type": "negative",
+    "en1": "nandan",
+    "en2": "glycerol",
+    "hi1": "नन्दन",
+    "hi2": "ग्लीसरीन"
+  },
+  {
+    "type": "negative",
+    "en1": "toe",
+    "en2": "traffic",
+    "hi1": "टो",
+    "hi2": "ट्रैफ़िक"
+  },
+  {
+    "type": "negative",
+    "en1": "loan",
+    "en2": "taskforces",
+    "hi1": "ऋण",
+    "hi2": "कार्यबल"
+  },
+  {
+    "type": "negative",
+    "en1": "housefull",
+    "en2": "timurid",
+    "hi1": "हाउसफुल",
+    "hi2": "तैमूरी"
+  },
+  {
+    "type": "negative",
+    "en1": "capa",
+    "en2": "skeleton",
+    "hi1": "capa",
+    "hi2": "कंकाल"
+  },
+  {
+    "type": "negative",
+    "en1": "prev",
+    "en2": "nizam",
+    "hi1": "पिछला",
+    "hi2": "निजाम"
+  },
+  {
+    "type": "negative",
+    "en1": "grove",
+    "en2": "sohna",
+    "hi1": "ग्रोव",
+    "hi2": "सोहना"
+  },
+  {
+    "type": "negative",
+    "en1": "sye",
+    "en2": "explained",
+    "hi1": "sye",
+    "hi2": "समझाया"
+  },
+  {
+    "type": "negative",
+    "en1": "warriors",
+    "en2": "organs",
+    "hi1": "योद्धाओं",
+    "hi2": "अंगों"
+  },
+  {
+    "type": "negative",
+    "en1": "meat",
+    "en2": "astoria",
+    "hi1": "मांस",
+    "hi2": "एस्टोरिया"
+  },
+  {
+    "type": "negative",
+    "en1": "eighteen",
+    "en2": "notary",
+    "hi1": "अठारह",
+    "hi2": "नोटरी"
+  },
+  {
+    "type": "negative",
+    "en1": "logs",
+    "en2": "weds",
+    "hi1": "लॉग",
+    "hi2": "वेड्स"
+  },
+  {
+    "type": "negative",
+    "en1": "exciting",
+    "en2": "abraham",
+    "hi1": "रोमांचक",
+    "hi2": "अब्राहम"
+  },
+  {
+    "type": "negative",
+    "en1": "fortuna",
+    "en2": "amniotic",
+    "hi1": "fortuna",
+    "hi2": "amniotic"
+  },
+  {
+    "type": "negative",
+    "en1": "jardín",
+    "en2": "knuth",
+    "hi1": "jardín",
+    "hi2": "knuth"
+  },
+  {
+    "type": "negative",
+    "en1": "reborn",
+    "en2": "novelty",
+    "hi1": "पुनर्जन्म",
+    "hi2": "विलक्षणता"
+  },
+  {
+    "type": "negative",
+    "en1": "parts",
+    "en2": "remora",
+    "hi1": "भाग",
+    "hi2": "remora"
+  },
+  {
+    "type": "negative",
+    "en1": "dataset",
+    "en2": "gavin",
+    "hi1": "dataset",
+    "hi2": "गेविन"
+  },
+  {
+    "type": "negative",
+    "en1": "ceremony",
+    "en2": "disestablished",
+    "hi1": "रस्म",
+    "hi2": "disestablished"
+  },
+  {
+    "type": "negative",
+    "en1": "framerate",
+    "en2": "lush",
+    "hi1": "फ्रेमरेट",
+    "hi2": "रसीले"
+  },
+  {
+    "type": "negative",
+    "en1": "dag",
+    "en2": "somers",
+    "hi1": "दाग़",
+    "hi2": "सोमरस"
+  },
+  {
+    "type": "negative",
+    "en1": "citric",
+    "en2": "academy",
+    "hi1": "साइट्रिक",
+    "hi2": "अकादमी"
+  },
+  {
+    "type": "negative",
+    "en1": "usd$",
+    "en2": "mayi",
+    "hi1": "usd$",
+    "hi2": "मायी"
+  },
+  {
+    "type": "negative",
+    "en1": "nalwa",
+    "en2": "laparotomy",
+    "hi1": "नलवा",
+    "hi2": "laparotomy"
+  },
+  {
+    "type": "negative",
+    "en1": "mechanism",
+    "en2": "drawing",
+    "hi1": "यांत्रिकी",
+    "hi2": "आरेखण"
+  },
+  {
+    "type": "negative",
+    "en1": "jaish",
+    "en2": "inhuman",
+    "hi1": "जैश",
+    "hi2": "अमानवीय"
+  },
+  {
+    "type": "negative",
+    "en1": "curb",
+    "en2": "students",
+    "hi1": "कोर",
+    "hi2": "विद्यार्थी"
+  },
+  {
+    "type": "negative",
+    "en1": "toys",
+    "en2": "alappuzha",
+    "hi1": "खिलौने",
+    "hi2": "आलप्पुष़ा"
+  },
+  {
+    "type": "negative",
+    "en1": "istanbul",
+    "en2": "grazed",
+    "hi1": "इस्तांबुल",
+    "hi2": "बकरियाँ"
+  },
+  {
+    "type": "negative",
+    "en1": "lka",
+    "en2": "till",
+    "hi1": "lka",
+    "hi2": "तक"
+  },
+  {
+    "type": "negative",
+    "en1": "mayra",
+    "en2": "roughness",
+    "hi1": "मायरा",
+    "hi2": "खुरदरापन"
+  },
+  {
+    "type": "negative",
+    "en1": "multiculturalism",
+    "en2": "taj",
+    "hi1": "बहुसंस्कृतिवाद",
+    "hi2": "ताज"
+  },
+  {
+    "type": "negative",
+    "en1": "nora",
+    "en2": "authorization",
+    "hi1": "नोरा",
+    "hi2": "प्राधिकरण"
+  },
+  {
+    "type": "negative",
+    "en1": "basements",
+    "en2": "bundesarchiv",
+    "hi1": "तहखानों",
+    "hi2": "bundesarchiv"
+  },
+  {
+    "type": "negative",
+    "en1": "kachin",
+    "en2": "alternate",
+    "hi1": "काचिन",
+    "hi2": "वैकल्पिक"
+  },
+  {
+    "type": "negative",
+    "en1": "marina",
+    "en2": "ria",
+    "hi1": "मरीना",
+    "hi2": "रिया"
+  },
+  {
+    "type": "negative",
+    "en1": "pondicherry",
+    "en2": "melanogaster",
+    "hi1": "पांडिचेरी",
+    "hi2": "melanogaster"
+  },
+  {
+    "type": "negative",
+    "en1": "darkhan",
+    "en2": "munir",
+    "hi1": "दरख़ान",
+    "hi2": "मुनीर"
+  },
+  {
+    "type": "negative",
+    "en1": "brihadaranyaka",
+    "en2": "nagpal",
+    "hi1": "बृहदारण्यक",
+    "hi2": "नागपाल"
+  },
+  {
+    "type": "negative",
+    "en1": "janine",
+    "en2": "cdc",
+    "hi1": "जैनी",
+    "hi2": "सीडीसी"
+  },
+  {
+    "type": "negative",
+    "en1": "sivananda",
+    "en2": "preto",
+    "hi1": "शिवानंद",
+    "hi2": "preto"
+  },
+  {
+    "type": "negative",
+    "en1": "sugary",
+    "en2": "padmanabhaswamy",
+    "hi1": "छेदों",
+    "hi2": "पद्मनाभस्वामी"
+  },
+  {
+    "type": "negative",
+    "en1": "aisha",
+    "en2": "priyanka",
+    "hi1": "आयशा",
+    "hi2": "प्रियंका"
+  },
+  {
+    "type": "negative",
+    "en1": "wes",
+    "en2": "countdown",
+    "hi1": "वेस",
+    "hi2": "गिनती"
+  },
+  {
+    "type": "negative",
+    "en1": "sohc",
+    "en2": "nandu",
+    "hi1": "sohc",
+    "hi2": "नंदू"
+  },
+  {
+    "type": "negative",
+    "en1": "transfers",
+    "en2": "cest",
+    "hi1": "हस्तांतरण",
+    "hi2": "cest"
+  },
+  {
+    "type": "negative",
+    "en1": "continent",
+    "en2": "panther",
+    "hi1": "महाद्वीप",
+    "hi2": "पैंथर"
+  },
+  {
+    "type": "negative",
+    "en1": "hoh",
+    "en2": "sibal",
+    "hi1": "hoh",
+    "hi2": "सिब्बल"
+  },
+  {
+    "type": "negative",
+    "en1": "hindustantimes",
+    "en2": "contagious",
+    "hi1": "hindustantimes",
+    "hi2": "संक्रामक"
+  },
+  {
+    "type": "negative",
+    "en1": "unwell",
+    "en2": "pumps",
+    "hi1": "अस्वस्थ",
+    "hi2": "पंपों"
+  },
+  {
+    "type": "negative",
+    "en1": "baghdadi",
+    "en2": "hte",
+    "hi1": "बगदादी",
+    "hi2": "hte"
+  },
+  {
+    "type": "negative",
+    "en1": "gate",
+    "en2": "domesticpartner",
+    "hi1": "फाटक",
+    "hi2": "domesticpartner"
+  },
+  {
+    "type": "negative",
+    "en1": "dso",
+    "en2": "taenia",
+    "hi1": "dso",
+    "hi2": "taenia"
+  },
+  {
+    "type": "negative",
+    "en1": "regia",
+    "en2": "div",
+    "hi1": "regia",
+    "hi2": "div"
+  },
+  {
+    "type": "negative",
+    "en1": "cdma",
+    "en2": "rafsanjani",
+    "hi1": "cdma",
+    "hi2": "रफ़संजानी"
+  },
+  {
+    "type": "negative",
+    "en1": "although",
+    "en2": "purchasing",
+    "hi1": "हालांकि",
+    "hi2": "खरीदना"
+  },
+  {
+    "type": "negative",
+    "en1": "morality",
+    "en2": "govt",
+    "hi1": "नैतिकता",
+    "hi2": "सरकार"
+  },
+  {
+    "type": "negative",
+    "en1": "urdu",
+    "en2": "planet",
+    "hi1": "उर्दू",
+    "hi2": "ग्रह"
+  },
+  {
+    "type": "negative",
+    "en1": "sindhu",
+    "en2": "hanoi",
+    "hi1": "सिन्धु",
+    "hi2": "हनोई"
+  },
+  {
+    "type": "negative",
+    "en1": "illiterates",
+    "en2": "tofu",
+    "hi1": "अनपढ़",
+    "hi2": "टोफू"
+  },
+  {
+    "type": "negative",
+    "en1": "bhaji",
+    "en2": "trl",
+    "hi1": "भाजी",
+    "hi2": "trl"
+  },
+  {
+    "type": "negative",
+    "en1": "penicillium",
+    "en2": "allis",
+    "hi1": "पेनिसिलियम",
+    "hi2": "allis"
+  },
+  {
+    "type": "negative",
+    "en1": "hiroshima",
+    "en2": "pranab",
+    "hi1": "हिरोशिमा",
+    "hi2": "प्रणब"
+  },
+  {
+    "type": "negative",
+    "en1": "picasso",
+    "en2": "aggression",
+    "hi1": "पिकासो",
+    "hi2": "आक्रामकता"
+  },
+  {
+    "type": "negative",
+    "en1": "namgyel",
+    "en2": "suryavarman",
+    "hi1": "नामग्याल",
+    "hi2": "सूर्यवर्मन"
+  },
+  {
+    "type": "negative",
+    "en1": "amarah",
+    "en2": "bayankhongor",
+    "hi1": "अमाराह",
+    "hi2": "बयानख़ोंगोर"
+  },
+  {
+    "type": "negative",
+    "en1": "soli",
+    "en2": "camila",
+    "hi1": "सोली",
+    "hi2": "कैमिला"
+  },
+  {
+    "type": "negative",
+    "en1": "labium",
+    "en2": "ayoub",
+    "hi1": "labium",
+    "hi2": "अयूब"
+  },
+  {
+    "type": "negative",
+    "en1": "eden",
+    "en2": "hif",
+    "hi1": "ईडन",
+    "hi2": "hif"
+  },
+  {
+    "type": "negative",
+    "en1": "timeshift",
+    "en2": "fees",
+    "hi1": "timeshift",
+    "hi2": "शुल्क"
+  },
+  {
+    "type": "negative",
+    "en1": "variations",
+    "en2": "nalbari",
+    "hi1": "विसंगतियाँ",
+    "hi2": "नलबाड़ी"
+  },
+  {
+    "type": "negative",
+    "en1": "museu",
+    "en2": "ottoman",
+    "hi1": "museu",
+    "hi2": "उस्मानी"
+  },
+  {
+    "type": "negative",
+    "en1": "honda",
+    "en2": "dene",
+    "hi1": "होंडा",
+    "hi2": "dene"
+  },
+  {
+    "type": "negative",
+    "en1": "drugbank",
+    "en2": "times",
+    "hi1": "drugbank",
+    "hi2": "टाइम्स"
+  },
+  {
+    "type": "negative",
+    "en1": "nacho",
+    "en2": "shyam",
+    "hi1": "नाचो",
+    "hi2": "श्याम"
+  },
+  {
+    "type": "negative",
+    "en1": "crowded",
+    "en2": "ethane",
+    "hi1": "भीड़",
+    "hi2": "इथेन"
+  },
+  {
+    "type": "negative",
+    "en1": "distraction",
+    "en2": "woody",
+    "hi1": "व्याकुलता",
+    "hi2": "वुडी"
+  },
+  {
+    "type": "negative",
+    "en1": "seamonkey",
+    "en2": "header",
+    "hi1": "सीमंकी",
+    "hi2": "शीर्षक"
+  },
+  {
+    "type": "negative",
+    "en1": "doris",
+    "en2": "inah",
+    "hi1": "डोरिस",
+    "hi2": "inah"
+  },
+  {
+    "type": "negative",
+    "en1": "jardín",
+    "en2": "intracranial",
+    "hi1": "jardín",
+    "hi2": "intracranial"
+  },
+  {
+    "type": "negative",
+    "en1": "nourish",
+    "en2": "punt",
+    "hi1": "पोषित",
+    "hi2": "पंट"
+  },
+  {
+    "type": "negative",
+    "en1": "autocad",
+    "en2": "pag",
+    "hi1": "ऑटोकैड",
+    "hi2": "pag"
+  },
+  {
+    "type": "negative",
+    "en1": "verbatim",
+    "en2": "wikipedians",
+    "hi1": "शब्दश",
+    "hi2": "wikipedians"
+  },
+  {
+    "type": "negative",
+    "en1": "talkpage",
+    "en2": "electors",
+    "hi1": "talkpage",
+    "hi2": "निर्वाचक"
+  },
+  {
+    "type": "negative",
+    "en1": "toshiba",
+    "en2": "oort",
+    "hi1": "तोशिबा",
+    "hi2": "और्ट"
+  },
+  {
+    "type": "negative",
+    "en1": "hammond",
+    "en2": "unpatrolled",
+    "hi1": "हैमंड",
+    "hi2": "unpatrolled"
+  },
+  {
+    "type": "negative",
+    "en1": "shaheen",
+    "en2": "mohamed",
+    "hi1": "शाहीन",
+    "hi2": "मोहम्मद"
+  },
+  {
+    "type": "negative",
+    "en1": "fun",
+    "en2": "tubule",
+    "hi1": "मजा",
+    "hi2": "tubule"
+  },
+  {
+    "type": "negative",
+    "en1": "halil",
+    "en2": "communalism",
+    "hi1": "halil",
+    "hi2": "सांप्रदायिकता"
+  },
+  {
+    "type": "negative",
+    "en1": "cantos",
+    "en2": "ltte",
+    "hi1": "सर्गों",
+    "hi2": "एलटीटीई"
+  },
+  {
+    "type": "negative",
+    "en1": "parashar",
+    "en2": "dahod",
+    "hi1": "पाराशर",
+    "hi2": "दाहोद"
+  },
+  {
+    "type": "negative",
+    "en1": "priority",
+    "en2": "semitones",
+    "hi1": "प्रधानता",
+    "hi2": "semitones"
+  },
+  {
+    "type": "negative",
+    "en1": "faroese",
+    "en2": "cws",
+    "hi1": "फारसी",
+    "hi2": "cws"
+  },
+  {
+    "type": "negative",
+    "en1": "bartleby",
+    "en2": "barnard",
+    "hi1": "bartleby",
+    "hi2": "बर्नार्ड"
+  },
+  {
+    "type": "negative",
+    "en1": "fist",
+    "en2": "shooter",
+    "hi1": "मुट्ठी",
+    "hi2": "शूटर"
+  },
+  {
+    "type": "negative",
+    "en1": "barin",
+    "en2": "viswanathan",
+    "hi1": "बारिन",
+    "hi2": "विश्वनाथन"
+  },
+  {
+    "type": "negative",
+    "en1": "lynx",
+    "en2": "bajo",
+    "hi1": "लिंक्स",
+    "hi2": "bajo"
+  },
+  {
+    "type": "negative",
+    "en1": "ravishankar",
+    "en2": "edmund",
+    "hi1": "रविशंकर",
+    "hi2": "एडमंड"
+  },
+  {
+    "type": "negative",
+    "en1": "clients",
+    "en2": "worcestershire",
+    "hi1": "क्लाइंट",
+    "hi2": "वॉस्टरशायर"
+  },
+  {
+    "type": "negative",
+    "en1": "yes}}}}",
+    "en2": "tenzing",
+    "hi1": "yes}}}}",
+    "hi2": "तेनजिंग"
+  },
+  {
+    "type": "negative",
+    "en1": "descriptive",
+    "en2": "catalunya",
+    "hi1": "वर्णनात्मक",
+    "hi2": "catalunya"
+  },
+  {
+    "type": "negative",
+    "en1": "isaiah",
+    "en2": "moon",
+    "hi1": "यशायाह",
+    "hi2": "चंद्रमा"
+  },
+  {
+    "type": "negative",
+    "en1": "mafia",
+    "en2": "oxygen",
+    "hi1": "माफिया",
+    "hi2": "ऑक्सीजन"
+  },
+  {
+    "type": "negative",
+    "en1": "deed",
+    "en2": "schlick",
+    "hi1": "पुन्य",
+    "hi2": "श्लिक"
+  },
+  {
+    "type": "negative",
+    "en1": "luang",
+    "en2": "aleph",
+    "hi1": "लुआंग",
+    "hi2": "aleph"
+  },
+  {
+    "type": "negative",
+    "en1": "bata",
+    "en2": "israel",
+    "hi1": "बाटा",
+    "hi2": "इसराईल"
+  },
+  {
+    "type": "negative",
+    "en1": "quotient",
+    "en2": "cave",
+    "hi1": "लब्धि",
+    "hi2": "गुफा"
+  },
+  {
+    "type": "negative",
+    "en1": "tba",
+    "en2": "demons",
+    "hi1": "tba",
+    "hi2": "राक्षसों"
+  },
+  {
+    "type": "negative",
+    "en1": "malaria",
+    "en2": "motors",
+    "hi1": "मलेरिया",
+    "hi2": "मोटर्स"
+  },
+  {
+    "type": "negative",
+    "en1": "simplified",
+    "en2": "rael",
+    "hi1": "सरलीकृत",
+    "hi2": "रैल"
+  },
+  {
+    "type": "negative",
+    "en1": "foramen",
+    "en2": "description",
+    "hi1": "foramen",
+    "hi2": "वर्णन"
+  },
+  {
+    "type": "negative",
+    "en1": "helens",
+    "en2": "amanda",
+    "hi1": "हेलेन्स",
+    "hi2": "अमांडा"
+  },
+  {
+    "type": "negative",
+    "en1": "morozov",
+    "en2": "orders",
+    "hi1": "morozov",
+    "hi2": "आदेश"
+  },
+  {
+    "type": "negative",
+    "en1": "potosí",
+    "en2": "turtles",
+    "hi1": "पोतोसी",
+    "hi2": "टर्टल्स"
+  },
+  {
+    "type": "negative",
+    "en1": "república",
+    "en2": "stick",
+    "hi1": "república",
+    "hi2": "स्टिक"
+  },
+  {
+    "type": "negative",
+    "en1": "indianexpress",
+    "en2": "distance",
+    "hi1": "indianexpress",
+    "hi2": "अलहदा"
+  },
+  {
+    "type": "negative",
+    "en1": "griddle",
+    "en2": "convinced",
+    "hi1": "तवे",
+    "hi2": "कायल"
+  },
+  {
+    "type": "negative",
+    "en1": "oaxaca",
+    "en2": "tehri",
+    "hi1": "वाहाका",
+    "hi2": "टिहरी"
+  },
+  {
+    "type": "negative",
+    "en1": "burgers",
+    "en2": "kole",
+    "hi1": "बर्गर",
+    "hi2": "कोले"
+  },
+  {
+    "type": "negative",
+    "en1": "omap",
+    "en2": "alibaba",
+    "hi1": "omap",
+    "hi2": "अलीबाबा"
+  },
+  {
+    "type": "negative",
+    "en1": "ardabil",
+    "en2": "try",
+    "hi1": "अर्दबील",
+    "hi2": "कोशिश"
+  },
+  {
+    "type": "negative",
+    "en1": "cmyk",
+    "en2": "sunanda",
+    "hi1": "cmyk",
+    "hi2": "सुनन्दा"
+  },
+  {
+    "type": "negative",
+    "en1": "cathode",
+    "en2": "gsub",
+    "hi1": "कैथोड",
+    "hi2": "gsub"
+  },
+  {
+    "type": "negative",
+    "en1": "dwell",
+    "en2": "horatio",
+    "hi1": "सहा",
+    "hi2": "होरेशियो"
+  },
+  {
+    "type": "negative",
+    "en1": "breath",
+    "en2": "sewer",
+    "hi1": "साँस",
+    "hi2": "सीवर"
+  },
+  {
+    "type": "negative",
+    "en1": "salar",
+    "en2": "fruitful",
+    "hi1": "सालार",
+    "hi2": "फलदायक"
+  },
+  {
+    "type": "negative",
+    "en1": "vikrant",
+    "en2": "prinia",
+    "hi1": "विक्रांत",
+    "hi2": "prinia"
+  },
+  {
+    "type": "negative",
+    "en1": "honest",
+    "en2": "nhân",
+    "hi1": "ईमानदार",
+    "hi2": "nhân"
+  },
+  {
+    "type": "negative",
+    "en1": "kaviraj",
+    "en2": "creative",
+    "hi1": "कविराज",
+    "hi2": "रचनात्मक"
+  },
+  {
+    "type": "negative",
+    "en1": "langue",
+    "en2": "picchu",
+    "hi1": "langue",
+    "hi2": "पिच्चू"
+  },
+  {
+    "type": "negative",
+    "en1": "migraine",
+    "en2": "tripod",
+    "hi1": "माइग्रेन",
+    "hi2": "तिपाई"
+  },
+  {
+    "type": "negative",
+    "en1": "turnip",
+    "en2": "khairpur",
+    "hi1": "शलजम",
+    "hi2": "खैरपुर"
+  },
+  {
+    "type": "negative",
+    "en1": "licentious",
+    "en2": "hole",
+    "hi1": "व्यभिचारी",
+    "hi2": "छेद"
+  },
+  {
+    "type": "negative",
+    "en1": "nathu",
+    "en2": "invitations",
+    "hi1": "नाथू",
+    "hi2": "आमंत्रण"
+  },
+  {
+    "type": "negative",
+    "en1": "jam",
+    "en2": "berliner",
+    "hi1": "jam",
+    "hi2": "berliner"
+  },
+  {
+    "type": "negative",
+    "en1": "buster",
+    "en2": "blue",
+    "hi1": "बस्टर",
+    "hi2": "ब्लू"
+  },
+  {
+    "type": "negative",
+    "en1": "railway",
+    "en2": "closeness",
+    "hi1": "रेल",
+    "hi2": "निकटता"
+  },
+  {
+    "type": "negative",
+    "en1": "cenomanian",
+    "en2": "nariman",
+    "hi1": "cenomanian",
+    "hi2": "नरीमन"
+  },
+  {
+    "type": "negative",
+    "en1": "xxxviii",
+    "en2": "artiodactyla",
+    "hi1": "xxxviii",
+    "hi2": "artiodactyla"
+  },
+  {
+    "type": "negative",
+    "en1": "pentathlon",
+    "en2": "jitter",
+    "hi1": "पेंटाथलान",
+    "hi2": "जिटर"
+  },
+  {
+    "type": "negative",
+    "en1": "fecl",
+    "en2": "affairs",
+    "hi1": "fecl",
+    "hi2": "अफेयर्स"
+  },
+  {
+    "type": "negative",
+    "en1": "contested",
+    "en2": "moharram",
+    "hi1": "लडे",
+    "hi2": "मोहर्रम"
+  },
+  {
+    "type": "negative",
+    "en1": "intl",
+    "en2": "worshippers",
+    "hi1": "intl",
+    "hi2": "उपासक"
+  },
+  {
+    "type": "negative",
+    "en1": "mirror",
+    "en2": "lex",
+    "hi1": "दर्पण",
+    "hi2": "लेक्स"
+  },
+  {
+    "type": "negative",
+    "en1": "alleged",
+    "en2": "saeb",
+    "hi1": "कथित",
+    "hi2": "हाइयर"
+  },
+  {
+    "type": "negative",
+    "en1": "shastra",
+    "en2": "kalpa",
+    "hi1": "शास्त्र",
+    "hi2": "कल्प"
+  },
+  {
+    "type": "negative",
+    "en1": "feliciano",
+    "en2": "alstom",
+    "hi1": "फेलिसियानो",
+    "hi2": "आल्सटॉम"
+  },
+  {
+    "type": "negative",
+    "en1": "games",
+    "en2": "quam",
+    "hi1": "खेल",
+    "hi2": "quam"
+  },
+  {
+    "type": "negative",
+    "en1": "compositions",
+    "en2": "lived",
+    "hi1": "रचनाएं",
+    "hi2": "जिया"
+  },
+  {
+    "type": "negative",
+    "en1": "thrones",
+    "en2": "sunda",
+    "hi1": "तख्तों",
+    "hi2": "sunda"
+  },
+  {
+    "type": "negative",
+    "en1": "mannu",
+    "en2": "bring",
+    "hi1": "मन्नू",
+    "hi2": "लाओ"
+  },
+  {
+    "type": "negative",
+    "en1": "nelly",
+    "en2": "owners",
+    "hi1": "नेल",
+    "hi2": "स्वामी"
+  },
+  {
+    "type": "negative",
+    "en1": "mikhail",
+    "en2": "difficulty",
+    "hi1": "मिखाइल",
+    "hi2": "परेशानी"
+  },
+  {
+    "type": "negative",
+    "en1": "denzel",
+    "en2": "mourns",
+    "hi1": "डेंज़ल",
+    "hi2": "हीमोफिलिया"
+  },
+  {
+    "type": "negative",
+    "en1": "planetmath",
+    "en2": "kinship",
+    "hi1": "planetmath",
+    "hi2": "रिश्तेदारी"
+  },
+  {
+    "type": "negative",
+    "en1": "lga",
+    "en2": "spokesperson",
+    "hi1": "lga",
+    "hi2": "प्रवक्ता"
+  },
+  {
+    "type": "negative",
+    "en1": "eddie",
+    "en2": "carp",
+    "hi1": "एडी",
+    "hi2": "कार्प"
+  },
+  {
+    "type": "negative",
+    "en1": "jackson",
+    "en2": "teres",
+    "hi1": "जैक्सन",
+    "hi2": "teres"
+  },
+  {
+    "type": "negative",
+    "en1": "true",
+    "en2": "literate",
+    "hi1": "सच्चा",
+    "hi2": "साक्षर"
+  },
+  {
+    "type": "negative",
+    "en1": "naomi",
+    "en2": "hereditary",
+    "hi1": "नाओमी",
+    "hi2": "खानदानी"
+  },
+  {
+    "type": "negative",
+    "en1": "kbd",
+    "en2": "prank",
+    "hi1": "kbd",
+    "hi2": "शरारत"
+  },
+  {
+    "type": "negative",
+    "en1": "parks",
+    "en2": "homes",
+    "hi1": "पार्क",
+    "hi2": "घरों"
+  },
+  {
+    "type": "negative",
+    "en1": "belief",
+    "en2": "bapuji",
+    "hi1": "विश्वास",
+    "hi2": "बापूजी"
+  },
+  {
+    "type": "negative",
+    "en1": "sub",
+    "en2": "enlai",
+    "hi1": "sub",
+    "hi2": "एन्लाई"
+  },
+  {
+    "type": "negative",
+    "en1": "pharmacies",
+    "en2": "tongue",
+    "hi1": "फ़ार्मेसी",
+    "hi2": "जीभ"
+  },
+  {
+    "type": "negative",
+    "en1": "staple",
+    "en2": "acrid",
+    "hi1": "स्टेपल",
+    "hi2": "कसैला"
+  },
+  {
+    "type": "negative",
+    "en1": "urban",
+    "en2": "hodges",
+    "hi1": "शहरी",
+    "hi2": "होजेस"
+  },
+  {
+    "type": "negative",
+    "en1": "spielberg",
+    "en2": "pyrenees",
+    "hi1": "स्पिलबर्ग",
+    "hi2": "pyrenees"
+  },
+  {
+    "type": "negative",
+    "en1": "edta",
+    "en2": "tentative",
+    "hi1": "edta",
+    "hi2": "अंतरिम"
+  },
+  {
+    "type": "negative",
+    "en1": "janjgir",
+    "en2": "davy",
+    "hi1": "जांजगीर",
+    "hi2": "डेवी"
+  },
+  {
+    "type": "negative",
+    "en1": "geo",
+    "en2": "sandals",
+    "hi1": "जियो",
+    "hi2": "चप्पल"
+  },
+  {
+    "type": "negative",
+    "en1": "corleone",
+    "en2": "suppresses",
+    "hi1": "कोरलियॉन",
+    "hi2": "दबा"
+  },
+  {
+    "type": "negative",
+    "en1": "mit",
+    "en2": "trollhättan",
+    "hi1": "एमआईटी",
+    "hi2": "trollhättan"
+  },
+  {
+    "type": "negative",
+    "en1": "babina",
+    "en2": "deir",
+    "hi1": "babina",
+    "hi2": "deir"
+  },
+  {
+    "type": "negative",
+    "en1": "nira",
+    "en2": "deposed",
+    "hi1": "निरा",
+    "hi2": "अपदस्थ"
+  },
+  {
+    "type": "negative",
+    "en1": "munia",
+    "en2": "industrialisation",
+    "hi1": "मुनिया",
+    "hi2": "औद्योगिकीकरण"
+  },
+  {
+    "type": "negative",
+    "en1": "rein",
+    "en2": "gandu",
+    "hi1": "लगाम",
+    "hi2": "gandu"
+  },
+  {
+    "type": "negative",
+    "en1": "unam",
+    "en2": "bfe",
+    "hi1": "unam",
+    "hi2": "bfe"
+  },
+  {
+    "type": "negative",
+    "en1": "morse",
+    "en2": "son",
+    "hi1": "मोर्स",
+    "hi2": "बेटे"
+  },
+  {
+    "type": "negative",
+    "en1": "staples",
+    "en2": "akhlaq",
+    "hi1": "स्टेपल्स",
+    "hi2": "अख़लाक़"
+  },
+  {
+    "type": "negative",
+    "en1": "unguarded",
+    "en2": "kuo",
+    "hi1": "बेपनाह",
+    "hi2": "kuo"
+  },
+  {
+    "type": "negative",
+    "en1": "faridabad",
+    "en2": "fender",
+    "hi1": "फरीदाबाद",
+    "hi2": "फेंडर"
+  },
+  {
+    "type": "negative",
+    "en1": "compressor",
+    "en2": "dál",
+    "hi1": "संपीडक",
+    "hi2": "dál"
+  },
+  {
+    "type": "negative",
+    "en1": "aruba",
+    "en2": "xxxxx",
+    "hi1": "अरूबा",
+    "hi2": "xxxxx"
+  },
+  {
+    "type": "negative",
+    "en1": "yttrium",
+    "en2": "separable",
+    "hi1": "इट्रियम",
+    "hi2": "separable"
+  },
+  {
+    "type": "negative",
+    "en1": "jackie",
+    "en2": "plexus",
+    "hi1": "जैकी",
+    "hi2": "प्लेक्सस"
+  },
+  {
+    "type": "negative",
+    "en1": "interstellar",
+    "en2": "meme",
+    "hi1": "अंतरतारकीय",
+    "hi2": "मीम"
+  },
+  {
+    "type": "negative",
+    "en1": "baekje",
+    "en2": "ever",
+    "hi1": "बेकजे",
+    "hi2": "कभी"
+  },
+  {
+    "type": "negative",
+    "en1": "bpo",
+    "en2": "sardine",
+    "hi1": "बीपीओ",
+    "hi2": "sardine"
+  },
+  {
+    "type": "negative",
+    "en1": "gluon",
+    "en2": "kayal",
+    "hi1": "ग्लूऑन",
+    "hi2": "कयाल"
+  },
+  {
+    "type": "negative",
+    "en1": "rapeseed",
+    "en2": "cella",
+    "hi1": "कैनोला",
+    "hi2": "गर्भगृह"
+  },
+  {
+    "type": "negative",
+    "en1": "ceo",
+    "en2": "plea",
+    "hi1": "सीईओ",
+    "hi2": "दलील"
+  },
+  {
+    "type": "negative",
+    "en1": "hear",
+    "en2": "wonder",
+    "hi1": "सुन",
+    "hi2": "अचरज"
+  },
+  {
+    "type": "negative",
+    "en1": "subtract",
+    "en2": "comparison",
+    "hi1": "घटाना",
+    "hi2": "तुलना"
+  },
+  {
+    "type": "negative",
+    "en1": "attractive",
+    "en2": "pail",
+    "hi1": "आकर्षक",
+    "hi2": "पैल"
+  },
+  {
+    "type": "negative",
+    "en1": "topics}}",
+    "en2": "aunty",
+    "hi1": "विषय}}",
+    "hi2": "aunty"
+  },
+  {
+    "type": "negative",
+    "en1": "vhp",
+    "en2": "painters",
+    "hi1": "विहिप",
+    "hi2": "चित्रकार"
+  },
+  {
+    "type": "negative",
+    "en1": "kalyanji",
+    "en2": "lupus",
+    "hi1": "कल्याणजी",
+    "hi2": "lupus"
+  },
+  {
+    "type": "negative",
+    "en1": "dick",
+    "en2": "faiz",
+    "hi1": "लंड",
+    "hi2": "फैज़"
+  },
+  {
+    "type": "negative",
+    "en1": "formaldehyde",
+    "en2": "which",
+    "hi1": "formaldehyde",
+    "hi2": "जिससे"
+  },
+  {
+    "type": "negative",
+    "en1": "flu",
+    "en2": "fatto",
+    "hi1": "फ्लू",
+    "hi2": "fatto"
+  },
+  {
+    "type": "negative",
+    "en1": "cave",
+    "en2": "tailorbird",
+    "hi1": "गुफा",
+    "hi2": "tailorbird"
+  },
+  {
+    "type": "negative",
+    "en1": "quartz",
+    "en2": "nabil",
+    "hi1": "क्वार्ट्ज",
+    "hi2": "नाबिल"
+  },
+  {
+    "type": "negative",
+    "en1": "surgical",
+    "en2": "buckingham",
+    "hi1": "सर्जिकल",
+    "hi2": "बकिंघम"
+  },
+  {
+    "type": "negative",
+    "en1": "pill",
+    "en2": "individual",
+    "hi1": "गोली",
+    "hi2": "व्यक्तिगत"
+  },
+  {
+    "type": "negative",
+    "en1": "peak",
+    "en2": "modular",
+    "hi1": "शिखर",
+    "hi2": "मॉड्यूलर"
+  },
+  {
+    "type": "negative",
+    "en1": "baraat",
+    "en2": "deposed",
+    "hi1": "बरात",
+    "hi2": "अपदस्थ"
+  },
+  {
+    "type": "negative",
+    "en1": "mongolia",
+    "en2": "wangchuk",
+    "hi1": "मंगोल",
+    "hi2": "वांगचुक"
+  },
+  {
+    "type": "negative",
+    "en1": "pennies",
+    "en2": "biennial",
+    "hi1": "कौड़ी",
+    "hi2": "द्विवार्षिक"
+  },
+  {
+    "type": "negative",
+    "en1": "sajna",
+    "en2": "eggleton",
+    "hi1": "सजना",
+    "hi2": "ईगलटन"
+  },
+  {
+    "type": "negative",
+    "en1": "swiss",
+    "en2": "invincible",
+    "hi1": "स्विस",
+    "hi2": "अजेय"
+  },
+  {
+    "type": "negative",
+    "en1": "cunt",
+    "en2": "harassment",
+    "hi1": "योनी",
+    "hi2": "उत्पीड़न"
+  },
+  {
+    "type": "negative",
+    "en1": "griffon",
+    "en2": "supernova",
+    "hi1": "griffon",
+    "hi2": "सुपरनोवा"
+  },
+  {
+    "type": "negative",
+    "en1": "elba",
+    "en2": "ode",
+    "hi1": "एल्बा",
+    "hi2": "ode"
+  },
+  {
+    "type": "negative",
+    "en1": "schmidt",
+    "en2": "coombs",
+    "hi1": "श्मिट",
+    "hi2": "coombs"
+  },
+  {
+    "type": "negative",
+    "en1": "mystical",
+    "en2": "nxt",
+    "hi1": "छायावादी",
+    "hi2": "nxt"
+  },
+  {
+    "type": "negative",
+    "en1": "antechinus",
+    "en2": "free",
+    "hi1": "antechinus",
+    "hi2": "फ़्री"
+  },
+  {
+    "type": "negative",
+    "en1": "herkimer",
+    "en2": "grc",
+    "hi1": "हरकिमर",
+    "hi2": "grc"
+  },
+  {
+    "type": "negative",
+    "en1": "gadkari",
+    "en2": "hides",
+    "hi1": "गडकरी",
+    "hi2": "छुपाता"
+  },
+  {
+    "type": "negative",
+    "en1": "fernández",
+    "en2": "petersburg",
+    "hi1": "फर्नांडीज",
+    "hi2": "पीटर्सबर्ग"
+  },
+  {
+    "type": "negative",
+    "en1": "velar",
+    "en2": "chariots",
+    "hi1": "velar",
+    "hi2": "रथों"
+  },
+  {
+    "type": "negative",
+    "en1": "astaneh",
+    "en2": "srebotnik",
+    "hi1": "अस्तानेह",
+    "hi2": "स्रेबोतनिक"
+  },
+  {
+    "type": "negative",
+    "en1": "bicarbonate",
+    "en2": "stole",
+    "hi1": "बाईकार्बोनेट",
+    "hi2": "चुराया"
+  },
+  {
+    "type": "negative",
+    "en1": "tdk",
+    "en2": "calypso",
+    "hi1": "tdk",
+    "hi2": "कैलिप्सो"
+  },
+  {
+    "type": "negative",
+    "en1": "gambler",
+    "en2": "subhadra",
+    "hi1": "जुआरी",
+    "hi2": "सुभद्रा"
+  },
+  {
+    "type": "negative",
+    "en1": "gents",
+    "en2": "darwinism",
+    "hi1": "मर्द",
+    "hi2": "डार्विनवाद"
+  },
+  {
+    "type": "negative",
+    "en1": "paved",
+    "en2": "cowardice",
+    "hi1": "प्रशस्त",
+    "hi2": "कायरता"
+  },
+  {
+    "type": "negative",
+    "en1": "superbike",
+    "en2": "dewiki",
+    "hi1": "सुपरबाइक",
+    "hi2": "dewiki"
+  },
+  {
+    "type": "negative",
+    "en1": "bui",
+    "en2": "fedora",
+    "hi1": "bui",
+    "hi2": "फेडोरा"
+  },
+  {
+    "type": "negative",
+    "en1": "cream",
+    "en2": "pokhran",
+    "hi1": "मलाई",
+    "hi2": "पोखरण"
+  },
+  {
+    "type": "negative",
+    "en1": "gambia",
+    "en2": "freddy",
+    "hi1": "गाम्बिया",
+    "hi2": "फ्रेडी"
+  },
+  {
+    "type": "negative",
+    "en1": "dhirubhai",
+    "en2": "mehmood",
+    "hi1": "धीरूभाई",
+    "hi2": "महमूद"
+  },
+  {
+    "type": "negative",
+    "en1": "brihanmumbai",
+    "en2": "maintenance",
+    "hi1": "बृहन्मुंबई",
+    "hi2": "मेंटेनेंस"
+  },
+  {
+    "type": "negative",
+    "en1": "piccard",
+    "en2": "penchant",
+    "hi1": "पिकार्ड",
+    "hi2": "प्रवृत्ति"
+  },
+  {
+    "type": "negative",
+    "en1": "rect",
+    "en2": "soles",
+    "hi1": "rect",
+    "hi2": "सोल्स"
+  },
+  {
+    "type": "negative",
+    "en1": "screenwriter",
+    "en2": "nulla",
+    "hi1": "screenwriter",
+    "hi2": "nulla"
+  },
+  {
+    "type": "negative",
+    "en1": "deutsches",
+    "en2": "alkalinity",
+    "hi1": "deutsches",
+    "hi2": "क्षारीयता"
+  },
+  {
+    "type": "negative",
+    "en1": "qom",
+    "en2": "unorthodox",
+    "hi1": "कोम",
+    "hi2": "अपरंपरागत"
+  },
+  {
+    "type": "negative",
+    "en1": "eaa",
+    "en2": "baja",
+    "hi1": "eaa",
+    "hi2": "baja"
+  },
+  {
+    "type": "negative",
+    "en1": "butterflyfish",
+    "en2": "irl",
+    "hi1": "butterflyfish",
+    "hi2": "irl"
+  },
+  {
+    "type": "negative",
+    "en1": "thrissur",
+    "en2": "militia",
+    "hi1": "तृश्शूर",
+    "hi2": "मिलिशिया"
+  },
+  {
+    "type": "negative",
+    "en1": "regex",
+    "en2": "lina",
+    "hi1": "regex",
+    "hi2": "लीना"
+  },
+  {
+    "type": "negative",
+    "en1": "hoti",
+    "en2": "ease",
+    "hi1": "hoti",
+    "hi2": "आसानी"
+  },
+  {
+    "type": "negative",
+    "en1": "carpenters",
+    "en2": "buta",
+    "hi1": "बढ़ई",
+    "hi2": "बूटा"
+  },
+  {
+    "type": "negative",
+    "en1": "yellowtail",
+    "en2": "nandalal",
+    "hi1": "yellowtail",
+    "hi2": "नंदलाल"
+  },
+  {
+    "type": "negative",
+    "en1": "intra",
+    "en2": "rearrange",
+    "hi1": "इंट्रा",
+    "hi2": "पुनर्व्यवस्थित"
+  },
+  {
+    "type": "negative",
+    "en1": "breakdowns",
+    "en2": "focal",
+    "hi1": "विश्लेषण",
+    "hi2": "फोकल"
+  },
+  {
+    "type": "negative",
+    "en1": "venera",
+    "en2": "lua",
+    "hi1": "वेनेरा",
+    "hi2": "लुआ"
+  },
+  {
+    "type": "negative",
+    "en1": "duars",
+    "en2": "aspirations",
+    "hi1": "duars",
+    "hi2": "आकांक्षाओं"
+  },
+  {
+    "type": "negative",
+    "en1": "marine",
+    "en2": "liberia",
+    "hi1": "समुद्री",
+    "hi2": "लाइबेरिया"
+  },
+  {
+    "type": "negative",
+    "en1": "kunlun",
+    "en2": "ronan",
+    "hi1": "कुनलुन",
+    "hi2": "रोनेन"
+  },
+  {
+    "type": "negative",
+    "en1": "deliver",
+    "en2": "roeder",
+    "hi1": "उद्धार",
+    "hi2": "रोडर"
+  },
+  {
+    "type": "negative",
+    "en1": "galápagos",
+    "en2": "iris",
+    "hi1": "गैलापागोस",
+    "hi2": "आईरिस"
+  },
+  {
+    "type": "negative",
+    "en1": "shortsummary",
+    "en2": "ethno",
+    "hi1": "shortsummary",
+    "hi2": "एथनो"
+  },
+  {
+    "type": "negative",
+    "en1": "mozilla",
+    "en2": "megasthenes",
+    "hi1": "मोज़िला",
+    "hi2": "मेगस्थनीज"
+  },
+  {
+    "type": "negative",
+    "en1": "threading",
+    "en2": "salinity",
+    "hi1": "थ्रेडिंग",
+    "hi2": "लवणता"
+  },
+  {
+    "type": "negative",
+    "en1": "rukmini",
+    "en2": "pseudomonas",
+    "hi1": "रुक्मिणी",
+    "hi2": "pseudomonas"
+  },
+  {
+    "type": "negative",
+    "en1": "ivor",
+    "en2": "cha",
+    "hi1": "आइवर",
+    "hi2": "चा"
+  },
+  {
+    "type": "negative",
+    "en1": "quote",
+    "en2": "refreshed",
+    "hi1": "उद्धरण",
+    "hi2": "तरोताज़ा"
+  },
+  {
+    "type": "negative",
+    "en1": "cyclotron",
+    "en2": "nhl",
+    "hi1": "साइक्लोट्रॉन",
+    "hi2": "एनएचएल"
+  },
+  {
+    "type": "negative",
+    "en1": "pangs",
+    "en2": "mamta",
+    "hi1": "कसक",
+    "hi2": "ममता"
+  },
+  {
+    "type": "negative",
+    "en1": "squamous",
+    "en2": "claw",
+    "hi1": "स्क्वैमस",
+    "hi2": "पंजों"
+  },
+  {
+    "type": "negative",
+    "en1": "indicus",
+    "en2": "amun",
+    "hi1": "indicus",
+    "hi2": "अमुन"
+  },
+  {
+    "type": "negative",
+    "en1": "award",
+    "en2": "kashi",
+    "hi1": "पुरस्कार",
+    "hi2": "काशी"
+  },
+  {
+    "type": "negative",
+    "en1": "goldman",
+    "en2": "federalism",
+    "hi1": "गोल्डमैन",
+    "hi2": "संघवाद"
+  },
+  {
+    "type": "negative",
+    "en1": "bieber",
+    "en2": "auxiliaries",
+    "hi1": "बीबर",
+    "hi2": "auxiliaries"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "and",
+    "en2": "and",
+    "hi1": "और",
+    "hi2": "और"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "was",
+    "en2": "was",
+    "hi1": "थी",
+    "hi2": "थी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "for",
+    "en2": "for",
+    "hi1": "लिये",
+    "hi2": "लिये"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "that",
+    "en2": "that",
+    "hi1": "कि",
+    "hi2": "कि"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "with",
+    "en2": "with",
+    "hi1": "साथ",
+    "hi2": "साथ"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "from",
+    "en2": "from",
+    "hi1": "इससे",
+    "hi2": "इससे"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "this",
+    "en2": "this",
+    "hi1": "इस",
+    "hi2": "इस"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "utc",
+    "en2": "utc",
+    "hi1": "utc",
+    "hi2": "utc"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "his",
+    "en2": "his",
+    "hi1": "उसके",
+    "hi2": "उसके"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "not",
+    "en2": "not",
+    "hi1": "नहीं",
+    "hi2": "नहीं"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "are",
+    "en2": "are",
+    "hi1": "हैं",
+    "hi2": "हैं"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "talk",
+    "en2": "talk",
+    "hi1": "बात",
+    "hi2": "बात"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "which",
+    "en2": "which",
+    "hi1": "जिससे",
+    "hi2": "जिससे"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "also",
+    "en2": "also",
+    "hi1": "भी",
+    "hi2": "भी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "has",
+    "en2": "has",
+    "hi1": "रै",
+    "hi2": "रै"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "were",
+    "en2": "were",
+    "hi1": "यहूद",
+    "hi2": "यहूद"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "but",
+    "en2": "but",
+    "hi1": "लकिन",
+    "hi2": "लकिन"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "one",
+    "en2": "one",
+    "hi1": "एक",
+    "hi2": "एक"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "new",
+    "en2": "new",
+    "hi1": "नई",
+    "hi2": "नई"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "first",
+    "en2": "first",
+    "hi1": "पहला",
+    "hi2": "पहला"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "page",
+    "en2": "page",
+    "hi1": "पेज",
+    "hi2": "पेज"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "you",
+    "en2": "you",
+    "hi1": "तुम",
+    "hi2": "तुम"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "they",
+    "en2": "they",
+    "hi1": "वे",
+    "hi2": "वे"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "had",
+    "en2": "had",
+    "hi1": "था",
+    "hi2": "था"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "article",
+    "en2": "article",
+    "hi1": "आलेख",
+    "hi2": "आलेख"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "who",
+    "en2": "who",
+    "hi1": "जो",
+    "hi2": "जो"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "all",
+    "en2": "all",
+    "hi1": "सब",
+    "hi2": "सब"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "their",
+    "en2": "their",
+    "hi1": "उनके",
+    "hi2": "उनके"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "there",
+    "en2": "there",
+    "hi1": "वहीँ",
+    "hi2": "वहीँ"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "been",
+    "en2": "been",
+    "hi1": "महरूम",
+    "hi2": "महरूम"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "made",
+    "en2": "made",
+    "hi1": "बना",
+    "hi2": "बना"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "its",
+    "en2": "its",
+    "hi1": "इसके",
+    "hi2": "इसके"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "people",
+    "en2": "people",
+    "hi1": "लोगों",
+    "hi2": "लोगों"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "may",
+    "en2": "may",
+    "hi1": "may",
+    "hi2": "may"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "after",
+    "en2": "after",
+    "hi1": "बाद",
+    "hi2": "बाद"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "other",
+    "en2": "other",
+    "hi1": "अन्य",
+    "hi2": "अन्य"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "should",
+    "en2": "should",
+    "hi1": "चाहिए",
+    "hi2": "चाहिए"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "two",
+    "en2": "two",
+    "hi1": "दो",
+    "hi2": "दो"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "score",
+    "en2": "score",
+    "hi1": "स्कोर",
+    "hi2": "स्कोर"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "her",
+    "en2": "her",
+    "hi1": "उसके",
+    "hi2": "उसके"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "would",
+    "en2": "would",
+    "hi1": "होता",
+    "hi2": "होता"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "more",
+    "en2": "more",
+    "hi1": "अधिक",
+    "hi2": "अधिक"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "she",
+    "en2": "she",
+    "hi1": "वो",
+    "hi2": "वो"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "about",
+    "en2": "about",
+    "hi1": "परिचय",
+    "hi2": "परिचय"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "when",
+    "en2": "when",
+    "hi1": "जब",
+    "hi2": "जब"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "time",
+    "en2": "time",
+    "hi1": "समय",
+    "hi2": "समय"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "team",
+    "en2": "team",
+    "hi1": "टोली",
+    "hi2": "टोली"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "american",
+    "en2": "american",
+    "hi1": "अमरीकी",
+    "hi2": "अमरीकी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "such",
+    "en2": "such",
+    "hi1": "ऐसे",
+    "hi2": "ऐसे"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "discussion",
+    "en2": "discussion",
+    "hi1": "चर्चा",
+    "hi2": "चर्चा"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "links",
+    "en2": "links",
+    "hi1": "कड़ी",
+    "hi2": "कड़ी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "only",
+    "en2": "only",
+    "hi1": "तभी",
+    "hi2": "तभी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "some",
+    "en2": "some",
+    "hi1": "कुछ",
+    "hi2": "कुछ"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "see",
+    "en2": "see",
+    "hi1": "देखिए",
+    "hi2": "देखिए"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "united",
+    "en2": "united",
+    "hi1": "संयुक्त",
+    "hi2": "संयुक्त"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "years",
+    "en2": "years",
+    "hi1": "सालो",
+    "hi2": "सालो"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "school",
+    "en2": "school",
+    "hi1": "स्कूल",
+    "hi2": "स्कूल"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "world",
+    "en2": "world",
+    "hi1": "संसार",
+    "hi2": "संसार"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "university",
+    "en2": "university",
+    "hi1": "विश्वविद्यालयों",
+    "hi2": "विश्वविद्यालयों"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "during",
+    "en2": "during",
+    "hi1": "दौरान",
+    "hi2": "दौरान"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "out",
+    "en2": "out",
+    "hi1": "आउट",
+    "hi2": "आउट"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "state",
+    "en2": "state",
+    "hi1": "राज्य",
+    "hi2": "राज्य"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "states",
+    "en2": "states",
+    "hi1": "राज्य",
+    "hi2": "राज्य"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "national",
+    "en2": "national",
+    "hi1": "नेशनल",
+    "hi2": "नेशनल"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "wikipedia",
+    "en2": "wikipedia",
+    "hi1": "विकिपीडिया",
+    "hi2": "विकिपीडिया"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "year",
+    "en2": "year",
+    "hi1": "साल",
+    "hi2": "साल"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "most",
+    "en2": "most",
+    "hi1": "सबसे",
+    "hi2": "सबसे"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "city",
+    "en2": "city",
+    "hi1": "नगर",
+    "hi2": "नगर"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "used",
+    "en2": "used",
+    "hi1": "प्रयुक्त",
+    "hi2": "प्रयुक्त"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "then",
+    "en2": "then",
+    "hi1": "तब",
+    "hi2": "तब"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "than",
+    "en2": "than",
+    "hi1": "than",
+    "hi2": "than"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "county",
+    "en2": "county",
+    "hi1": "काउंटी",
+    "hi2": "काउंटी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "external",
+    "en2": "external",
+    "hi1": "बाह्य",
+    "hi2": "बाह्य"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "where",
+    "en2": "where",
+    "hi1": "जहाँ",
+    "hi2": "जहाँ"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "will",
+    "en2": "will",
+    "hi1": "होगा",
+    "hi2": "होगा"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "what",
+    "en2": "what",
+    "hi1": "कया",
+    "hi2": "कया"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "delete",
+    "en2": "delete",
+    "hi1": "हटाएँ",
+    "hi2": "हटाएँ"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "any",
+    "en2": "any",
+    "hi1": "कोई",
+    "hi2": "कोई"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "these",
+    "en2": "these",
+    "hi1": "ये",
+    "hi2": "ये"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "january",
+    "en2": "january",
+    "hi1": "जनवरी",
+    "hi2": "जनवरी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "march",
+    "en2": "march",
+    "hi1": "कूच",
+    "hi2": "कूच"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "august",
+    "en2": "august",
+    "hi1": "अगस्त",
+    "hi2": "अगस्त"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "july",
+    "en2": "july",
+    "hi1": "जुलाई",
+    "hi2": "जुलाई"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "being",
+    "en2": "being",
+    "hi1": "होने",
+    "hi2": "होने"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "film",
+    "en2": "film",
+    "hi1": "फिल्मी",
+    "hi2": "फिल्मी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "him",
+    "en2": "him",
+    "hi1": "उसे",
+    "hi2": "उसे"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "many",
+    "en2": "many",
+    "hi1": "अनेक",
+    "hi2": "अनेक"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "south",
+    "en2": "south",
+    "hi1": "दक्षिण",
+    "hi2": "दक्षिण"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "september",
+    "en2": "september",
+    "hi1": "सितंबर",
+    "hi2": "सितंबर"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "like",
+    "en2": "like",
+    "hi1": "जैसे",
+    "hi2": "जैसे"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "october",
+    "en2": "october",
+    "hi1": "अक्तूबर",
+    "hi2": "अक्तूबर"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "three",
+    "en2": "three",
+    "hi1": "तीन",
+    "hi2": "तीन"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "june",
+    "en2": "june",
+    "hi1": "जून",
+    "hi2": "जून"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "well",
+    "en2": "well",
+    "hi1": "खूब",
+    "hi2": "खूब"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "use",
+    "en2": "use",
+    "hi1": "उपयोग",
+    "hi2": "उपयोग"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "war",
+    "en2": "war",
+    "hi1": "युद्ध",
+    "hi2": "युद्ध"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "under",
+    "en2": "under",
+    "hi1": "अंतर्गत",
+    "hi2": "अंतर्गत"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "them",
+    "en2": "them",
+    "hi1": "उन्हें",
+    "hi2": "उन्हें"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "april",
+    "en2": "april",
+    "hi1": "अप्रैल",
+    "hi2": "अप्रैल"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "born",
+    "en2": "born",
+    "hi1": "born",
+    "hi2": "born"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "december",
+    "en2": "december",
+    "hi1": "दिसम्बर",
+    "hi2": "दिसम्बर"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "link",
+    "en2": "link",
+    "hi1": "कड़ी",
+    "hi2": "कड़ी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "while",
+    "en2": "while",
+    "hi1": "जबकि",
+    "hi2": "जबकि"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "later",
+    "en2": "later",
+    "hi1": "बाद",
+    "hi2": "बाद"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "part",
+    "en2": "part",
+    "hi1": "भाग",
+    "hi2": "भाग"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "november",
+    "en2": "november",
+    "hi1": "नवम्बर",
+    "hi2": "नवम्बर"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "players",
+    "en2": "players",
+    "hi1": "खिलाड़ी",
+    "hi2": "खिलाड़ी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "list",
+    "en2": "list",
+    "hi1": "सूची",
+    "hi2": "सूची"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "please",
+    "en2": "please",
+    "hi1": "कृपया",
+    "hi2": "कृपया"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "february",
+    "en2": "february",
+    "hi1": "फ़रवरी",
+    "hi2": "फ़रवरी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "known",
+    "en2": "known",
+    "hi1": "ज्ञात",
+    "hi2": "ज्ञात"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "second",
+    "en2": "second",
+    "hi1": "दूसरी",
+    "hi2": "दूसरी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "name",
+    "en2": "name",
+    "hi1": "नाम",
+    "hi2": "नाम"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "group",
+    "en2": "group",
+    "hi1": "समूह",
+    "hi2": "समूह"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "history",
+    "en2": "history",
+    "hi1": "इतिहास",
+    "hi2": "इतिहास"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "series",
+    "en2": "series",
+    "hi1": "श्रेणी",
+    "hi2": "श्रेणी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "just",
+    "en2": "just",
+    "hi1": "बस",
+    "hi2": "बस"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "north",
+    "en2": "north",
+    "hi1": "उत्तर",
+    "hi2": "उत्तर"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "work",
+    "en2": "work",
+    "hi1": "कार्य",
+    "hi2": "कार्य"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "before",
+    "en2": "before",
+    "hi1": "पहले",
+    "hi2": "पहले"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "since",
+    "en2": "since",
+    "hi1": "चूंकि",
+    "hi2": "चूंकि"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "season",
+    "en2": "season",
+    "hi1": "ऋतु",
+    "hi2": "ऋतु"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "both",
+    "en2": "both",
+    "hi1": "दोनो",
+    "hi2": "दोनो"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "high",
+    "en2": "high",
+    "hi1": "ऊँची",
+    "hi2": "ऊँची"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "district",
+    "en2": "district",
+    "hi1": "ज़िला",
+    "hi2": "ज़िला"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "now",
+    "en2": "now",
+    "hi1": "अभी",
+    "hi2": "अभी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "comments",
+    "en2": "comments",
+    "hi1": "टिप्पणी",
+    "hi2": "टिप्पणी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "because",
+    "en2": "because",
+    "hi1": "क्युकी",
+    "hi2": "क्युकी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "football",
+    "en2": "football",
+    "hi1": "फ़ुटबॉल",
+    "hi2": "फ़ुटबॉल"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "music",
+    "en2": "music",
+    "hi1": "म्यूज़िक",
+    "hi2": "म्यूज़िक"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "century",
+    "en2": "century",
+    "hi1": "सदी",
+    "hi2": "सदी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "league",
+    "en2": "league",
+    "hi1": "लीग",
+    "hi2": "लीग"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "edits",
+    "en2": "edits",
+    "hi1": "संपादन",
+    "hi2": "संपादन"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "debate",
+    "en2": "debate",
+    "hi1": "बहस",
+    "hi2": "बहस"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "title",
+    "en2": "title",
+    "hi1": "शीर्षक",
+    "hi2": "शीर्षक"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "articles",
+    "en2": "articles",
+    "hi1": "आलेख",
+    "hi2": "आलेख"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "john",
+    "en2": "john",
+    "hi1": "जॉन",
+    "hi2": "जॉन"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "same",
+    "en2": "same",
+    "hi1": "वही",
+    "hi2": "वही"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "including",
+    "en2": "including",
+    "hi1": "सहित",
+    "hi2": "सहित"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "english",
+    "en2": "english",
+    "hi1": "अंग्रेज़ी",
+    "hi2": "अंग्रेज़ी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "album",
+    "en2": "album",
+    "hi1": "एल्बम",
+    "hi2": "एल्बम"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "number",
+    "en2": "number",
+    "hi1": "क्रमांक",
+    "hi2": "क्रमांक"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "against",
+    "en2": "against",
+    "hi1": "विरूद्ध",
+    "hi2": "विरूद्ध"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "family",
+    "en2": "family",
+    "hi1": "परिवार",
+    "hi2": "परिवार"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "user",
+    "en2": "user",
+    "hi1": "उपयोक्ता",
+    "hi2": "उपयोक्ता"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "based",
+    "en2": "based",
+    "hi1": "आधारित",
+    "hi2": "आधारित"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "area",
+    "en2": "area",
+    "hi1": "क्षेत्रफल",
+    "hi2": "क्षेत्रफल"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "york",
+    "en2": "york",
+    "hi1": "यॉर्क",
+    "hi2": "यॉर्क"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "life",
+    "en2": "life",
+    "hi1": "जीवन",
+    "hi2": "जीवन"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "british",
+    "en2": "british",
+    "hi1": "अंग्रेजों",
+    "hi2": "अंग्रेजों"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "international",
+    "en2": "international",
+    "hi1": "अंतरराष्ट्रीय",
+    "hi2": "अंतरराष्ट्रीय"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "game",
+    "en2": "game",
+    "hi1": "खेल",
+    "hi2": "खेल"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "above",
+    "en2": "above",
+    "hi1": "ऊपर",
+    "hi2": "ऊपर"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "club",
+    "en2": "club",
+    "hi1": "क्लबों",
+    "hi2": "क्लबों"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "your",
+    "en2": "your",
+    "hi1": "अपना",
+    "hi2": "अपना"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "until",
+    "en2": "until",
+    "hi1": "जबतक",
+    "hi2": "जबतक"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "early",
+    "en2": "early",
+    "hi1": "जल्दी",
+    "hi2": "जल्दी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "best",
+    "en2": "best",
+    "hi1": "बेहतरीन",
+    "hi2": "बेहतरीन"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "west",
+    "en2": "west",
+    "hi1": "वेस्ट",
+    "hi2": "वेस्ट"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "house",
+    "en2": "house",
+    "hi1": "हाउस",
+    "hi2": "हाउस"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "company",
+    "en2": "company",
+    "hi1": "कम्पनी",
+    "hi2": "कम्पनी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "general",
+    "en2": "general",
+    "hi1": "सामान्य",
+    "hi2": "सामान्य"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "left",
+    "en2": "left",
+    "hi1": "बाएँ",
+    "hi2": "बाएँ"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "very",
+    "en2": "very",
+    "hi1": "बहुत",
+    "hi2": "बहुत"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "here",
+    "en2": "here",
+    "hi1": "यहाँ",
+    "hi2": "यहाँ"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "don",
+    "en2": "don",
+    "hi1": "डॉन",
+    "hi2": "डॉन"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "living",
+    "en2": "living",
+    "hi1": "जीना",
+    "hi2": "जीना"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "day",
+    "en2": "day",
+    "hi1": "दिन",
+    "hi2": "दिन"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "several",
+    "en2": "several",
+    "hi1": "अनेक",
+    "hi2": "अनेक"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "place",
+    "en2": "place",
+    "hi1": "प्लेस",
+    "hi2": "प्लेस"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "party",
+    "en2": "party",
+    "hi1": "पार्टी",
+    "hi2": "पार्टी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "college",
+    "en2": "college",
+    "hi1": "कॉलेज",
+    "hi2": "कॉलेज"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "result",
+    "en2": "result",
+    "hi1": "परिणाम",
+    "hi2": "परिणाम"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "keep",
+    "en2": "keep",
+    "hi1": "रखना",
+    "hi2": "रखना"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "appropriate",
+    "en2": "appropriate",
+    "hi1": "उचित",
+    "hi2": "उचित"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "four",
+    "en2": "four",
+    "hi1": "चार",
+    "hi2": "चार"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "even",
+    "en2": "even",
+    "hi1": "भी",
+    "hi2": "भी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "class",
+    "en2": "class",
+    "hi1": "क्लास",
+    "hi2": "क्लास"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "government",
+    "en2": "government",
+    "hi1": "सरकारी",
+    "hi2": "सरकारी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "how",
+    "en2": "how",
+    "hi1": "कैसा",
+    "hi2": "कैसा"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "called",
+    "en2": "called",
+    "hi1": "पुकारा",
+    "hi2": "पुकारा"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "did",
+    "en2": "did",
+    "hi1": "किया",
+    "hi2": "किया"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "each",
+    "en2": "each",
+    "hi1": "प्रत्येक",
+    "hi2": "प्रत्येक"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "found",
+    "en2": "found",
+    "hi1": "मिला",
+    "hi2": "मिला"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "center",
+    "en2": "center",
+    "hi1": "बीच",
+    "hi2": "बीच"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "per",
+    "en2": "per",
+    "hi1": "प्रति",
+    "hi2": "प्रति"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "style",
+    "en2": "style",
+    "hi1": "स्टाइल",
+    "hi2": "स्टाइल"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "com",
+    "en2": "com",
+    "hi1": "com",
+    "hi2": "com"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "long",
+    "en2": "long",
+    "hi1": "long",
+    "hi2": "long"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "country",
+    "en2": "country",
+    "hi1": "देश",
+    "hi2": "देश"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "back",
+    "en2": "back",
+    "hi1": "वापस",
+    "hi2": "वापस"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "way",
+    "en2": "way",
+    "hi1": "रास्ता",
+    "hi2": "रास्ता"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "does",
+    "en2": "does",
+    "hi1": "करता",
+    "hi2": "करता"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "www",
+    "en2": "www",
+    "hi1": "www",
+    "hi2": "www"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "modify",
+    "en2": "modify",
+    "hi1": "सुधारें",
+    "hi2": "सुधारें"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "end",
+    "en2": "end",
+    "hi1": "समाप्त",
+    "hi2": "समाप्त"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "make",
+    "en2": "make",
+    "hi1": "मेक",
+    "hi2": "मेक"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "public",
+    "en2": "public",
+    "hi1": "पब्लिक",
+    "hi2": "पब्लिक"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "played",
+    "en2": "played",
+    "hi1": "निभाई",
+    "hi2": "निभाई"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "won",
+    "en2": "won",
+    "hi1": "जीती",
+    "hi2": "जीती"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "support",
+    "en2": "support",
+    "hi1": "support",
+    "hi2": "support"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "games",
+    "en2": "games",
+    "hi1": "खेल",
+    "hi2": "खेल"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "former",
+    "en2": "former",
+    "hi1": "पूर्व",
+    "hi2": "पूर्व"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "church",
+    "en2": "church",
+    "hi1": "गिरिजाघर",
+    "hi2": "गिरिजाघर"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "east",
+    "en2": "east",
+    "hi1": "ईस्ट",
+    "hi2": "ईस्ट"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "line",
+    "en2": "line",
+    "hi1": "लकीर",
+    "hi2": "लकीर"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "major",
+    "en2": "major",
+    "hi1": "प्रमुख",
+    "hi2": "प्रमुख"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "members",
+    "en2": "members",
+    "hi1": "सदस्यों",
+    "hi2": "सदस्यों"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "good",
+    "en2": "good",
+    "hi1": "शुभ",
+    "hi2": "शुभ"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "image",
+    "en2": "image",
+    "hi1": "चित्र",
+    "hi2": "चित्र"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "show",
+    "en2": "show",
+    "hi1": "दिखाएँ",
+    "hi2": "दिखाएँ"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "still",
+    "en2": "still",
+    "hi1": "स्टिल",
+    "hi2": "स्टिल"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "think",
+    "en2": "think",
+    "hi1": "सोचो",
+    "hi2": "सोचो"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "below",
+    "en2": "below",
+    "hi1": "नीचे",
+    "hi2": "नीचे"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "town",
+    "en2": "town",
+    "hi1": "कस्बा",
+    "hi2": "कस्बा"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "last",
+    "en2": "last",
+    "hi1": "पिछला",
+    "hi2": "पिछला"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "system",
+    "en2": "system",
+    "hi1": "प्रणाली",
+    "hi2": "प्रणाली"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "right",
+    "en2": "right",
+    "hi1": "सही",
+    "hi2": "सही"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "song",
+    "en2": "song",
+    "hi1": "सोंग",
+    "hi2": "सोंग"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "non",
+    "en2": "non",
+    "hi1": "गैर",
+    "hi2": "गैर"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "section",
+    "en2": "section",
+    "hi1": "खण्ड",
+    "hi2": "खण्ड"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "single",
+    "en2": "single",
+    "hi1": "सिंगल",
+    "hi2": "सिंगल"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "included",
+    "en2": "included",
+    "hi1": "शामिल",
+    "hi2": "शामिल"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "align",
+    "en2": "align",
+    "hi1": "क्षारीय",
+    "hi2": "क्षारीय"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "home",
+    "en2": "home",
+    "hi1": "घर",
+    "hi2": "घर"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "women",
+    "en2": "women",
+    "hi1": "महिलाओं",
+    "hi2": "महिलाओं"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "television",
+    "en2": "television",
+    "hi1": "टेलीविज़न",
+    "hi2": "टेलीविज़न"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "seed",
+    "en2": "seed",
+    "hi1": "बीज",
+    "hi2": "बीज"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "member",
+    "en2": "member",
+    "hi1": "सदस्य",
+    "hi2": "सदस्य"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "goals",
+    "en2": "goals",
+    "hi1": "लक्ष्य",
+    "hi2": "लक्ष्य"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "sources",
+    "en2": "sources",
+    "hi1": "स्त्रोत",
+    "hi2": "स्त्रोत"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "book",
+    "en2": "book",
+    "hi1": "किताब",
+    "hi2": "किताब"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "station",
+    "en2": "station",
+    "hi1": "स्टेशन",
+    "hi2": "स्टेशन"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "order",
+    "en2": "order",
+    "hi1": "अनुक्रम",
+    "hi2": "अनुक्रम"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "old",
+    "en2": "old",
+    "hi1": "बूढ़ा",
+    "hi2": "बूढ़ा"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "information",
+    "en2": "information",
+    "hi1": "सूचना",
+    "hi2": "सूचना"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "set",
+    "en2": "set",
+    "hi1": "नियत",
+    "hi2": "नियत"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "own",
+    "en2": "own",
+    "hi1": "अपना",
+    "hi2": "अपना"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "text",
+    "en2": "text",
+    "hi1": "टेक्स्ट",
+    "hi2": "टेक्स्ट"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "band",
+    "en2": "band",
+    "hi1": "बैंड",
+    "hi2": "बैंड"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "point",
+    "en2": "point",
+    "hi1": "पाइंट",
+    "hi2": "पाइंट"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "local",
+    "en2": "local",
+    "hi1": "लोकल",
+    "hi2": "लोकल"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "river",
+    "en2": "river",
+    "hi1": "नदी",
+    "hi2": "नदी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "top",
+    "en2": "top",
+    "hi1": "शीर्ष",
+    "hi2": "शीर्ष"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "main",
+    "en2": "main",
+    "hi1": "प्रमुख",
+    "hi2": "प्रमुख"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "language",
+    "en2": "language",
+    "hi1": "भाषा",
+    "hi2": "भाषा"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "french",
+    "en2": "french",
+    "hi1": "फ्रेंच",
+    "hi2": "फ्रेंच"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "https",
+    "en2": "https",
+    "hi1": "https",
+    "hi2": "https"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "named",
+    "en2": "named",
+    "hi1": "नामित",
+    "hi2": "नामित"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "off",
+    "en2": "off",
+    "hi1": "बंद",
+    "hi2": "बंद"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "note",
+    "en2": "note",
+    "hi1": "नोट",
+    "hi2": "नोट"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "career",
+    "en2": "career",
+    "hi1": "करियर",
+    "hi2": "करियर"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "original",
+    "en2": "original",
+    "hi1": "असली",
+    "hi2": "असली"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "age",
+    "en2": "age",
+    "hi1": "आयु",
+    "hi2": "आयु"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "service",
+    "en2": "service",
+    "hi1": "सेवा",
+    "hi2": "सेवा"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "established",
+    "en2": "established",
+    "hi1": "स्थापित",
+    "hi2": "स्थापित"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "located",
+    "en2": "located",
+    "hi1": "स्तिथ",
+    "hi2": "स्तिथ"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "said",
+    "en2": "said",
+    "hi1": "कहा",
+    "hi2": "कहा"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "website",
+    "en2": "website",
+    "hi1": "जालस्थल",
+    "hi2": "जालस्थल"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "population",
+    "en2": "population",
+    "hi1": "जनसांख्यिकी",
+    "hi2": "जनसांख्यिकी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "air",
+    "en2": "air",
+    "hi1": "एयर",
+    "hi2": "एयर"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "german",
+    "en2": "german",
+    "hi1": "जर्मनी",
+    "hi2": "जर्मनी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "law",
+    "en2": "law",
+    "hi1": "विधि",
+    "hi2": "विधि"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "military",
+    "en2": "military",
+    "hi1": "सैन्य",
+    "hi2": "सैन्य"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "great",
+    "en2": "great",
+    "hi1": "ग्रेट",
+    "hi2": "ग्रेट"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "within",
+    "en2": "within",
+    "hi1": "भीतर",
+    "hi2": "भीतर"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "clubs",
+    "en2": "clubs",
+    "hi1": "क्लब",
+    "hi2": "क्लब"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "published",
+    "en2": "published",
+    "hi1": "प्रकाशित",
+    "hi2": "प्रकाशित"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "president",
+    "en2": "president",
+    "hi1": "अध्यक्ष",
+    "hi2": "अध्यक्ष"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "park",
+    "en2": "park",
+    "hi1": "पार्क",
+    "hi2": "पार्क"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "official",
+    "en2": "official",
+    "hi1": "आधिकारिक",
+    "hi2": "आधिकारिक"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "case",
+    "en2": "case",
+    "hi1": "मामला",
+    "hi2": "मामला"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "london",
+    "en2": "london",
+    "hi1": "लंदन",
+    "hi2": "लंदन"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "times",
+    "en2": "times",
+    "hi1": "टाइम्स",
+    "hi2": "टाइम्स"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "although",
+    "en2": "although",
+    "hi1": "हालांकि",
+    "hi2": "हालांकि"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "small",
+    "en2": "small",
+    "hi1": "छोटी",
+    "hi2": "छोटी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "third",
+    "en2": "third",
+    "hi1": "तीसरा",
+    "hi2": "तीसरा"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "different",
+    "en2": "different",
+    "hi1": "अलग",
+    "hi2": "अलग"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "get",
+    "en2": "get",
+    "hi1": "मिलेंगी",
+    "hi2": "मिलेंगी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "village",
+    "en2": "village",
+    "hi1": "गाँव",
+    "hi2": "गाँव"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "closed",
+    "en2": "closed",
+    "hi1": "बंद",
+    "hi2": "बंद"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "art",
+    "en2": "art",
+    "hi1": "आर्ट",
+    "hi2": "आर्ट"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "player",
+    "en2": "player",
+    "hi1": "खिलाड़ी",
+    "hi2": "खिलाड़ी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "final",
+    "en2": "final",
+    "hi1": "फाइनल",
+    "hi2": "फाइनल"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "community",
+    "en2": "community",
+    "hi1": "जातियाँ",
+    "hi2": "जातियाँ"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "held",
+    "en2": "held",
+    "hi1": "आयोजित",
+    "hi2": "आयोजित"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "army",
+    "en2": "army",
+    "hi1": "फौज",
+    "hi2": "फौज"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "award",
+    "en2": "award",
+    "hi1": "पुरस्कार",
+    "hi2": "पुरस्कार"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "without",
+    "en2": "without",
+    "hi1": "बगैर",
+    "hi2": "बगैर"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "death",
+    "en2": "death",
+    "hi1": "मौत",
+    "hi2": "मौत"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "built",
+    "en2": "built",
+    "hi1": "निर्मित",
+    "hi2": "निर्मित"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "men",
+    "en2": "men",
+    "hi1": "मेन",
+    "hi2": "मेन"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "large",
+    "en2": "large",
+    "hi1": "विशाल",
+    "hi2": "विशाल"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "site",
+    "en2": "site",
+    "hi1": "साईट",
+    "hi2": "साईट"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "deletion",
+    "en2": "deletion",
+    "hi1": "हटाना",
+    "hi2": "हटाना"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "white",
+    "en2": "white",
+    "hi1": "श्वेत",
+    "hi2": "श्वेत"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "along",
+    "en2": "along",
+    "hi1": "साथ",
+    "hi2": "साथ"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "five",
+    "en2": "five",
+    "hi1": "पाँच",
+    "hi2": "पाँच"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "central",
+    "en2": "central",
+    "hi1": "सेंट्रल",
+    "hi2": "सेंट्रल"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "road",
+    "en2": "road",
+    "hi1": "सड़क",
+    "hi2": "सड़क"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "free",
+    "en2": "free",
+    "hi1": "फ़्री",
+    "hi2": "फ़्री"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "england",
+    "en2": "england",
+    "hi1": "इंग्लैण्ड",
+    "hi2": "इंग्लैण्ड"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "include",
+    "en2": "include",
+    "hi1": "शामिल",
+    "hi2": "शामिल"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "association",
+    "en2": "association",
+    "hi1": "संघ",
+    "hi2": "संघ"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "down",
+    "en2": "down",
+    "hi1": "bas",
+    "hi2": "bas"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "given",
+    "en2": "given",
+    "hi1": "दिए",
+    "hi2": "दिए"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "source",
+    "en2": "source",
+    "hi1": "सोर्स",
+    "hi2": "सोर्स"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "california",
+    "en2": "california",
+    "hi1": "कैलिफ़ोर्निया",
+    "hi2": "कैलिफ़ोर्निया"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "man",
+    "en2": "man",
+    "hi1": "man",
+    "hi2": "man"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "version",
+    "en2": "version",
+    "hi1": "संस्करण",
+    "hi2": "संस्करण"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "written",
+    "en2": "written",
+    "hi1": "लिखा",
+    "hi2": "लिखा"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "created",
+    "en2": "created",
+    "hi1": "निर्मित",
+    "hi2": "निर्मित"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "media",
+    "en2": "media",
+    "hi1": "मीडिया",
+    "hi2": "मीडिया"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "black",
+    "en2": "black",
+    "hi1": "ब्लैक",
+    "hi2": "ब्लैक"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "though",
+    "en2": "though",
+    "hi1": "हालांकि",
+    "hi2": "हालांकि"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "php",
+    "en2": "php",
+    "hi1": "पीएचपी",
+    "hi2": "पीएचपी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "report",
+    "en2": "report",
+    "hi1": "रपट",
+    "hi2": "रपट"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "building",
+    "en2": "building",
+    "hi1": "भवन",
+    "hi2": "भवन"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "take",
+    "en2": "take",
+    "hi1": "लो",
+    "hi2": "लो"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "division",
+    "en2": "division",
+    "hi1": "प्रभाग",
+    "hi2": "प्रभाग"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "comment",
+    "en2": "comment",
+    "hi1": "टिप्पणी",
+    "hi2": "टिप्पणी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "king",
+    "en2": "king",
+    "hi1": "किंग",
+    "hi2": "किंग"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "edit",
+    "en2": "edit",
+    "hi1": "संपादन",
+    "hi2": "संपादन"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "stadium",
+    "en2": "stadium",
+    "hi1": "स्टेडियम",
+    "hi2": "स्टेडियम"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "ship",
+    "en2": "ship",
+    "hi1": "जलयान",
+    "hi2": "जलयान"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "research",
+    "en2": "research",
+    "hi1": "शोध",
+    "hi2": "शोध"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "record",
+    "en2": "record",
+    "hi1": "रिकार्ड",
+    "hi2": "रिकार्ड"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "archive",
+    "en2": "archive",
+    "hi1": "अभिलेख",
+    "hi2": "अभिलेख"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "places",
+    "en2": "places",
+    "hi1": "स्थान",
+    "hi2": "स्थान"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "cup",
+    "en2": "cup",
+    "hi1": "कप",
+    "hi2": "कप"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "records",
+    "en2": "records",
+    "hi1": "रिकॉर्ड",
+    "hi2": "रिकॉर्ड"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "often",
+    "en2": "often",
+    "hi1": "प्रायः",
+    "hi2": "प्रायः"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "received",
+    "en2": "received",
+    "hi1": "प्राप्त",
+    "hi2": "प्राप्त"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "side",
+    "en2": "side",
+    "hi1": "पक्ष",
+    "hi2": "पक्ष"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "power",
+    "en2": "power",
+    "hi1": "शक्ति",
+    "hi2": "शक्ति"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "education",
+    "en2": "education",
+    "hi1": "शिक्षा",
+    "hi2": "शिक्षा"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "know",
+    "en2": "know",
+    "hi1": "जान",
+    "hi2": "जान"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "category",
+    "en2": "category",
+    "hi1": "श्रेणी",
+    "hi2": "श्रेणी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "water",
+    "en2": "water",
+    "hi1": "जल",
+    "hi2": "जल"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "political",
+    "en2": "political",
+    "hi1": "राजनैतिक",
+    "hi2": "राजनैतिक"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "species",
+    "en2": "species",
+    "hi1": "प्रजाति",
+    "hi2": "प्रजाति"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "field",
+    "en2": "field",
+    "hi1": "फ़ील्ड",
+    "hi2": "फ़ील्ड"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "near",
+    "en2": "near",
+    "hi1": "निकट",
+    "hi2": "निकट"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "australia",
+    "en2": "australia",
+    "hi1": "ऑस्ट्रेलिया",
+    "hi2": "ऑस्ट्रेलिया"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "video",
+    "en2": "video",
+    "hi1": "वीडियो",
+    "hi2": "वीडियो"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "island",
+    "en2": "island",
+    "hi1": "द्वीप",
+    "hi2": "द्वीप"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "form",
+    "en2": "form",
+    "hi1": "रूप",
+    "hi2": "रूप"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "find",
+    "en2": "find",
+    "hi1": "ढूँढें",
+    "hi2": "ढूँढें"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "served",
+    "en2": "served",
+    "hi1": "परोसा",
+    "hi2": "परोसा"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "play",
+    "en2": "play",
+    "hi1": "खेल",
+    "hi2": "खेल"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "project",
+    "en2": "project",
+    "hi1": "प्रोजेक्ट",
+    "hi2": "प्रोजेक्ट"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "radio",
+    "en2": "radio",
+    "hi1": "रेडियो",
+    "hi2": "रेडियो"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "proposed",
+    "en2": "proposed",
+    "hi1": "प्रस्तावित",
+    "hi2": "प्रस्तावित"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "every",
+    "en2": "every",
+    "hi1": "प्रत्येक",
+    "hi2": "प्रत्येक"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "development",
+    "en2": "development",
+    "hi1": "विकास",
+    "hi2": "विकास"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "example",
+    "en2": "example",
+    "hi1": "उदाहरण",
+    "hi2": "उदाहरण"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "live",
+    "en2": "live",
+    "hi1": "सजीव",
+    "hi2": "सजीव"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "union",
+    "en2": "union",
+    "hi1": "संघ",
+    "hi2": "संघ"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "india",
+    "en2": "india",
+    "hi1": "इण्डिया",
+    "hi2": "इण्डिया"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "next",
+    "en2": "next",
+    "hi1": "अगला",
+    "hi2": "अगला"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "special",
+    "en2": "special",
+    "hi1": "खास",
+    "hi2": "खास"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "court",
+    "en2": "court",
+    "hi1": "अदालत",
+    "hi2": "अदालत"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "region",
+    "en2": "region",
+    "hi1": "प्रदेश",
+    "hi2": "प्रदेश"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "little",
+    "en2": "little",
+    "hi1": "छोटी",
+    "hi2": "छोटी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "short",
+    "en2": "short",
+    "hi1": "छोटी",
+    "hi2": "छोटी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "william",
+    "en2": "william",
+    "hi1": "विलियम",
+    "hi2": "विलियम"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "province",
+    "en2": "province",
+    "hi1": "प्रांत",
+    "hi2": "प्रांत"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "western",
+    "en2": "western",
+    "hi1": "पश्चिमी",
+    "hi2": "पश्चिमी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "son",
+    "en2": "son",
+    "hi1": "बेटे",
+    "hi2": "बेटे"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "france",
+    "en2": "france",
+    "hi1": "फ़्रांस",
+    "hi2": "फ़्रांस"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "council",
+    "en2": "council",
+    "hi1": "परिषद",
+    "hi2": "परिषद"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "others",
+    "en2": "others",
+    "hi1": "अन्य",
+    "hi2": "अन्य"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "royal",
+    "en2": "royal",
+    "hi1": "royal",
+    "hi2": "royal"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "current",
+    "en2": "current",
+    "hi1": "वर्तमान",
+    "hi2": "वर्तमान"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "street",
+    "en2": "street",
+    "hi1": "गली",
+    "hi2": "गली"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "full",
+    "en2": "full",
+    "hi1": "पूरा",
+    "hi2": "पूरा"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "red",
+    "en2": "red",
+    "hi1": "रेड",
+    "hi2": "रेड"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "too",
+    "en2": "too",
+    "hi1": "too",
+    "hi2": "too"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "department",
+    "en2": "department",
+    "hi1": "विभाग",
+    "hi2": "विभाग"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "san",
+    "en2": "san",
+    "hi1": "सैन",
+    "hi2": "सैन"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "help",
+    "en2": "help",
+    "hi1": "सहायता",
+    "hi2": "सहायता"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "james",
+    "en2": "james",
+    "hi1": "जेम्स",
+    "hi2": "जेम्स"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "open",
+    "en2": "open",
+    "hi1": "खोलें",
+    "hi2": "खोलें"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "force",
+    "en2": "force",
+    "hi1": "फ़ोर्स",
+    "hi2": "फ़ोर्स"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "position",
+    "en2": "position",
+    "hi1": "स्थिति",
+    "hi2": "स्थिति"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "head",
+    "en2": "head",
+    "hi1": "सिर",
+    "hi2": "सिर"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "director",
+    "en2": "director",
+    "hi1": "निदेशक",
+    "hi2": "निदेशक"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "father",
+    "en2": "father",
+    "hi1": "पिता",
+    "hi2": "पिता"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "track",
+    "en2": "track",
+    "hi1": "track",
+    "hi2": "track"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "http",
+    "en2": "http",
+    "hi1": "एचटीटीपी",
+    "hi2": "एचटीटीपी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "canada",
+    "en2": "canada",
+    "hi1": "कनाडा",
+    "hi2": "कनाडा"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "australian",
+    "en2": "australian",
+    "hi1": "ऑस्ट्रेलियाई",
+    "hi2": "ऑस्ट्रेलियाई"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "george",
+    "en2": "george",
+    "hi1": "जार्ज",
+    "hi2": "जार्ज"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "jpg",
+    "en2": "jpg",
+    "hi1": "jpg",
+    "hi2": "jpg"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "level",
+    "en2": "level",
+    "hi1": "स्तर",
+    "hi2": "स्तर"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "late",
+    "en2": "late",
+    "hi1": "लेट",
+    "hi2": "लेट"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "summer",
+    "en2": "summer",
+    "hi1": "गर्मियाँ",
+    "hi2": "गर्मियाँ"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "society",
+    "en2": "society",
+    "hi1": "समाज",
+    "hi2": "समाज"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "moved",
+    "en2": "moved",
+    "hi1": "स्थानांतरित",
+    "hi2": "स्थानांतरित"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "office",
+    "en2": "office",
+    "hi1": "दफ्तर",
+    "hi2": "दफ्तर"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "period",
+    "en2": "period",
+    "hi1": "काल",
+    "hi2": "काल"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "championship",
+    "en2": "championship",
+    "hi1": "चैंपियनशिप",
+    "hi2": "चैंपियनशिप"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "round",
+    "en2": "round",
+    "hi1": "गोलाकार",
+    "hi2": "गोलाकार"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "story",
+    "en2": "story",
+    "hi1": "स्टोरी",
+    "hi2": "स्टोरी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "songs",
+    "en2": "songs",
+    "hi1": "गीतों",
+    "hi2": "गीतों"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "various",
+    "en2": "various",
+    "hi1": "विभिन्न",
+    "hi2": "विभिन्न"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "file",
+    "en2": "file",
+    "hi1": "संचिका",
+    "hi2": "संचिका"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "days",
+    "en2": "days",
+    "hi1": "दिनों",
+    "hi2": "दिनों"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "land",
+    "en2": "land",
+    "hi1": "जमीन",
+    "hi2": "जमीन"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "business",
+    "en2": "business",
+    "hi1": "कारोबार",
+    "hi2": "कारोबार"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "reason",
+    "en2": "reason",
+    "hi1": "कारण",
+    "hi2": "कारण"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "america",
+    "en2": "america",
+    "hi1": "अमेरिका",
+    "hi2": "अमेरिका"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "million",
+    "en2": "million",
+    "hi1": "लाख",
+    "hi2": "लाख"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "european",
+    "en2": "european",
+    "hi1": "यूरोपीय",
+    "hi2": "यूरोपीय"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "term",
+    "en2": "term",
+    "hi1": "पद",
+    "hi2": "पद"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "six",
+    "en2": "six",
+    "hi1": "छह",
+    "hi2": "छह"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "post",
+    "en2": "post",
+    "hi1": "पोस्ट",
+    "hi2": "पोस्ट"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "why",
+    "en2": "why",
+    "hi1": "क्यों",
+    "hi2": "क्यों"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "produced",
+    "en2": "produced",
+    "hi1": "उत्पादित",
+    "hi2": "उत्पादित"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "making",
+    "en2": "making",
+    "hi1": "बनाना",
+    "hi2": "बनाना"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "subject",
+    "en2": "subject",
+    "hi1": "विषय",
+    "hi2": "विषय"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "young",
+    "en2": "young",
+    "hi1": "यंग",
+    "hi2": "यंग"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "total",
+    "en2": "total",
+    "hi1": "कुल",
+    "hi2": "कुल"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "david",
+    "en2": "david",
+    "hi1": "दाउद",
+    "hi2": "दाउद"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "science",
+    "en2": "science",
+    "hi1": "विज्ञान",
+    "hi2": "विज्ञान"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "related",
+    "en2": "related",
+    "hi1": "सम्बन्धित",
+    "hi2": "सम्बन्धित"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "rock",
+    "en2": "rock",
+    "hi1": "चट्टान",
+    "hi2": "चट्टान"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "archived",
+    "en2": "archived",
+    "hi1": "संग्रहीत",
+    "hi2": "संग्रहीत"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "railway",
+    "en2": "railway",
+    "hi1": "रेल",
+    "hi2": "रेल"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "led",
+    "en2": "led",
+    "hi1": "led",
+    "hi2": "led"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "students",
+    "en2": "students",
+    "hi1": "विद्यार्थी",
+    "hi2": "विद्यार्थी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "started",
+    "en2": "started",
+    "hi1": "प्रारंभ",
+    "hi2": "प्रारंभ"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "news",
+    "en2": "news",
+    "hi1": "न्यूज",
+    "hi2": "न्यूज"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "described",
+    "en2": "described",
+    "hi1": "वर्णित",
+    "hi2": "वर्णित"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "role",
+    "en2": "role",
+    "hi1": "भूमिका",
+    "hi2": "भूमिका"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "election",
+    "en2": "election",
+    "hi1": "चुनाव",
+    "hi2": "चुनाव"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "albums",
+    "en2": "albums",
+    "hi1": "एल्बम",
+    "hi2": "एल्बम"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "present",
+    "en2": "present",
+    "hi1": "उपस्थित",
+    "hi2": "उपस्थित"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "indian",
+    "en2": "indian",
+    "hi1": "भारतीय",
+    "hi2": "भारतीय"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "kingdom",
+    "en2": "kingdom",
+    "hi1": "किंगडम",
+    "hi2": "किंगडम"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "books",
+    "en2": "books",
+    "hi1": "किताबे",
+    "hi2": "किताबे"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "important",
+    "en2": "important",
+    "hi1": "महत्वपूर्ण",
+    "hi2": "महत्वपूर्ण"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "northern",
+    "en2": "northern",
+    "hi1": "उत्तरी",
+    "hi2": "उत्तरी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "love",
+    "en2": "love",
+    "hi1": "प्रेम",
+    "hi2": "प्रेम"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "run",
+    "en2": "run",
+    "hi1": "चलाएं",
+    "hi2": "चलाएं"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "canadian",
+    "en2": "canadian",
+    "hi1": "कनाडाई",
+    "hi2": "कनाडाई"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "press",
+    "en2": "press",
+    "hi1": "दबायें",
+    "hi2": "दबायें"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "rather",
+    "en2": "rather",
+    "hi1": "बल्कि",
+    "hi2": "बल्कि"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "type",
+    "en2": "type",
+    "hi1": "प्रकार",
+    "hi2": "प्रकार"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "act",
+    "en2": "act",
+    "hi1": "अधिनियम",
+    "hi2": "अधिनियम"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "editor",
+    "en2": "editor",
+    "hi1": "एडिटर",
+    "hi2": "एडिटर"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "came",
+    "en2": "came",
+    "hi1": "आए",
+    "hi2": "आए"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "schools",
+    "en2": "schools",
+    "hi1": "स्कूलों",
+    "hi2": "स्कूलों"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "program",
+    "en2": "program",
+    "hi1": "कार्यक्रम",
+    "hi2": "कार्यक्रम"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "once",
+    "en2": "once",
+    "hi1": "एकबार",
+    "hi2": "एकबार"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "issue",
+    "en2": "issue",
+    "hi1": "समस्या",
+    "hi2": "समस्या"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "social",
+    "en2": "social",
+    "hi1": "सोशल",
+    "hi2": "सोशल"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "germany",
+    "en2": "germany",
+    "hi1": "जर्मनी",
+    "hi2": "जर्मनी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "production",
+    "en2": "production",
+    "hi1": "उत्पादन",
+    "hi2": "उत्पादन"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "male",
+    "en2": "male",
+    "hi1": "पुरूष",
+    "hi2": "पुरूष"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "awards",
+    "en2": "awards",
+    "hi1": "पुरस्कार",
+    "hi2": "पुरस्कार"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "points",
+    "en2": "points",
+    "hi1": "अंक",
+    "hi2": "अंक"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "similar",
+    "en2": "similar",
+    "hi1": "समान",
+    "hi2": "समान"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "professional",
+    "en2": "professional",
+    "hi1": "पेशेवर",
+    "hi2": "पेशेवर"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "say",
+    "en2": "say",
+    "hi1": "कह",
+    "hi2": "कह"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "background",
+    "en2": "background",
+    "hi1": "पृष्ठभूमि",
+    "hi2": "पृष्ठभूमि"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "enough",
+    "en2": "enough",
+    "hi1": "पर्याप्त",
+    "hi2": "पर्याप्त"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "lead",
+    "en2": "lead",
+    "hi1": "सीसे",
+    "hi2": "सीसे"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "common",
+    "en2": "common",
+    "hi1": "आम",
+    "hi2": "आम"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "overlap",
+    "en2": "overlap",
+    "hi1": "ओवरलैप",
+    "hi2": "ओवरलैप"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "data",
+    "en2": "data",
+    "hi1": "आंकड़ा",
+    "hi2": "आंकड़ा"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "color",
+    "en2": "color",
+    "hi1": "रंग",
+    "hi2": "रंग"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "better",
+    "en2": "better",
+    "hi1": "बेहतर",
+    "hi2": "बेहतर"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "person",
+    "en2": "person",
+    "hi1": "व्यक्ति",
+    "hi2": "व्यक्ति"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "services",
+    "en2": "services",
+    "hi1": "सेवाएं",
+    "hi2": "सेवाएं"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "bgcolor",
+    "en2": "bgcolor",
+    "hi1": "bgcolor",
+    "hi2": "bgcolor"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "museum",
+    "en2": "museum",
+    "hi1": "संग्रहालय",
+    "hi2": "संग्रहालय"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "battle",
+    "en2": "battle",
+    "hi1": "बैटल",
+    "hi2": "बैटल"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "went",
+    "en2": "went",
+    "hi1": "गई",
+    "hi2": "गई"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "sports",
+    "en2": "sports",
+    "hi1": "खेल",
+    "hi2": "खेल"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "currently",
+    "en2": "currently",
+    "hi1": "फिलहाल",
+    "hi2": "फिलहाल"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "hall",
+    "en2": "hall",
+    "hi1": "हॉल",
+    "hi2": "हॉल"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "buildings",
+    "en2": "buildings",
+    "hi1": "इमारतें",
+    "hi2": "इमारतें"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "historic",
+    "en2": "historic",
+    "hi1": "ऐतिहासिक",
+    "hi2": "ऐतिहासिक"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "date",
+    "en2": "date",
+    "hi1": "तिथि",
+    "hi2": "तिथि"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "deleted",
+    "en2": "deleted",
+    "hi1": "मिटाया",
+    "hi2": "मिटाया"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "considered",
+    "en2": "considered",
+    "hi1": "माना",
+    "hi2": "माना"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "change",
+    "en2": "change",
+    "hi1": "बदलें",
+    "hi2": "बदलें"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "location",
+    "en2": "location",
+    "hi1": "स्थान",
+    "hi2": "स्थान"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "must",
+    "en2": "must",
+    "hi1": "जरूर",
+    "hi2": "जरूर"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "yes",
+    "en2": "yes",
+    "hi1": "यस",
+    "hi2": "यस"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "our",
+    "en2": "our",
+    "hi1": "हमारी",
+    "hi2": "हमारी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "southern",
+    "en2": "southern",
+    "hi1": "दक्षिणी",
+    "hi2": "दक्षिणी"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "least",
+    "en2": "least",
+    "hi1": "तनिक",
+    "hi2": "तनिक"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "lost",
+    "en2": "lost",
+    "hi1": "खोया",
+    "hi2": "खोया"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "something",
+    "en2": "something",
+    "hi1": "कुछ",
+    "hi2": "कुछ"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "review",
+    "en2": "review",
+    "hi1": "पुनर्विलोकन",
+    "hi2": "पुनर्विलोकन"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "together",
+    "en2": "together",
+    "hi1": "साथ",
+    "hi2": "साथ"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "robert",
+    "en2": "robert",
+    "hi1": "रॉबर्ट",
+    "hi2": "रॉबर्ट"
+  },
+  {
+    "type": "cross_lingual",
+    "en1": "fact",
+    "en2": "fact",
+    "hi1": "फैक्ट",
+    "hi2": "फैक्ट"
+  }
+]

@@ -30,7 +30,7 @@ print("Loading Glove (English reference)...")
 glove = api.load("glove-wiki-gigaword-100")
 
 print("Loading H4 (Hindi Guardrail)...")
-h4 = KeyedVectors.load(os.path.join(MODELS_DIR, "H4_cp_cle.kv"))
+h4 = KeyedVectors.load(os.path.join(MODELS_DIR, "H5_compressed.kv"))
 
 print("Loading bilingual dictionary...")
 dictionary = {}
@@ -148,7 +148,7 @@ def validate_sentence(english, hindi_translation, threshold=0.40, label=None):
 # ── mBERT sentence-level validator ───────────────────────────────────────────
 
 def load_mbert():
-    print("Loading mBERT...")
+    print("\nLoading H5 (Compressed cc.hi.300) model...")
     tok = BertTokenizer.from_pretrained("bert-base-multilingual-cased")
     mdl = BertModel.from_pretrained("bert-base-multilingual-cased")
     mdl.eval()

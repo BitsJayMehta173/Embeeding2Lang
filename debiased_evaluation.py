@@ -305,15 +305,17 @@ def main():
     # Load remaining models
     h2_model = FastText.load(os.path.join(MODELS_DIR, "H2_native.bin"))
     h3_model = FastText.load(os.path.join(MODELS_DIR, "H3_pseudo.bin"))
+    h5_kv    = KeyedVectors.load(os.path.join(MODELS_DIR, "H5_compressed.kv"))
 
     # Evaluate
     print("\nRunning evaluations...")
     r_h2 = evaluate(h2_model, test_pairs, "H2 (Native FT, same corpus)", is_kv=False)
     r_h3 = evaluate(h3_model, test_pairs, "H3 (Pseudo-Context)",          is_kv=False)
     r_h4 = evaluate(h4_kv,    test_pairs, "H4 (CP-CLE, our model)",       is_kv=True)
+    r_h5 = evaluate(h5_kv,    test_pairs, "H5 (Compressed)",       is_kv=True)
     r_cc = evaluate(cc_kv,    test_pairs, "cc.hi.300 (300-dim reference)", is_kv=True)
 
-    results = [r for r in [r_h2, r_h3, r_h4, r_cc] if r]
+    results = [r for r in [r_h2, r_h3, r_h4, r_h5, r_cc] if r]
 
     # Print table
     print("\n" + "=" * 72)
@@ -334,17 +336,27 @@ def main():
         ))
     print("-" * 72)
 
-    if r_h2 and r_h4:
-        print(f"\n  Fair comparison (same data, H2 vs H4):")
-        print(f"    Gap gain : {r_h4['gap'] - r_h2['gap']:+.3f}")
-        print(f"    F1 gain  : {r_h4['f1']  - r_h2['f1']:+.3f}")
-        print(f"    Acc gain : {r_h4['accuracy'] - r_h2['accuracy']:+.3f}")
+    if r_h2 and r_h5:
+        print(f"\n  Fair comparison (same data constraint vs global alignment, H2 vs H5):")
+        print(f"    Gap gain : {r_h5['gap'] - r_h2['gap']:+.3f}")
+        print(f"    F1 gain  : {r_h5['f1']  - r_h2['f1']:+.3f}")
+        print(f"    Acc gain : {r_h5['accuracy'] - r_h2['accuracy']:+.3f}")
 
     # Plots
     plot_all(results, os.path.join(RESULTS_DIR, "Debiased_v2"))
 
     # Save
-    out = [{k: v for k, v in r.items() if k not in ("pos_sims","neg_sims")} for r in results]
+    out = []
+    for r in results:
+        clean_r = {}
+        for k, v in r.items():
+            if k not in ("pos_sims","neg_sims"):
+                if isinstance(v, (np.float32, np.float64, np.number)):
+                    clean_r[k] = float(v)
+                else:
+                    clean_r[k] = v
+        out.append(clean_r)
+
     with open(os.path.join(RESULTS_DIR, "debiased_results_v2.json"), "w") as f:
         json.dump(out, f, indent=2)
     print("\nDone.")
